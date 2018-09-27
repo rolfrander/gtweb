@@ -4659,3 +4659,10 @@ input, select, textarea {
 		}
 
 	}
+
+  my-email::after {
+    content: attr(data-domain);
+  }
+  my-email::before {
+    content: attr(data-user);
+  }

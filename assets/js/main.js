@@ -115,6 +115,13 @@
 			window.setTimeout(function() {
 				$body.removeClass('is-preload');
 			}, 100);
+
+			$("my-email").each(function(index, element) {
+
+				var user=$(element).attr("data-user");
+				var dom =$(element).attr("data-domain");
+				element.outerHTML = "<a href=\"mailto:"+user+"@"+dom+"\">"+user+"@"+dom+"</a>";
+			})
 		});
 
 	// Scrolly.
