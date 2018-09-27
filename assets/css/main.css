@@ -1,6 +1,13 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Merriweather:300,700,300italic,700italic|Source+Sans+Pro:900");
 
+@font-face {
+    font-family: 'TrashHand';
+    src: url('../fonts/TrashHand-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 /*
 	Massively by HTML5 UP
 	html5up.net | @ajlkn
@@ -3360,6 +3367,7 @@ input, select, textarea {
 
 		#intro h1 {
 			font-size: 5rem;
+			font-family: "TrashHand";
 			line-height: 1;
 		}
 
@@ -3539,7 +3547,7 @@ input, select, textarea {
 			border-style: solid;
 			border-color: #ffffff;
 			border-width: 5px !important;
-			font-family: "Source Sans Pro", Helvetica, sans-serif;
+			font-family: "TrashHand", serif;
 			font-size: 2.25rem;
 			font-weight: 900;
 			letter-spacing: 0.075em;
