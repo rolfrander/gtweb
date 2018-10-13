@@ -1,0 +1,20 @@
+<nav id="nav">
+  <ul class="links">
+    {{ $currentPage := . }}
+    {{ range .Site.Menus.main }}
+      <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+        <a href="{{ .URL }}">{{ .Name }}</a>
+      </li>
+    {{ end }}
+  </ul>
+  <ul class="icons">
+    {{ with .Site.Params }}
+      {{ if .facebook }}
+      <li><a href="https://www.facebook.com/{{ .facebook }}/" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+      {{ end }}
+      {{ if .instagram }}
+      <li><a href="https://www.instagram.com/{{ .instagram }}/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+      {{ end }}
+    {{ end }}
+  </ul>
+</nav>

@@ -1,0 +1,14 @@
+{{ define "main" }}
+<section class="post">
+<header class="major">
+  <h1>{{ .Title }}</h1>
+  <p>{{ .Page.Params.description }}</p>
+</header>
+{{ if .Page.Params.bilde}}
+<div class="image main">
+<img src="{{.Page.Params.bilde}}">
+</div>
+{{ end }}
+{{ .Content }}
+</section>
+{{ end }}

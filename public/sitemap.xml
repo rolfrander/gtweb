@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://godliatrasop.no/categories.html</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://godliatrasop.no/</loc>
+  </url>
+  
+  <url>
+    <loc>https://godliatrasop.no/bli_medlem.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://godliatrasop.no/loppemarked.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://godliatrasop.no/medlemmer.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://godliatrasop.no/korpset.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://godliatrasop.no/tags.html</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://godliatrasop.no/terminliste.html</loc>
+  </url>
+  
+</urlset>

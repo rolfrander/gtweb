@@ -1,0 +1,37 @@
+{{ define "intro"}}
+<div id="intro">
+  <img src="images/logo.png" alt="GT-logo" />
+  <h1>{{.Title}}</h1>
+  <p>{{ .Params.description }}</p>
+  <ul class="actions">
+    <li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
+  </ul>
+</div>
+{{ end}}
+
+{{ define "main" }}
+<section class="post featured">
+  <header class="major">
+    {{ .Content }}
+  </header>
+  {{ if .Page.Params.bilde}}
+  <div class="image main"><img src="{{.Page.Params.bilde}}"></div>
+  {{ end }}
+</section>
+<section class="posts">
+  {{ range .Pages}}
+    {{ if not .Params.excludeFirstPage}}
+    <article>
+      <header><h2><a href="{{.URL}}">{{.Title}}</a></h2></header>
+      {{ if .Params.forsidebilde -}}
+      <a href="{{.URL}}" class="image fit"><img src="{{.Params.forsidebilde}}"></a>
+      {{- end }}
+      <p>{{ .Params.description }}</p>
+      <ul class="actions special">
+        <li><a href="{{.URL}}" class="button">{{.Title}}</a></li>
+      </ul>
+    </article>
+    {{ end }}
+  {{ end }}
+</section>
+{{ end }}

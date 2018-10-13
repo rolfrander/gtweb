@@ -1,0 +1,22 @@
+baseURL: 'https://godliatrasop.no/'
+languageCode: no-no
+title: Godlia/Trasop skolers musikkorps
+theme: massively
+googleAnalytics: UA-125464962-1
+relativeURLs: 'true'
+
+params:
+  facebook: GodliaTrasop-Musikkorps-135375550518503
+  instagram: godliatrasop_msk
+
+sectionPagesMenu: main
+
+uglyurls: true
+
+# menu:
+#   main:
+#     - identifier: _index
+#       name: Godlia/Trasop
+#
+#     - identifier: medlemmer
+#       name: For medlemmer

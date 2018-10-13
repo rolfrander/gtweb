@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>For medlemmer on Godlia/Trasop skolers musikkorps</title>
+    <link>https://godliatrasop.no/medlemmer/</link>
+    <description>Recent content in For medlemmer on Godlia/Trasop skolers musikkorps</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>no-no</language>
+    
+	<atom:link href="https://godliatrasop.no/medlemmer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<head>
+  {{ if (eq .Title .Site.Title) -}}
+  <title>{{ .Site.Title }}</title>
+  {{- else -}}
+  <title>{{ .Title }} - {{ .Site.Title }}</title>
+  {{- end }}
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+  <meta name="description" content="{{ .Description }}">
+  <link rel="stylesheet" href="/assets/css/main.css" />
+  <link rel="icon" href="{{ "images/logo_16.png" | relURL}}" sizes="16x16" />
+  <noscript><link rel="stylesheet" href="/assets/css/noscript.css" /></noscript>
+
+  {{ template "_internal/google_analytics_async.html" . }}
+
+</head>

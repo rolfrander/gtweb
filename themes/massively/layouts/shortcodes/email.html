@@ -1,0 +1,5 @@
+{{ if .IsNamedParams }}
+<my-email data-user="{{.Get "user"}}" data-domain="{{.Get "domain"}}">@</my-email>
+{{ else  }}
+<my-email data-user="{{.Get 0}}" data-domain="godliatrasop.no">@</my-email>
+{{ end }}

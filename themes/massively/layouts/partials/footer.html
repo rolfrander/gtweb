@@ -1,0 +1,45 @@
+<!-- Footer -->
+  <footer id="footer">
+    <section class="split contact">
+      <section class="alt">
+        <h3>Addresse</h3>
+        <p>Postboks 72<br />
+        0671 Oslo</p>
+      </section>
+      <section>
+        <h3>Org.Nr</h3>
+        <p><a href="https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=971284676">971 284 676</a></p>
+      </section>
+      <section>
+        <h3>Epost</h3>
+        <p><my-email data-user="styret" data-domain="godliatrasop.no">@</my-email></p>
+      </section>
+      <section>
+        <h3>#SoMe</h3>
+        <ul class="icons alt">
+          {{ with .Site.Params }}
+            {{ if .facebook }}
+            <li><a href="https://www.facebook.com/{{ .facebook }}/" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
+            {{ end }}
+            {{ if .instagram }}
+            <li><a href="https://www.instagram.com/{{ .instagram }}/" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
+            {{ end }}
+          {{ end }}
+        </ul>
+      </section>
+    </section>
+  </footer>
+
+
+<!-- Copyright -->
+<div id="copyright">
+  <ul><li>&copy; {{ .Site.Title }}</li><li>Design bygger på mal fra: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li></ul>
+</div>
+
+<script src="/assets/js/jquery.min.js"></script>
+<script src="/assets/js/jquery.scrollex.min.js"></script>
+<script src="/assets/js/jquery.scrolly.min.js"></script>
+<script src="/assets/js/browser.min.js"></script>
+<script src="/assets/js/breakpoints.min.js"></script>
+<script src="/assets/js/util.js"></script>
+<script src="/assets/js/main.js"></script>
