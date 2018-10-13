@@ -11,7 +11,7 @@ params:
 
 sectionPagesMenu: main
 
-uglyurls: true
+# uglyurls: true
 
 # menu:
 #   main:

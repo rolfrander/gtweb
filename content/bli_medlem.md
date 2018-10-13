@@ -36,6 +36,7 @@ Det å spille i korps skal være en aktivitet for alle, både lærerikt og hygge
 Noen av musikantene har egne instrumenter, men de aller fleste låner av korpset. Vi forsøker så langt det er mulig å etterkomme musikantenes instrumentønsker.
 
 Korpsets musikanter spiller bl.a.:
+
 - Fløyte
 - Klarinett
 - Horn

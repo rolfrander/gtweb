@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://godliatrasop.no/categories.html</loc>
+    <loc>https://godliatrasop.no/categories/</loc>
     <priority>0</priority>
   </url>
   
@@ -12,28 +12,28 @@
   </url>
   
   <url>
-    <loc>https://godliatrasop.no/bli_medlem.html</loc>
+    <loc>https://godliatrasop.no/bli_medlem/</loc>
   </url>
   
   <url>
-    <loc>https://godliatrasop.no/loppemarked.html</loc>
+    <loc>https://godliatrasop.no/loppemarked/</loc>
   </url>
   
   <url>
-    <loc>https://godliatrasop.no/medlemmer.html</loc>
+    <loc>https://godliatrasop.no/medlemmer/</loc>
   </url>
   
   <url>
-    <loc>https://godliatrasop.no/korpset.html</loc>
+    <loc>https://godliatrasop.no/korpset/</loc>
   </url>
   
   <url>
-    <loc>https://godliatrasop.no/tags.html</loc>
+    <loc>https://godliatrasop.no/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://godliatrasop.no/terminliste.html</loc>
+    <loc>https://godliatrasop.no/terminliste/</loc>
   </url>
   
 </urlset>
