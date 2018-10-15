@@ -11,7 +11,9 @@ bilde: /images/marsjering.jpg
 
 excludeFirstPage: true
 
-script: /assets/js/medlem.js
+script:
+ - /assets/js/medlem.js
+ - https://www.google.com/recaptcha/api.js
 ---
 
 Godlia-Trasop musikkorps består av ca. 60 musikkglade barn fordelt på aspirantkorps, juniorkorps og hovedkorps.
@@ -26,6 +28,8 @@ Meld deg inn i korpset hvis du vil:
 - delta på seminarer og korpsturer
 
 {{<button link="#form" tekst="trykk her for innmeldingsskjema" >}}
+
+<div class="g-recaptcha" data-sitekey="6LeYE3UUAAAAAI30gDamV1G6fmxH5tvu6Etok0-M"></div>
 
 ## Hvordan er det å gå i korps?
 
