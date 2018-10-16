@@ -26,6 +26,22 @@
 			overflow: scroll;
 			display: none;
 		}
+		div#result, div#feil {
+			position: fixed;
+			width: 50%;
+			height: 50%;
+			top: 25%;
+			left: 25%;
+			border: 4px solid black;
+			z-index: 15;
+			background: white;
+			padding: 1em;
+			display: none;
+			text-align: center;
+		}
+		span#feilkode {
+			font-family: "Source Sans Pro", Helvetica, sans-serif;
+		}
 		table.headerleft th {
 			width: 1%;
 			white-space: nowrap;
@@ -84,27 +100,27 @@
 						<h3>Musikant</h3>
 						<table class="headerleft">
 							<tr>
-								<th><label for="m_navn">For- og mellomnavn</label></th>
-								<td><input type="text" name="m_navn" id="m_navn"></td>
+								<th><label for="navn">For- og mellomnavn</label></th>
+								<td><input type="text" name="navn" id="navn"></td>
 							</tr>
 							<tr>
-								<th><label for="m_etternavn">Etternavn</label></th>
-								<td><input type="text" name="m_etternavn" id="m_etternavn"></td>
+								<th><label for="etternavn">Etternavn</label></th>
+								<td><input type="text" name="etternavn" id="etternavn"></td>
 							</tr>
 							<tr>
-								<th><label for="m_adresse">Adresse</label></th>
-								<td><input type="text" name="m_adresse" id="m_adresse"></td>
+								<th><label for="adresse">Adresse</label></th>
+								<td><input type="text" name="adresse" id="adresse"></td>
 							</tr>
 							<tr>
-								<th><label for="m_postnr">Postnr</label></th>
+								<th><label for="postnr">Postnr</label></th>
 								<td>
-									<input type="text" maxlength="4" size="4" name="m_postnr" id="m_postnr" oninput="poststed_event(event, 'm_poststed'); return false;">
-									<input type="text" size="20" name="m_poststed" id="m_poststed"  disabled>
+									<input type="text" maxlength="4" size="4" name="postnr" id="postnr" oninput="poststed_event(event, 'poststed'); return false;">
+									<input type="text" size="20" name="poststed" id="poststed"  disabled>
 								</td>
 							</tr>
 							<tr>
-								<th><label for="m_tlf">Telefon</label></th>
-								<td><input type="tlf" name="m_tlf" id="m_tlf"></td>
+								<th><label for="tlf">Telefon</label></th>
+								<td><input type="tlf" name="tlf" id="tlf"></td>
 							</tr>
 							<tr><th colspan="2">Ønsket instrument</th></tr>
 							<tr>
@@ -145,7 +161,7 @@
 							<tr>
 								<th><label for="f1_postnr">Postnr</label></th>
 								<td>
-									<input type="text" maxlength="4" size="4" name="f1_postnr" id="f1_postnr" oninput="poststed_event(event, 'm_poststed'); return false;">
+									<input type="text" maxlength="4" size="4" name="f1_postnr" id="f1_postnr" oninput="poststed_event(event, 'f1_poststed'); return false;">
 									<input type="text" size="20" name="f1_poststed" id="f1_poststed"  disabled>
 								</td>
 							</tr>
@@ -175,16 +191,30 @@
 							<tr>
 								<th><label for="f2_postnr">Postnr</label></th>
 								<td>
-									<input type="text" maxlength="4" size="4" name="f1_postnr" id="f1_postnr" oninput="poststed_event(event, 'm_poststed'); return false;">
-									<input type="text" size="20" name="f1_poststed" id="f1_poststed"  disabled>
+									<input type="text" maxlength="4" size="4" name="f2_postnr" id="f2_postnr" oninput="poststed_event(event, 'f2_poststed'); return false;">
+									<input type="text" size="20" name="f2_poststed" id="f2_poststed"  disabled>
 								</td>
 							</tr>
 						</table>
-						<input type="button" value="Send skjema" onclick="nytt_medlem(); return false;">
-						<input type="button" value="Avbryt" onclick="hide('div#form'); return false;" >
+						<p id="feilmeldinger"/>
+						<p>
+							<input type="button" value="Send skjema" onclick="nytt_medlem(); return false;">
+							<input type="button" value="Avbryt" onclick="hide('div#form'); return false;" >
+						</p>
 					</form>
 				</div>
 
+				<div id="result">
+					<p>Takk for din registrering, søknads-id er <span id="soknadsid"/></p>
+					<p>Hvis du lurer på noe, ta kontakt med <my-email data-user="medlem" data-domain="godliatrasop.no">@</my-email></p>
+					<input type="button" value="Lukk" onclick="hide('div#result'); return false;" >
+				</div>
+
+				<div id="feil">
+					<p>Det skjedde dessverre en feil ved registrering, ta kontakt med <my-email data-user="medlem" data-domain="godliatrasop.no">@</my-email> for mer info</p>
+					<p>Feilkode: <span id="feilkode"/></p>
+					<input type="button" value="Lukk" onclick="hide('div#feil'); return false;" >
+				</div>
 				<!-- Main -->
 					<div id="main">
 

@@ -4666,3 +4666,46 @@ input, select, textarea {
   my-email::before {
     content: attr(data-user);
   }
+
+/* dialogbokser og feilmeldinger */
+div#form {
+  position: fixed;
+  width: 80%;
+  height: 80%;
+  top: 10%;
+  left: 10%;
+  border: 4px solid black;
+  z-index: 10;
+  background: white;
+  padding: 1em;
+  overflow: scroll;
+  display: none;
+}
+div#result, div#feil {
+  position: fixed;
+  width: 50%;
+  height: 50%;
+  top: 25%;
+  left: 25%;
+  border: 4px solid black;
+  z-index: 15;
+  background: white;
+  padding: 1em;
+  display: none;
+  text-align: center;
+}
+span#feilkode {
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+}
+table.headerleft th {
+  width: 1%;
+  white-space: nowrap;
+}
+input[type="text"][size] {
+  width: auto;
+  display: inline !important;
+}
+input[disabled] {
+  display: inline !important;
+  border: 0 !important;
+}

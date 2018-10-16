@@ -29,8 +29,6 @@ Meld deg inn i korpset hvis du vil:
 
 {{<button link="#form" tekst="trykk her for innmeldingsskjema" >}}
 
-<div class="g-recaptcha" data-sitekey="6LeYE3UUAAAAAI30gDamV1G6fmxH5tvu6Etok0-M"></div>
-
 ## Hvordan er det å gå i korps?
 
 Korpset har opptak en gang i året, på høsten.
@@ -76,3 +74,139 @@ Vi har vår dugnadinnsats konsentrert rundt et årlig loppemarked i midten av ok
 - bidra med salg under selve loppemarkedet
 
 Loppemarkedene betyr litt arbeidsinnsats fra foreldre, men er aller mest en sosial og hyggelig begivenhet, hvor du blir bedre kjent med barnas venner og foreldrene deres. I tillegg til loppemarked har vi ansvaret for 17. mai arrangementet på Trasop skole annet hvert år. La ikke redselen for dugnadsarbeid stå i veien for ditt barns musikkglede, for du har intet å frykte. Vi har det veldig gøy.
+
+<div id="form">
+  <h2>Innmeldingsskjema</h2>
+  <form>
+    <input type="hidden" name="xssid" value="foo">
+    <datalist id="instrumenter">
+      <option value="Fløyte"/>
+      <option value="Klarinett"/>
+      <option value="Saxofon"/>
+      <option value="Horn"/>
+      <option value="Kornett/Trompet"/>
+      <option value="Trombone"/>
+      <option value="Baryton"/>
+      <option value="Tuba"/>
+      <option value="Slagverk"/>
+      <option value="(ingen)"/>
+    </datalist>
+    <h3>Musikant</h3>
+    <table class="headerleft">
+      <tr>
+        <th><label for="navn">For- og mellomnavn</label></th>
+        <td><input type="text" name="navn" id="navn"></td>
+      </tr>
+      <tr>
+        <th><label for="etternavn">Etternavn</label></th>
+        <td><input type="text" name="etternavn" id="etternavn"></td>
+      </tr>
+      <tr>
+        <th><label for="adresse">Adresse</label></th>
+        <td><input type="text" name="adresse" id="adresse"></td>
+      </tr>
+      <tr>
+        <th><label for="postnr">Postnr</label></th>
+        <td>
+          <input type="text" maxlength="4" size="4" name="postnr" id="postnr" oninput="poststed_event(event, 'poststed'); return false;">
+          <input type="text" size="20" name="poststed" id="poststed"  disabled>
+        </td>
+      </tr>
+      <tr>
+        <th><label for="tlf">Telefon</label></th>
+        <td><input type="tlf" name="tlf" id="tlf"></td>
+      </tr>
+      <tr><th colspan="2">Ønsket instrument</th></tr>
+      <tr>
+        <th><label for="instr1">Førstevalg</label></th>
+        <td><input list="instrumenter" name="instr1" id="instr1"></td>
+      </tr>
+      <tr>
+        <th><label for="instr2">Andrevalg</label></th>
+        <td><input list="instrumenter" name="instr2" id="instr1"></td>
+      </tr>
+      <tr>
+        <th><label for="instr3">Tredjevalg</label></th>
+        <td><input list="instrumenter" name="instr3" id="instr1"></td>
+      </tr>
+    </table>
+    <h3>Foresatt 1</h3>
+    <table class="headerleft">
+      <tr>
+        <th><label for="f1_navn">Fornavn og mellomnavn</label></th>
+        <td><input type="text" name="f1_navn" id="f1_navn"></td>
+      </tr>
+      <tr>
+        <th><label for="f1_etternavn">Etternavn</label></th>
+        <td><input type="text" name="f1_etternavn" id="f1_etternavn"></td>
+      </tr>
+      <tr>
+        <th><label for="f1_epost">Epost</label></th>
+        <td><input type="email" name="f1_epost" id="f1_epost"></td>
+      </tr>
+      <tr>
+        <th><label for="f1_tel">Telefon</label></th>
+        <td><input type="tel" name="f1_tel" id="f1_tel"></td>
+      </tr>
+      <tr>
+        <th><label for="f1_adresse">Adresse (hvis forskjellig)</label></th>
+        <td><input type="text" name="f1_adresse" id="f1_adresse"></td>
+      </tr>
+      <tr>
+        <th><label for="f1_postnr">Postnr</label></th>
+        <td>
+          <input type="text" maxlength="4" size="4" name="f1_postnr" id="f1_postnr" oninput="poststed_event(event, 'f1_poststed'); return false;">
+          <input type="text" size="20" name="f1_poststed" id="f1_poststed"  disabled>
+        </td>
+      </tr>
+    </table>
+    <h3>Foresatt 2</h3>
+    <table class="headerleft">
+      <tr>
+        <th><label for="f2_navn">Fornavn og mellomnavn</label></th>
+        <td><input type="text" name="f2_navn" id="f2_navn"></td>
+      </tr>
+      <tr>
+        <th><label for="f2_etternavn">Etternavn</label></th>
+        <td><input type="text" name="f2_etternavn" id="f2_etternavn"></td>
+      </tr>
+      <tr>
+        <th><label for="f2_epost">Epost</label></th>
+        <td><input type="email" name="f2_epost" id="f2_epost"></td>
+      </tr>
+      <tr>
+        <th><label for="f2_tel">Telefon</label></th>
+        <td><input type="tel" name="f2_tel" id="f2_tel"></td>
+      </tr>
+      <tr>
+        <th><label for="f2_adresse">Adresse (hvis forskjellig)</label></th>
+        <td><input type="text" name="f2_adresse" id="f2_adresse"></td>
+      </tr>
+      <tr>
+        <th><label for="f2_postnr">Postnr</label></th>
+        <td>
+          <input type="text" maxlength="4" size="4" name="f2_postnr" id="f2_postnr" oninput="poststed_event(event, 'f2_poststed'); return false;">
+          <input type="text" size="20" name="f2_poststed" id="f2_poststed"  disabled>
+        </td>
+      </tr>
+    </table>
+    <p id="feilmeldinger"/>
+    <p>
+      <div class="g-recaptcha" data-sitekey="6LeYE3UUAAAAAI30gDamV1G6fmxH5tvu6Etok0-M"></div>
+      <input type="button" value="Send skjema" onclick="nytt_medlem(); return false;">
+      <input type="button" value="Avbryt" onclick="hide('div#form'); return false;" >
+    </p>
+  </form>
+</div>
+
+<div id="result">
+  <p>Takk for din registrering, søknads-id er <span id="soknadsid"/></p>
+  <p>Hvis du lurer på noe, ta kontakt med <my-email data-user="medlem" data-domain="godliatrasop.no">@</my-email></p>
+  <input type="button" value="Lukk" onclick="hide('div#result'); return false;" >
+</div>
+
+<div id="feil">
+  <p>Det skjedde dessverre en feil ved registrering, ta kontakt med <my-email data-user="medlem" data-domain="godliatrasop.no">@</my-email> for mer info</p>
+  <p>Feilkode: <span id="feilkode"/></p>
+  <input type="button" value="Lukk" onclick="hide('div#feil'); return false;" >
+</div>
