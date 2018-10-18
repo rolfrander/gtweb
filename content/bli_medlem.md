@@ -192,7 +192,7 @@ Loppemarkedene betyr litt arbeidsinnsats fra foreldre, men er aller mest en sosi
     </table>
     <p id="feilmeldinger"/>
     <p>
-      <div class="g-recaptcha" data-sitekey="6LeYE3UUAAAAAI30gDamV1G6fmxH5tvu6Etok0-M"></div>
+      <div class="g-recaptcha" data-sitekey="6Le_rnUUAAAAAHQ41LAAGqwVqlSAYMTo_01HDRel"></div>
       <input type="button" value="Send skjema" onclick="nytt_medlem(); return false;">
       <input type="button" value="Avbryt" onclick="hide('div#form'); return false;" >
     </p>
