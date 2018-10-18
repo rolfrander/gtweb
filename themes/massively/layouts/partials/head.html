@@ -11,17 +11,4 @@
   <link rel="icon" href="{{ "images/logo_16.png" | relURL}}" sizes="16x16" />
   <noscript><link rel="stylesheet" href="/assets/css/noscript.css" /></noscript>
 
-  {{ template "_internal/google_analytics_async.html" . }}
-
-  <script src="/assets/js/jquery.min.js"></script>
-  <script src="/assets/js/jquery.scrollex.min.js"></script>
-  <script src="/assets/js/jquery.scrolly.min.js"></script>
-  <script src="/assets/js/browser.min.js"></script>
-  <script src="/assets/js/breakpoints.min.js"></script>
-  <script src="/assets/js/util.js"></script>
-  <script src="/assets/js/main.js"></script>
-  {{- range .Page.Params.script -}}
-  <script src="{{ . }}"></script>
-  {{- end -}}
-
 </head>

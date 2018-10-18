@@ -5,8 +5,8 @@ menu:
     weight: 30
 
 description: Godlia/Trasop skolers musikkorps er et foreldredrevet musikkorps hvor årsmøtet velger et styre som står for driften av korpset i styreperioden.
-forsidebilde: /images/marsjering.jpg
-bilde: /images/marsjering.jpg
+forsidebilde: /images/musician_trumpet_fingers_music-878660.jpg
+bilde: /images/musician_trumpet_fingers_music-878660.jpg
 
 ---
 

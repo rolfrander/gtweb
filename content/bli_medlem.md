@@ -6,8 +6,8 @@ menu:
     name: Bli medlem
 
 description: Hos oss får du god musikkundervisning, gode venner og mange hyggelige og spennende opplevelser.
-forsidebilde: /images/marsjering.jpg
-bilde: /images/marsjering.jpg
+forsidebilde: /images/marius-masalar-410695-unsplash.jpg
+bilde: /images/marius-masalar-410695-unsplash.jpg
 
 excludeFirstPage: true
 
