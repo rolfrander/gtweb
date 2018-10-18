@@ -127,7 +127,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         }
 
         // Multiple recipients
-        $to = 'medlem@godliatrasop.no'; 
+        $to = 'medlem@godliatrasop.no';
 
         // Subject
         $subject = '[GT] Nytt medlem';
@@ -146,7 +146,10 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         $message = $message . '<tr><td>Postnummer</td><td>' . $_POST["postnr"] . "</td></tr>\n";
         $message = $message . '<tr><td>Poststed</td><td>' . $_POST["poststed"] . "</td></tr>\n";
         $message = $message . '<tr><td>Telefon</td><td>' . $_POST["tlf"] . "</td></tr>\n";
-        $message = $message . '<tr><td colspan="2">Foresatt 1</td><td>\n';
+        $message = $message . '<tr><td>Instrument førstevalg</td><td>' . $_POST["instr1"] . "</td></tr>\n";
+        $message = $message . '<tr><td>Instrument andrevalg</td><td>' . $_POST["instr2"] . "</td></tr>\n";
+        $message = $message . '<tr><td>Instrument tredjevalg</td><td>' . $_POST["instr3"] . "</td></tr>\n";
+        $message = $message . "<tr><th colspan=\"2\">Foresatt 1</td><td>\n";
         $message = $message . '<tr><td>Navn</td><td>' . $_POST["f1_navn"] . "</td></tr>\n";
         $message = $message . '<tr><td>Etternavn</td><td>' . $_POST["f1_etternavn"] . "</td></tr>\n";
         $message = $message . '<tr><td>Adresse</td><td>' . $_POST["f1_adresse"] . "</td></tr>\n";
@@ -154,7 +157,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         $message = $message . '<tr><td>Poststed</td><td>' . $_POST["f1_poststed"] . "</td></tr>\n";
         $message = $message . '<tr><td>Telefon</td><td>' . $_POST["f1_tlf"] . "</td></tr>\n";
         $message = $message . '<tr><td>Epost</td><td>' . $_POST["f1_epost"] . "</td></tr>\n";
-        $message = $message . '<tr><td colspan="2">Foresatt 2</td><td>\n';
+        $message = $message . "<tr><th colspan=\"2\">Foresatt 2</td><td>\n";
         $message = $message . '<tr><td>Navn</td><td>' . $_POST["f2_navn"] . "</td></tr>\n";
         $message = $message . '<tr><td>Etternavn</td><td>' . $_POST["f2_etternavn"] . "</td></tr>\n";
         $message = $message . '<tr><td>Adresse</td><td>' . $_POST["f2_adresse"] . "</td></tr>\n";
@@ -162,9 +165,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         $message = $message . '<tr><td>Poststed</td><td>' . $_POST["f2_poststed"] . "</td></tr>\n";
         $message = $message . '<tr><td>Telefon</td><td>' . $_POST["f2_tlf"] . "</td></tr>\n";
         $message = $message . '<tr><td>Epost</td><td>' . $_POST["f2_epost"] . "</td></tr>\n";
-        $message = $message . '<tr><td>Instrument førstevalg</td><td>' . $_POST["instr1"] . "</td></tr>\n";
-        $message = $message . '<tr><td>Instrument andrevalg</td><td>' . $_POST["instr2"] . "</td></tr>\n";
-        $message = $message . '<tr><td>Instrument tredjevalg</td><td>' . $_POST["instr3"] . "</td></tr>\n";
         $message = $message . '</table>
         </body>
         </html>
@@ -172,11 +172,11 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
         // To send HTML mail, the Content-type header must be set
         $headers[] = 'MIME-Version: 1.0';
-        $headers[] = 'Content-type: text/html; charset=iso-8859-1';
+        $headers[] = 'Content-type: text/html; charset=utf-8';
 
         // Additional headers
         $headers[] = 'To: GT Medlemsansvarlig <medlem@godliatrasop.no>';
-        $headers[] = 'From: '$_POST["f1_navn"].' '$_POST["f1_etternavn"].' <'.$_POST["f1_epost"].'>';
+        $headers[] = 'From: '.$_POST["f1_navn"].' '.$_POST["f1_etternavn"].' <'.$_POST["f1_epost"].'>';
 
         // Mail it
         mail($to, $subject, $message, implode("\r\n", $headers));
