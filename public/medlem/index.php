@@ -1,13 +1,15 @@
 <?php
 
+include 'Config.php';
+
 $adjektiv = array("liten", "stor", "grønn", "blid", "fin", "rar", "morsom", "ullen", "sur", "glad");
 $substantiv = array("hest", "bil", "telefon", "vegg", "stol", "ovn", "lampe", "blokk", "boks", "sokk");
 
 function feilkode($feilmelding) 
 {
     global $adjektiv, $substantiv;
-    $a = $adjektiv[random_int(0, count($adjektiv)-1)];
-    $s = $substantiv[random_int(0, count($substantiv)-1)];
+    $a = $adjektiv[rand(0, count($adjektiv)-1)];
+    $s = $substantiv[rand(0, count($substantiv)-1)];
     error_log("feilkode [".$a." ".$s."]: ".$feilmelding);
     header('X-GT-Error: '.$a." ".$s);
 }
@@ -17,6 +19,34 @@ header('Access-Control-Allow-Origin: *');
 header('Access-Control-Expose-Headers: X-GT-Error');
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
+
+#
+# Verify captcha
+$post_data = http_build_query(
+    array(
+        'secret' => Config::RECAPTCHA_SECRET,
+        'response' => $_POST['g-recaptcha-response'],
+        'remoteip' => $_SERVER['REMOTE_ADDR']
+    )
+);
+$opts = array('http' =>
+    array(
+        'method'  => 'POST',
+        'header'  => 'Content-type: application/x-www-form-urlencoded',
+        'content' => $post_data
+    )
+);
+$context  = stream_context_create($opts);
+$response = file_get_contents('https://www.google.com/recaptcha/api/siteverify', false, $context);
+$result = json_decode($response);
+if (!$result->success) {
+        http_response_code(200);
+        header('Content-Type: application/json');
+        $ret = [ 'feil' => array("er du en person?"), 'feilfelt' => array() ];
+        echo json_encode($ret);
+return;
+}
+
     $felt = array("navn", "etternavn", "adresse", "postnr", "poststed", "tlf", "f1_navn", "f1_etternavn", "f1_adresse", "f1_postnr", "f1_poststed", "f1_tlf", "f1_epost", "f2_navn", "f2_etternavn", "f2_adresse", "f2_postnr", "f2_poststed", "f2_tlf", "f2_epost", "instr1", "instr2", "instr3");
     
     $feil = array();
@@ -62,8 +92,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                     }, $felt));
     
         $server = "localhost";
-        $user = "godliruv_web";
-        $pass = "web";
+        $user = Config::DB_USER;
+        $pass = Config::DB_PASSWORD;
         $db = "godliruv_soknader";
 
         $dsn = "mysql:host=$server;dbname=$db;charset=utf8mb4";
@@ -89,7 +119,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                 echo json_encode($ret);
             } else {
                 $err = $stmt->errorInfo();
-                $k=feilkode("error executing transaction: ".err[0]." ".err[1]." ".err[2]);
+                //$k=feilkode("error executing transaction: ".err[0]." ".err[1]." ".err[2]);
+                $k=feilkode("error executing transaction: ".err);
                 http_response_code(500);
             }
         } catch (\PDOException $e) {
@@ -99,7 +130,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     }
     
 } elseif($_SERVER['REQUEST_METHOD'] == 'GET') {
-    ?><h1>hello world!</h1><?php
+    ?><h1><?php echo Config::HELLO ?></h1><?php
 } else {
     http_response_code(405);
 }
