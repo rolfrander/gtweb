@@ -1,4 +1,5 @@
 function nytt_medlem() {
+  document.body.style.cursor='wait';
   $("div#form p#feilmeldinger").empty();
   $("div#form label").css("color", "");
   var data = $('div#form form').serialize();
@@ -23,6 +24,7 @@ function nytt_medlem() {
            $("div#form label[for="+response.feilfelt[i]+"]").css("color", "red");
          }
        }
+       document.body.style.cursor='default';
      },
     error: function(xhr) {
       var feilkode = xhr.getResponseHeader('X-GT-Error');
@@ -34,6 +36,7 @@ function nytt_medlem() {
       $("div#feil span#feilkode").text(feilkode);
       hide("div#form");
       show("div#feil");
+      document.body.style.cursor='default';
     }
   });
 }
