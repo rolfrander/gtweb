@@ -20,12 +20,12 @@ Godlia-Trasop musikkorps består av ca. 60 musikkglade barn fordelt på aspirant
 
 Meld deg inn i korpset hvis du vil:
 
-- lære å spille et instrument
-- blir god med dyktige dirigenter og instruktører
-- ha det gøy med andre
-- spille med andre
-- få enetimer med instruktør
-- delta på seminarer og korpsturer
+- Lære å spille et instrument.
+- Bli god med dyktige dirigenter og instruktører. Alle våre instruktører er profesjonelle musikere og pedagoger.
+- Ha det gøy med andre. I et skolekorps er alle med i det samme fellesskapet, fra de som nettopp har begynt til 19-åringene som har vært med lenge.
+- Spille med andre.
+- Få enetimer med instruktør.
+- Delta på seminarer og korpsturer.
 
 {{<button link="#form" tekst="trykk her for innmeldingsskjema" >}}
 
@@ -45,12 +45,12 @@ Korpsets musikanter spiller bl.a.:
 
 - Fløyte
 - Klarinett
+- Saxofon
 - Horn
 - Kornett
+- Trombone
 - Baryton
 - Tuba
-- Trombone
-- Saxofon
 - Slagverk (trommer m.m.)
 
 ## Innmelding
@@ -65,7 +65,7 @@ Hvis du lurer på noe kan du ta kontakt med oss på epost
 {{<button link="#form" tekst="trykk her for innmeldingsskjema" >}}
 
 ## Kjære foreldre
-Kontingent er kr 2000 per halvår, til sammen 4000 kr per år. Merk at eventuell utmelding av korpset må skje før påbegynt semester/halvår. Kontingent for påbegynt halvår refunderes ikke.
+Kontingent er kr 2000 per halvår, til sammen 4000 kr per år. Merk at eventuell utmelding av korpset må skje før påbegynt semester/halvår. Kontingent for påbegynt halvår refunderes ikke. Foreldre må også være korpsvakt noen ganger i løpet av året.
 
 Vi har vår dugnadinnsats konsentrert rundt et årlig loppemarked i midten av oktober, og loppemarked annet hvert år på våren. Foreldreaktiviteter i forbindelse med loppemarkedene er
 
@@ -85,12 +85,12 @@ Loppemarkedene betyr litt arbeidsinnsats fra foreldre, men er aller mest en sosi
       <option value="Saxofon"/>
       <option value="Horn"/>
       <option value="Kornett/Trompet"/>
-      <option value="Trombone"/>
-      <option value="Baryton"/>
+      <option value="Trombone"/>option value="Baryton"/>
       <option value="Tuba"/>
       <option value="Slagverk"/>
       <option value="(ingen)"/>
     </datalist>
+
     <h3>Musikant</h3>
     <table class="headerleft">
       <tr>
@@ -116,7 +116,10 @@ Loppemarkedene betyr litt arbeidsinnsats fra foreldre, men er aller mest en sosi
         <th><label for="tlf">Telefon</label></th>
         <td><input type="tlf" name="tlf" id="tlf"></td>
       </tr>
-      <tr><th colspan="2">Ønsket instrument</th></tr>
+    </table>
+
+    <h3>Ønsket instrument</h3>
+    <table class="headerleft">
       <tr>
         <th><label for="instr1">Førstevalg</label></th>
         <td><input list="instrumenter" name="instr1" id="instr1"></td>
@@ -130,6 +133,7 @@ Loppemarkedene betyr litt arbeidsinnsats fra foreldre, men er aller mest en sosi
         <td><input list="instrumenter" name="instr3" id="instr1"></td>
       </tr>
     </table>
+
     <h3>Foresatt 1</h3>
     <table class="headerleft">
       <tr>
@@ -160,6 +164,7 @@ Loppemarkedene betyr litt arbeidsinnsats fra foreldre, men er aller mest en sosi
         </td>
       </tr>
     </table>
+
     <h3>Foresatt 2</h3>
     <table class="headerleft">
       <tr>
@@ -190,6 +195,9 @@ Loppemarkedene betyr litt arbeidsinnsats fra foreldre, men er aller mest en sosi
         </td>
       </tr>
     </table>
+
+    <h3>Kommentarer eller andre opplysninger</h3>
+    <textarea name="kommentarer" id="kommentarer" maxlength="4096" rows="4"></textarea>
     <p id="feilmeldinger"/>
     <p>
       <div class="g-recaptcha" data-sitekey="6Le_rnUUAAAAAHQ41LAAGqwVqlSAYMTo_01HDRel"></div>

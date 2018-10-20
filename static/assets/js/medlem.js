@@ -5,7 +5,8 @@ function nytt_medlem() {
   var data = $('div#form form').serialize();
   $.ajax({
      type: 'POST',
-     url: "../medlem/",
+     //url: "../medlem/",
+     url: "http://mozart.folkestad-naess.name/~rolfn/medlem/",
      data: data,
      success: function(response) {
        if('id' in response) {

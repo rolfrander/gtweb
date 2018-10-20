@@ -1,13 +1,22 @@
 <?php
 
-include 'Config.php';
 
-$adjektiv = array("liten", "stor", "grønn", "blid", "fin", "rar", "morsom", "ullen", "sur", "glad");
+$success = include 'Config.php';
+if(!$success) {
+    class Config
+    {
+        const DB_USER = 'godliruv_web';
+        const DB_PASSWORD = 'web';
+        const RECAPTCHA_SECRET = null;
+        const HELLO = 'hello world!';
+    }
+}
+$adjektiv = array("liten", "stor", "gul", "blid", "fin", "rar", "morsom", "ullen", "sur", "glad");
 $substantiv = array("hest", "bil", "telefon", "vegg", "stol", "ovn", "lampe", "blokk", "boks", "sokk");
 $felt = array("navn", "etternavn", "adresse", "postnr", "poststed", "tlf",
               "f1_navn", "f1_etternavn", "f1_adresse", "f1_postnr", "f1_poststed", "f1_tlf", "f1_epost",
               "f2_navn", "f2_etternavn", "f2_adresse", "f2_postnr", "f2_poststed", "f2_tlf", "f2_epost",
-              "instr1", "instr2", "instr3");
+              "instr1", "instr2", "instr3", "kommentarer");
 
 function feilkode($feilmelding)
 {
@@ -16,6 +25,12 @@ function feilkode($feilmelding)
     $s = $substantiv[rand(0, count($substantiv)-1)];
     error_log("feilkode [".$a." ".$s."]: ".$feilmelding);
     header('X-GT-Error: '.$a." ".$s);
+}
+
+function tr($f, $v)
+{
+  global $_POST;
+  return '<tr><td>' . $f . '</td><td>' . strip_tags($_POST[$v]) . "</td></tr>\n";
 }
 
 // only for testing...
@@ -28,27 +43,29 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $feilfelt = array();
     $pnrfeil = false;
 
-    #
-    # Verify captcha
-    $post_data = http_build_query(
+    if(Config::RECAPTCHA_SECRET) {
+      #
+      # Verify captcha
+      $post_data = http_build_query(
         array(
-            'secret' => Config::RECAPTCHA_SECRET,
-            'response' => $_POST['g-recaptcha-response'],
-            'remoteip' => $_SERVER['REMOTE_ADDR']
+          'secret' => Config::RECAPTCHA_SECRET,
+          'response' => $_POST['g-recaptcha-response'],
+          'remoteip' => $_SERVER['REMOTE_ADDR']
         )
-    );
-    $opts = array('http' =>
+      );
+      $opts = array('http' =>
         array(
-            'method'  => 'POST',
-            'header'  => 'Content-type: application/x-www-form-urlencoded',
-            'content' => $post_data
+          'method'  => 'POST',
+          'header'  => 'Content-type: application/x-www-form-urlencoded',
+          'content' => $post_data
         )
-    );
-    $context  = stream_context_create($opts);
-    $response = file_get_contents('https://www.google.com/recaptcha/api/siteverify', false, $context);
-    $result = json_decode($response);
-    if (!$result->success) {
+      );
+      $context  = stream_context_create($opts);
+      $response = file_get_contents('https://www.google.com/recaptcha/api/siteverify', false, $context);
+      $result = json_decode($response);
+      if (!$result->success) {
         array_push($feil, "er du en person?");
+      }
     }
 
     if($_POST["navn"]      == "" ||
@@ -107,7 +124,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             $stmt = $conn->prepare($insert_sql);
 
             foreach($felt as $f) {
-                $stmt->bindValue(":".$f, isset($_POST[$f]) ? $_POST[$f] : 'NULL');
+                $stmt->bindValue(":".$f, isset($_POST[$f]) ? strip_tags($_POST[$f]) : 'NULL');
             }
 
             if($stmt->execute()) {
@@ -128,6 +145,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
         // Multiple recipients
         $to = 'medlem@godliatrasop.no';
+        //$to = 'rolfrander@gmail.com';
 
         // Subject
         $subject = '[GT] Nytt medlem';
@@ -140,31 +158,37 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         </head>
         <body>
         <table>';
-        $message = $message . '<tr><td>Navn</td><td>' . $_POST["navn"] . "</td></tr>\n";
-        $message = $message . '<tr><td>Etternavn</td><td>' . $_POST["etternavn"] . "</td></tr>\n";
-        $message = $message . '<tr><td>Adresse</td><td>' . $_POST["adresse"] . "</td></tr>\n";
-        $message = $message . '<tr><td>Postnummer</td><td>' . $_POST["postnr"] . "</td></tr>\n";
-        $message = $message . '<tr><td>Poststed</td><td>' . $_POST["poststed"] . "</td></tr>\n";
-        $message = $message . '<tr><td>Telefon</td><td>' . $_POST["tlf"] . "</td></tr>\n";
-        $message = $message . '<tr><td>Instrument førstevalg</td><td>' . $_POST["instr1"] . "</td></tr>\n";
-        $message = $message . '<tr><td>Instrument andrevalg</td><td>' . $_POST["instr2"] . "</td></tr>\n";
-        $message = $message . '<tr><td>Instrument tredjevalg</td><td>' . $_POST["instr3"] . "</td></tr>\n";
+        $message = $message . tr("Navn", "navn");
+        $message = $message . tr("Etternavn", "etternavn");
+        $message = $message . tr("Adresse", "adresse");
+        $message = $message . tr("Postnummer", "postnr");
+        $message = $message . tr("Poststed", "poststed");
+        $message = $message . tr("Telefon", "tlf");
+        $message = $message . tr("Instrument førstevalg", "instr1");
+        $message = $message . tr("Instrument andrevalg",  "instr2");
+        $message = $message . tr("Instrument tredjevalg", "instr3");
+
         $message = $message . "<tr><th colspan=\"2\">Foresatt 1</td><td>\n";
-        $message = $message . '<tr><td>Navn</td><td>' . $_POST["f1_navn"] . "</td></tr>\n";
-        $message = $message . '<tr><td>Etternavn</td><td>' . $_POST["f1_etternavn"] . "</td></tr>\n";
-        $message = $message . '<tr><td>Adresse</td><td>' . $_POST["f1_adresse"] . "</td></tr>\n";
-        $message = $message . '<tr><td>Postnummer</td><td>' . $_POST["f1_postnr"] . "</td></tr>\n";
-        $message = $message . '<tr><td>Poststed</td><td>' . $_POST["f1_poststed"] . "</td></tr>\n";
-        $message = $message . '<tr><td>Telefon</td><td>' . $_POST["f1_tlf"] . "</td></tr>\n";
-        $message = $message . '<tr><td>Epost</td><td>' . $_POST["f1_epost"] . "</td></tr>\n";
+        $message = $message . tr("Navn",      "f1_navn");
+        $message = $message . tr("Etternavn", "f1_etternavn");
+        $message = $message . tr("Adresse",   "f1_adresse");
+        $message = $message . tr("Postnummer","f1_postnr");
+        $message = $message . tr("Poststed",  "f1_poststed");
+        $message = $message . tr("Telefon",   "f1_tlf");
+        $message = $message . tr("Epost",     "f1_epost");
+
         $message = $message . "<tr><th colspan=\"2\">Foresatt 2</td><td>\n";
-        $message = $message . '<tr><td>Navn</td><td>' . $_POST["f2_navn"] . "</td></tr>\n";
-        $message = $message . '<tr><td>Etternavn</td><td>' . $_POST["f2_etternavn"] . "</td></tr>\n";
-        $message = $message . '<tr><td>Adresse</td><td>' . $_POST["f2_adresse"] . "</td></tr>\n";
-        $message = $message . '<tr><td>Postnummer</td><td>' . $_POST["f2_postnr"] . "</td></tr>\n";
-        $message = $message . '<tr><td>Poststed</td><td>' . $_POST["f2_poststed"] . "</td></tr>\n";
-        $message = $message . '<tr><td>Telefon</td><td>' . $_POST["f2_tlf"] . "</td></tr>\n";
-        $message = $message . '<tr><td>Epost</td><td>' . $_POST["f2_epost"] . "</td></tr>\n";
+        $message = $message . tr("Navn",      "f2_navn");
+        $message = $message . tr("Etternavn", "f2_etternavn");
+        $message = $message . tr("Adresse",   "f2_adresse");
+        $message = $message . tr("Postnummer","f2_postnr");
+        $message = $message . tr("Poststed",  "f2_poststed");
+        $message = $message . tr("Telefon",   "f2_tlf");
+        $message = $message . tr("Epost",     "f2_epost");
+
+        $message = $message . "<tr><th colspan=\"2\">Kommentarer</td><td>\n";
+        $message = $message . tr("Kommentar", "kommentarer");
+
         $message = $message . '</table>
         </body>
         </html>
