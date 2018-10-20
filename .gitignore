@@ -21,5 +21,6 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+public
 public/medlem/Config.php
 public/medlem/error_log
