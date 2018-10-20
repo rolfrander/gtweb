@@ -1,17 +1,4 @@
-RewriteEngine On
-RewriteBase /
-
-# Protect the htaccess file
-<Files .htaccess>
-Order Allow,Deny
-Deny from all
-</Files>
-
-# Protect log.txt
 <Files Config.php>
 Order Allow,Deny
 Deny from all
 </Files>
-
-# Disable directory browsing
-Options All -Indexes
