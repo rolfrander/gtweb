@@ -14,7 +14,8 @@ bilde: /images/musician_trumpet_fingers_music-878660.jpg
 
 Godlia/Trasop skolers musikkorps har tre forskjellige korps:
 
-- Aspirantkorpset er samspilltrening for de aller nyeste medlemmene, det første året de er medlem
+- Aspirantkorpset er samspilltrening for de aller nyeste medlemmene,
+  det første året de er medlem
 - Juniorkorpset er for de som er i sitt andre eller tredje år som medlem
 - Hovedkorpset er for de som har vært medlem i mer enn tre år
 
@@ -28,13 +29,20 @@ De ulike korpsene øver til faste tider hver torsdag:
 
 ## Norges Musikkorps Forbund
 
-Godlia/Trasop skolers musikkorps er medlem av [Norges Musikkorps Forbund](https://musikkorps.no).
+Godlia/Trasop skolers musikkorps er medlem av
+[Norges Musikkorps Forbund](https://musikkorps.no).
 
 ## Grasrotandelen
 
-Du som spiller hos Norsk Tipping kan velge ett lag eller en forening som skal motta syv prosent av det beløpet du spiller for. Merk at grasrotandelen ikke på noen måte går ut over innsatsen eller premien din - du blir ikke belastet noe for å være grasrotgiver. Du trenger Norsk Tippings spillekort for å knytte deg til grasrotandelen. Spillekort får du kjøpt hos kommisjonær, eller du kan bestille det på norsk-tipping.no.
+Du som spiller hos Norsk Tipping kan velge ett lag eller en forening som skal
+motta syv prosent av det beløpet du spiller for. Merk at grasrotandelen ikke på
+noen måte går ut over innsatsen eller premien din - du blir ikke belastet noe
+for å være grasrotgiver. Du trenger Norsk Tippings spillekort for å knytte deg
+til grasrotandelen. Spillekort får du kjøpt hos kommisjonær, eller du kan
+bestille det på norsk-tipping.no.
 
-Vi oppfordrer deg til å støtte oss i Godlia/Trasop musikkorps og takker for ditt bidrag!
+Vi oppfordrer deg til å støtte oss i Godlia/Trasop musikkorps og takker for ditt
+bidrag!
 
 Slik kan du støtte oss:
 

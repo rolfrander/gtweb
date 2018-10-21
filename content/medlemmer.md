@@ -12,7 +12,9 @@ bilde: /images/trumpet.jpg
 
 Har du spørsmål om øvelser eller konserter, ta kontakt med dirigentene
 
-Hvis du ikke kan komme på spilletimer, samspill eller en konsert/arrangement, er det viktig at du gir beskjed om fraværet. Gi beskjed til dirigenten. Gjelder fraværet spilletimer, gir du beskjed direkte til spillelæreren.
+Hvis du ikke kan komme på spilletimer, samspill eller en konsert/arrangement, er
+det viktig at du gir beskjed om fraværet. Gi beskjed til dirigenten. Gjelder
+fraværet spilletimer, gir du beskjed direkte til spillelæreren.
 
 Korpsets foreldre deltar i en vaktordning på torsdagenes samspill.
 
