@@ -29,8 +29,8 @@ De ulike korpsene øver til faste tider hver torsdag:
 
 ## Kontakt oss
 
-Korpset kan kontaktes på epost {{<epost styret>}}
-eller på telefon til korpsleder Lars Martinsen: 
+Korpset kan kontaktes på epost {{<email styret>}}
+eller på telefon til korpsleder Lars Martinsen:
 
 Postadresse: Postboks 72, 0671 Oslo.
 

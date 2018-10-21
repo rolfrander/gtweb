@@ -18,11 +18,14 @@
   <div class="image main"><img src="{{.Page.Params.bilde}}"></div>
   {{ end }}
 </section>
-{{- if .Params.aktiviteter }}
+{{- if .Page.Params.aktiviteter }}
 <section class="post">
-	<h2>Kommende aktiviteter </h2>
-  {{ range .Pages.aktiviteter }}
-  {{ end }}
+	<h2>Kommende aktiviteter</h2>
+  <ul>
+    {{- range .Page.Params.aktiviteter }}
+    <li>{{ .dato }}: {{ .tittel }}</li>
+    {{ end }}
+  </ul>
 </section>
 {{ end -}}
 <section class="posts">
