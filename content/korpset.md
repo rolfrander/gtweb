@@ -27,6 +27,13 @@ De ulike korpsene øver til faste tider hver torsdag:
 <tr><th>Aspirantkorps</th><td>Torsdager 16:00-17:00</td>
 </table>
 
+## Kontakt oss
+
+Korpset kan kontaktes på epost {{<epost styret>}}
+eller på telefon til korpsleder Lars Martinsen: 
+
+Postadresse: Postboks 72, 0671 Oslo.
+
 ## Norges Musikkorps Forbund
 
 Godlia/Trasop skolers musikkorps er medlem av
