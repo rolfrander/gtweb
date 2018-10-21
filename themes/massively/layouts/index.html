@@ -18,6 +18,13 @@
   <div class="image main"><img src="{{.Page.Params.bilde}}"></div>
   {{ end }}
 </section>
+{{- if .Params.aktiviteter }}
+<section class="post">
+	<h2>Kommende aktiviteter </h2>
+  {{ range .Pages.aktiviteter }}
+  {{ end }}
+</section>
+{{ end -}}
 <section class="posts">
   {{ range .Pages}}
     {{ if not .Params.excludeFirstPage}}
