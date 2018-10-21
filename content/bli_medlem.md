@@ -65,7 +65,7 @@ Hvis du lurer på noe kan du ta kontakt med oss på epost
 {{<button link="#form" tekst="trykk her for innmeldingsskjema" >}}
 
 ## Kjære foreldre
-Kontingent er kr 2000 per halvår, til sammen 4000 kr per år. Merk at eventuell utmelding av korpset må skje før påbegynt semester/halvår. Kontingent for påbegynt halvår refunderes ikke. Foreldre må også være korpsvakt noen ganger i løpet av året.
+Kontingent er kr 2000 per halvår, til sammen 4000 kr per år. I tillegg kommer instrumentleie på 400,- pr år. Merk at eventuell utmelding av korpset må skje før påbegynt semester/halvår. Kontingent for påbegynt halvår refunderes ikke. Foreldre må også være korpsvakt noen ganger i løpet av året.
 
 Vi har vår dugnadinnsats konsentrert rundt et årlig loppemarked i midten av oktober, og loppemarked annet hvert år på våren. Foreldreaktiviteter i forbindelse med loppemarkedene er
 
