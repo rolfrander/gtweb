@@ -11,6 +11,9 @@ bilde: /images/fine_lopper.jpg
 ---
 
 ## Innlevering
+
+Vi tar i mot lopper hele året, hvis det er noe du lurer på kan du ta kontakt med oss på {{<email loppemarked>}}
+
 ### Vi tar i mot
 
 - Bøker (ikke leksikon)
