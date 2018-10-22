@@ -5,8 +5,7 @@ function nytt_medlem() {
   var data = $('div#form form').serialize();
   $.ajax({
      type: 'POST',
-     //url: "../medlem/",
-     url: "http://mozart.folkestad-naess.name/~rolfn/medlem/",
+     url: "https://www.godliatrasop.no/medlem/",
      data: data,
      success: function(response) {
        if('id' in response) {
