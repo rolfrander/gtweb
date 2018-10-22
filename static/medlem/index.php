@@ -147,8 +147,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         }
 
         // Multiple recipients
-        //$to = 'GT Medlemsansvarlig <medlem@godliatrasop.no>';
-        $to = 'rolfrander@gmail.com';
+        $to = 'GT Medlemsansvarlig <medlem@godliatrasop.no>';
+        //$to = 'rolfrander@gmail.com';
 
         // Subject
         $subject = '[GT] Nytt medlem, søknad ' . $id;
