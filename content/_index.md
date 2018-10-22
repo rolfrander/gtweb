@@ -14,6 +14,8 @@ description: Skolekorps for elever fra naboskolene Godlia, Trasop og Skøyenåse
 aktiviteter:
  - dato: 17. november
    tittel: Filmkonsert
+ - dato: 13. desember
+   tittel: julekonsert og stjernedryss
 
 # bilde: /images/rotary_valves_tuba_valves_stimmzug_brass_instrument_instrument_gloss_gold-1335416.jpg
 
