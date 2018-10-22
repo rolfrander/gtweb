@@ -136,7 +136,7 @@ veldig gøy.
       </tr>
       <tr>
         <th><label for="tlf">Telefon</label></th>
-        <td><input type="tlf" name="tlf" id="tlf"></td>
+        <td><input type="tel" name="tlf" id="tlf"></td>
       </tr>
     </table>
 
