@@ -101,6 +101,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         $ret = [ 'feil' => $feil, 'feilfelt' => $feilfelt ];
         echo json_encode($ret);
     } else {
+        // default søknadsid
+        $id = 0;
         $insert_sql = "insert into soknader set " .
                     join(",", array_map(function($item) {
                         return $item . "= :" . $item;
@@ -128,9 +130,10 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             }
 
             if($stmt->execute()) {
+                $id = $conn->lastInsertId();
                 http_response_code(200);
                 header('Content-Type: application/json');
-                $ret = [ 'id' => $conn->lastInsertId() ];
+                $ret = [ 'id' => $id ];
                 echo json_encode($ret);
             } else {
                 $err = $stmt->errorInfo();
@@ -144,11 +147,11 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         }
 
         // Multiple recipients
-        $to = 'medlem@godliatrasop.no';
-        //$to = 'rolfrander@gmail.com';
+        //$to = 'GT Medlemsansvarlig <medlem@godliatrasop.no>';
+        $to = 'rolfrander@gmail.com';
 
         // Subject
-        $subject = '[GT] Nytt medlem';
+        $subject = '[GT] Nytt medlem, søknad ' . $id;
 
         // Message
         $message = '
@@ -199,14 +202,12 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         $headers[] = 'Content-type: text/html; charset=utf-8';
 
         // Additional headers
-        $headers[] = 'To: GT Medlemsansvarlig <medlem@godliatrasop.no>';
+        // $headers[] = 'To: GT Medlemsansvarlig <medlem@godliatrasop.no>';
         $headers[] = 'From: '.$_POST["f1_navn"].' '.$_POST["f1_etternavn"].' <'.$_POST["f1_epost"].'>';
 
         // Mail it
         mail($to, $subject, $message, implode("\r\n", $headers));
-
     }
-
 } elseif($_SERVER['REQUEST_METHOD'] == 'GET') {
     ?><h1><?php echo Config::HELLO ?></h1><?php
 } else {
