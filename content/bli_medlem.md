@@ -106,7 +106,8 @@ veldig gøy.
       <option value="Saxofon"/>
       <option value="Horn"/>
       <option value="Kornett/Trompet"/>
-      <option value="Trombone"/>option value="Baryton"/>
+      <option value="Trombone"/>
+      <option value="Baryton"/>
       <option value="Tuba"/>
       <option value="Slagverk"/>
       <option value="(ingen)"/>
