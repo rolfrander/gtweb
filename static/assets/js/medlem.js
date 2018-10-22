@@ -82,6 +82,11 @@ function poststed(pnr, callback) {
       element.addEventListener("click", function() {
         show('div#form');
       })
-    })
+    });
+    $(document).keyup(function(e) {
+      if (e.key === "Escape") { // escape key maps to keycode `27`
+        hide('div.popup');
+      }
+    });
   });
 })(jQuery);

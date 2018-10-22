@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html>
-    {{- partial "head.html" . -}}
-    <body class="is-preload">
-        <div id="wrapper">
-        {{block "intro" .}}{{end}}
-        {{partial "header.html" .}}
-        {{partial "menu.html" .}}
-        <div id="main">
+  {{- partial "head.html" . -}}
+  <body class="is-preload">
+    <div id="wrapper">
+      {{block "intro" .}}{{end}}
+      {{partial "header.html" .}}
+      {{partial "menu.html" .}}
+      <div id="main">
         {{block "main" . }}original base main{{ end }}
-        </div>
-        {{partial "footer.html" .}}
-        </div>
-    </body>
+      </div>
+      {{block "popups" .}}{{end}}
+      {{partial "footer.html" .}}
+    </div>
+  </body>
 </html>

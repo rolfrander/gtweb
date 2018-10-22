@@ -4674,31 +4674,38 @@ input, select, textarea {
     content: attr(data-user);
   }
 
-/* dialogbokser og feilmeldinger */
-div#form {
+  /* dialogbokser og feilmeldinger */
+div.popup {
+  display: none;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0%;
+  left: 0%;
+  z-index: 10;
+  background: rgba(0,0,0,0.5);
+}
+
+div#form > div {
   position: fixed;
   width: 80%;
   height: 80%;
   top: 10%;
   left: 10%;
   border: 4px solid black;
-  z-index: 10;
   background: white;
   padding: 1em;
   overflow: scroll;
-  display: none;
 }
-div#result, div#feil {
+div#result, div#feil > div {
   position: fixed;
   width: 50%;
   height: 50%;
   top: 25%;
   left: 25%;
   border: 4px solid black;
-  z-index: 15;
   background: white;
   padding: 1em;
-  display: none;
   text-align: center;
 }
 span#feilkode {
