@@ -1,4 +1,17 @@
 Options -Indexes
+
+ErrorDocument 404 /404.html
+
+# hvis noen fortsatt bruker linken fra facebook skal de redirigeres
+RewriteRule ^ny(.*) https://%{HTTP_HOST}$1 [R]
+
+# sender alt til https
 RewriteEngine On
 RewriteCond %{HTTPS} off
 RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
+# bruker ikke hsts. Det betyr at vi er potensielt sårbare for MitM, men risikoen
+# for nedetid ved sertifikattrøbbel er større
+<IfModule mod_headers.c>
+Header set Strict-Transport-Security "max-age=0; includeSubDomains; preload" env=HTTPS
+</IfModule>
