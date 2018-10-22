@@ -1,3 +1,8 @@
+<Files error_log>
+Order Allow,Deny
+Deny from all
+</Files>
+
 <Files Config.php>
 Order Allow,Deny
 Deny from all
