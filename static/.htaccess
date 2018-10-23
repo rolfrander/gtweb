@@ -7,7 +7,19 @@ ErrorDocument 403 /404.html
 
 # hvis noen fortsatt bruker linken fra facebook skal de redirigeres
 RewriteRule ^ny(.*) https://%{HTTP_HOST}$1 [R,L]
-RewriteRule ^Loppemarked.php https://%{HTTP_HOST}/loppemarked/ [R=301,L]
+RewriteRule ^Loppemarked.php    https://%{HTTP_HOST}/loppemarked/ [R=301,L]
+RewriteRule ^Bilder.php         https://%{HTTP_HOST}/ [R=301,L]
+RewriteRule ^Bli-medlem.php     https://%{HTTP_HOST}/bli_medlem/ [R=301,L]
+RewriteRule ^Dirigenter-og-     https://%{HTTP_HOST}/medlemmer/ [R=301,L]
+RewriteRule ^For-medlemmer.php  https://%{HTTP_HOST}/medlemmer/ [R=301,L]
+RewriteRule ^Historikk.php      https://%{HTTP_HOST}/korpset/ [R=301,L]
+RewriteRule ^Hjem.php           https://%{HTTP_HOST}/ [R=301,L]
+RewriteRule ^Lenker.php         https://%{HTTP_HOST}/korpset/ [R=301,L]
+RewriteRule ^Om-oss.php         https://%{HTTP_HOST}/korpset/ [R=301,L]
+RewriteRule ^Terminliste.php    https://%{HTTP_HOST}/terminliste/ [R=301,L]
+RewriteRule ^Uniform.php        https://%{HTTP_HOST}/medlemmer/ [R=301,L]
+
+
 
 # sender alt til https
 RewriteCond %{HTTPS} off
