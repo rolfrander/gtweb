@@ -4697,7 +4697,7 @@ div#form > div {
   padding: 1em;
   overflow: scroll;
 }
-div#result, div#feil > div {
+div#result > div , div#feil > div {
   position: fixed;
   width: 50%;
   height: 50%;
