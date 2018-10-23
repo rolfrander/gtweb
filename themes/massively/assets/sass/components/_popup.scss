@@ -1,0 +1,45 @@
+/* dialogbokser og feilmeldinger */
+div.popup {
+  display: none;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0%;
+  left: 0%;
+  z-index: _misc(z-index-base) + 5;
+  background: rgba(0,0,0,0.5);
+}
+
+div.popup > div {
+    position: fixed;
+    border: 4px solid black;
+    background: white;
+    padding: 1em;
+}
+
+div#form > div {
+  width: 80%;
+  height: 80%;
+  top: 10%;
+  left: 10%;
+  overflow: scroll;
+}
+
+div#result > div , div#feil > div {
+  width: 50%;
+  height: 50%;
+  top: 25%;
+  left: 25%;
+  text-align: center;
+}
+span#feilkode {
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+}
+input[type="text"][size] {
+width: auto;
+display: inline !important;
+}
+input[disabled] {
+display: inline !important;
+border: 0 !important;
+}

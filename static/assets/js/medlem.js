@@ -77,10 +77,16 @@ function poststed(pnr, callback) {
   var $body = $('body');
 
   $window.on('load', function() {
-    console.log("load");
     $("a[href='#form']").each(function(index, element) {
       element.addEventListener("click", function() {
         show('div#form');
+      })
+    });
+    $("div.popup").each(function(index, element) {
+      element.addEventListener("click", function(ev) {
+        if(ev.target.getAttribute("class") == "popup") {
+          hide("div.popup");
+        }
       })
     });
     $(document).keyup(function(e) {

@@ -83,6 +83,11 @@
 		}
 	}
 
+	table.headerleft th {
+	  width: 1%;
+	  white-space: nowrap;
+	}
+
 	@mixin color-table($p: null) {
 		table {
 			tbody {

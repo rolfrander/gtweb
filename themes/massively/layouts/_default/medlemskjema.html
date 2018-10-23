@@ -63,15 +63,15 @@
     <table class="headerleft">
       <tr>
         <th><label for="instr1">Førstevalg</label></th>
-        <td><input list="instrumenter" name="instr1" id="instr1"></td>
+        <td><input type="text" list="instrumenter" name="instr1" id="instr1"></td>
       </tr>
       <tr>
         <th><label for="instr2">Andrevalg</label></th>
-        <td><input list="instrumenter" name="instr2" id="instr1"></td>
+        <td><input type="text" list="instrumenter" name="instr2" id="instr1"></td>
       </tr>
       <tr>
         <th><label for="instr3">Tredjevalg</label></th>
-        <td><input list="instrumenter" name="instr3" id="instr1"></td>
+        <td><input type="text" list="instrumenter" name="instr3" id="instr1"></td>
       </tr>
     </table>
 
@@ -140,8 +140,8 @@
     <h3>Kommentarer eller andre opplysninger</h3>
     <textarea name="kommentarer" id="kommentarer" maxlength="4096" rows="4"></textarea>
     <p id="feilmeldinger"/>
+    <div class="g-recaptcha" data-sitekey="6Le_rnUUAAAAAHQ41LAAGqwVqlSAYMTo_01HDRel"></div>
     <p>
-      <div class="g-recaptcha" data-sitekey="6Le_rnUUAAAAAHQ41LAAGqwVqlSAYMTo_01HDRel"></div>
       <input type="button" value="Send skjema" onclick="nytt_medlem(); return false;">
       <input type="button" value="Avbryt" onclick="hide('div#form'); return false;" >
     </p>
