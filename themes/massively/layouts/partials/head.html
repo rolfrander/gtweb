@@ -7,9 +7,9 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
   <meta name="description" content="{{ .Description }}">
-  {{ $style := resources.Get "sass/main.scss" | toCSS (dict "targetPath" "assets/css/main.css" ) }}
+  {{ $style := resources.Get "sass/main.css" }}
   <link rel="stylesheet" href="{{ $style.Permalink | relURL }}">
-  {{ $noscript := resources.Get "sass/noscript.scss" | toCSS (dict "targetPath" "assets/css/noscript.css" ) }}
+  {{ $noscript := resources.Get "sass/noscript.css" }}
   <noscript><link rel="stylesheet" href="{{ $style.Permalink | relURL }}" /></noscript>
   <link rel="icon" href="{{ "images/logo_16.png" | relURL}}" sizes="16x16" />
 
