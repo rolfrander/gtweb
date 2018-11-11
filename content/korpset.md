@@ -38,7 +38,18 @@ Postadresse: Postboks 72, 0671 Oslo.
 Godlia/Trasop skolers musikkorps er medlem av
 [Norges Musikkorps Forbund](https://musikkorps.no).
 
-## Grasrotandelen
+## Støtte
+
+Takk til støtte fra:
+
+* OBOS
+* Olav Thons legat
+* Frifond/Norges Musikkorps Forbund
+
+<img src="../images/nmf_logo.svg" height="100" alt="NMF">
+<img src="../images/frifond-svg.svg" height="100" alt="Frifond">
+<img src="../images/OlavThonsLegat_gull.svg" height="100" alt="Olav Thons Legat">
+
 
 Du som spiller hos Norsk Tipping kan velge ett lag eller en forening som skal
 motta syv prosent av det beløpet du spiller for. Merk at grasrotandelen ikke på
