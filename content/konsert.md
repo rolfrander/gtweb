@@ -17,6 +17,7 @@ Kafé med kaker, kaffe m. m. - og kanskje blir det en hel film som bonus?
 * [Golia Velhus, Damfaret 25, 0671 Oslo](https://goo.gl/maps/e7tyFnFrkMG2)
 * Billetter i døra kr. 50,-
 * Kontant betaling/Vipps
+* [Facebook](https://www.facebook.com/events/2198655830146523/)
 
 Konserten er støttet av Frifond/NMF
 
