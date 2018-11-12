@@ -20,5 +20,4 @@ Kafé med kaker, kaffe m. m. - og kanskje blir det en hel film som bonus?
 
 Konserten er støttet av Frifond/NMF
 
-<img src="../images/nmf_logo.svg" height="100">
-<img src="../images/frifond-svg.svg" height="100">
+<img src="../images/nmf_logo.svg" height="100" alt="NMF">

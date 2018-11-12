@@ -47,7 +47,6 @@ Takk til støtte fra:
 * Frifond/Norges Musikkorps Forbund
 
 <img src="../images/nmf_logo.svg" height="100" alt="NMF">
-<img src="../images/frifond-svg.svg" height="100" alt="Frifond">
 <img src="../images/OlavThonsLegat_gull.svg" height="100" alt="Olav Thons Legat">
 
 
