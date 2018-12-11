@@ -72,7 +72,7 @@ Barnet meldes inn i Norges Musikkorps Forbund samtidig som det tas opp som
 medlem av Godlia/Trasop skolers musikkorps.
 
 Hvis du lurer på noe kan du ta kontakt med oss på epost
-{{<email medlem>}}
+{{<email medlem>}} eller telefon til styreleder Anita Moe-Riise: 926&nbsp;07&nbsp;803
 
 {{<button link="#form" tekst="trykk her for innmeldingsskjema" >}}
 
