@@ -4,7 +4,7 @@ title: "Neste konsert"
 description: Filmmusikkonsert lørdag 17. november 17:00-18:30.
 forsidebilde: /images/filmkonsert2.jpg
 bilde: /images/filmkonsert2.jpg
-featured: true
+featured: false
 excludeFirstPage: true
 ---
 

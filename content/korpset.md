@@ -45,6 +45,7 @@ Takk til støtte fra:
 * OBOS
 * Olav Thons legat
 * Frifond/Norges Musikkorps Forbund
+* Sparebankstiftelsen DNB
 
 <img src="../images/nmf_logo.svg" height="100" alt="NMF">
 <img src="../images/OlavThonsLegat_gull.svg" height="100" alt="Olav Thons Legat">
