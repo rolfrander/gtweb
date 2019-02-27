@@ -11,6 +11,8 @@ params:
 
 sectionPagesMenu: main
 
+enableGitInfo: true
+
 # uglyurls: true
 
 # menu:

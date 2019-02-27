@@ -21,6 +21,10 @@ aktiviteter:
 
 bilde: /images/rotary_valves_tuba_valves_stimmzug_brass_instrument_instrument_gloss_gold-1335416.jpg
 
+Sitemap:
+  Priority: 0.8
+  ChangeFreq: monthly
+
 ---
 
 Loppemarked 6.-7. april 2019, se [her](/loppemarked) for mer informasjon.

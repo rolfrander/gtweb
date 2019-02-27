@@ -16,6 +16,11 @@ layout: medlemskjema
 script:
  - /assets/js/medlem.js
  - https://www.google.com/recaptcha/api.js
+
+Sitemap:
+  Priority: 0.6
+  ChangeFreq: yearly
+
 ---
 
 Godlia-Trasop musikkorps består av ca. 60 musikkglade barn fordelt på

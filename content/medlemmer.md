@@ -8,6 +8,10 @@ description: Praktisk informasjon til medlemmer av korpset.
 forsidebilde: /images/trumpet.jpg
 bilde: /images/trumpet.jpg
 
+Sitemap:
+  Priority: 0.2
+  ChangeFreq: yearly
+
 ---
 
 Har du spørsmål om øvelser eller konserter, ta kontakt med dirigentene.

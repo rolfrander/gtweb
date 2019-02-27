@@ -8,6 +8,10 @@ description: Neste loppemarked er 6.-7. april 2019. Loppemarkedet er korpsets vi
 forsidebilde: /images/fine_lopper.jpg
 bilde: /images/fine_lopper.jpg
 
+Sitemap:
+  Priority: 1.0
+  ChangeFreq: monthly
+
 ---
 
 ## Innlevering
