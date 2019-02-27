@@ -23,6 +23,8 @@ bilde: /images/rotary_valves_tuba_valves_stimmzug_brass_instrument_instrument_gl
 
 ---
 
+Loppemarked 6.-7. april, se [her](/loppemarked) for mer informasjon.
+
 Korpset består av 60 barn fordelt på aspirantkorps, juniorkorps og hovedkorps. Medlemmene kommer hovedsaklig fra naboskolene Godlia, Trasop og Skøyenåsen, men vi tar også opp musikanter fra skoler i nærområdet som ikke har egne korps.
 
 Korpset hadde 35-årsjubileum i 2017, og har de siste årene hatt en gledelig vekst i antall musikanter.
