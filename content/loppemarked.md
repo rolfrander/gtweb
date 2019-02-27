@@ -4,7 +4,7 @@ menu:
   main:
     weight: 5
 
-description: Loppemarked 6.-7. april. Loppemarkedet er korpsets viktigste inntektskilde. Det er kjent for å være trivelig og ryddig med et stort utvalg av klær og leker, bøker, kunst, finlopper, sport med mer - pluss cafe med pølser og burgere, drikke og kaker. Neste marked er 6. og 7. april på Trasop skole. Vi samler inn lopper fram til det åpner.
+description: Neste loppemarked er 6.-7. april 2019. Loppemarkedet er korpsets viktigste inntektskilde. Det er kjent for å være trivelig og ryddig med et stort utvalg av klær og leker, bøker, kunst, finlopper, sport med mer - pluss cafe med pølser og burgere, drikke og kaker. Neste marked er 6. og 7. april på Trasop skole. Vi samler inn lopper fram til det åpner.
 forsidebilde: /images/fine_lopper.jpg
 bilde: /images/fine_lopper.jpg
 
@@ -12,7 +12,7 @@ bilde: /images/fine_lopper.jpg
 
 ## Innlevering
 
-Vi tar i mot lopper i vårt lager i [Stallerudveien 117](https://goo.gl/maps/ySm194Yt4MN2) (Kiwi Bogerud) kl 18:00-20:00 på disse dagene:
+Vi tar i mot lopper i vårt lager i [Stallerudveien 117](https://goo.gl/maps/ySm194Yt4MN2) (bak Kiwi Bogerud) kl 18:00-20:00 på disse dagene i 2019:
 
 - Mandag 11. mars
 - Tirsdag 12. mars
