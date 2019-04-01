@@ -46,10 +46,11 @@ Takk til støtte fra:
 * Olav Thons legat
 * Frifond/Norges Musikkorps Forbund
 * Sparebankstiftelsen DNB
+* Bydel Østensjø
 
 <img src="../images/nmf_logo.svg" height="100" alt="NMF">
 <img src="../images/OlavThonsLegat_gull.svg" height="100" alt="Olav Thons Legat">
-
+<img src="../images/bydelostensjo.png" alt="Bydel Østensjø">
 
 Du som spiller hos Norsk Tipping kan velge ett lag eller en forening som skal
 motta syv prosent av det beløpet du spiller for. Merk at grasrotandelen ikke på
