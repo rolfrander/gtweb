@@ -40,13 +40,18 @@ Godlia/Trasop skolers musikkorps er medlem av
 
 ## Støtte
 
-Takk til støtte fra:
+For sesongen 2018-19 har vi vært heldige og fått økonomisk støtte til uniformer,
+instrumenter, noter og instruksjon. 
+Tusen takk for støtte fra:
 
 * OBOS
 * Olav Thons legat
 * Frifond/Norges Musikkorps Forbund
 * Sparebankstiftelsen DNB
 * Bydel Østensjø
+* Oslo Kommune
+* NOPA, norsk forening for komponister og tekstforfattere
+* Bergensstiftelsen
 
 <img src="../images/nmf_logo.svg" height="100" alt="NMF">
 <img src="../images/OlavThonsLegat_gull.svg" height="100" alt="Olav Thons Legat">
