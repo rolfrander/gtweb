@@ -12,10 +12,6 @@ logo:
 description: Skolekorps for elever fra naboskolene Godlia, Trasop og Skøyenåsen.
 
 aktiviteter:
-  - dato: 23-24. mars
-    tittel: samarbeidskonsert med Alna Musikkorps
-  - dato: 11.-20. mars
-    tittel: innsamling av lopper til neste loppemarked
   - dato: 6.-7.april
     tittel: loppemarked
 
