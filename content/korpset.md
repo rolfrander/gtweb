@@ -41,7 +41,7 @@ Godlia/Trasop skolers musikkorps er medlem av
 ## Støtte
 
 For sesongen 2018-19 har vi vært heldige og fått økonomisk støtte til uniformer,
-instrumenter, noter og instruksjon. 
+instrumenter, noter og instruksjon.
 Tusen takk for støtte fra:
 
 * OBOS
@@ -53,9 +53,10 @@ Tusen takk for støtte fra:
 * NOPA, norsk forening for komponister og tekstforfattere
 * Bergensstiftelsen
 
-<img src="../images/nmf_logo.svg" height="100" alt="NMF">
-<img src="../images/OlavThonsLegat_gull.svg" height="100" alt="Olav Thons Legat">
+<img src="../images/nmf_logo.svg" height="80" alt="NMF">
+<img src="../images/OlavThonsLegat_gull.svg" height="80" alt="Olav Thons Legat">
 <img src="../images/bydelostensjo.png" alt="Bydel Østensjø">
+<img src="../images/obos_liggende.svg" height="50" alt="OBOS">
 
 Du som spiller hos Norsk Tipping kan velge ett lag eller en forening som skal
 motta syv prosent av det beløpet du spiller for. Merk at grasrotandelen ikke på
