@@ -1,10 +1,10 @@
 ---
-title: "Loppemarked 6.-7. april"
+title: "Loppemarked"
 menu:
   main:
     weight: 5
 
-description: Neste loppemarked er 6.-7. april 2019. Loppemarkedet er korpsets viktigste inntektskilde. Det er kjent for å være trivelig og ryddig med et stort utvalg av klær og leker, bøker, kunst, finlopper, sport med mer - pluss cafe med pølser og burgere, drikke og kaker. Neste marked er 6. og 7. april på Trasop skole. Vi samler inn lopper fram til det åpner.
+description: Loppemarkedet er korpsets viktigste inntektskilde. Det er kjent for å være trivelig og ryddig med et stort utvalg av klær og leker, bøker, kunst, finlopper, sport med mer - pluss cafe med pølser og burgere, drikke og kaker. Vi samler inn lopper gjennom hele året.
 forsidebilde: /images/fine_lopper.jpg
 bilde: /images/fine_lopper.jpg
 
@@ -14,7 +14,7 @@ Sitemap:
 
 ---
 
-Følg med på [facebook](https://www.facebook.com/events/688477484887994/) for oppdateringer.
+Vårens loppemarked er over for denne gang, neste loppemarked er høsten 2019.
 
 Hvis det er noe du lurer på kan du ta kontakt med oss på {{<email loppemarked>}}.
 
