@@ -29,8 +29,16 @@ Sitemap:
 
 ---
 
+Bli med i borgertoget!
+
+På 17.mai blir det borgertog med avgang fra Godlia skole kl. 15. Vi håper mange vil bli med og gå sammen med oss da! 
+Rute: Godlia skole, Vetlandsveien, Kranveien, Formerveien, Solbergliveien, Vetlandsfaret, Trasop skole.
+Etter toget blir det leker og aktiviteter på Trasop skole i regi av GT-koret.
+
+Vi i Godlia/Trasop musikkorps gleder oss til å spille for dere på 17. mai!
+
 Den 6. juni har vi åpen øvelse hvor nysgjerrige kan komme og høre hvordan en vanlig
-øvelse er og snakke med oss om hvordan det er å spille i korps. 
+øvelse er og snakke med oss om hvordan det er å spille i korps.
 
 Korpset består av 60 barn fordelt på aspirantkorps, juniorkorps og hovedkorps. Medlemmene kommer hovedsaklig fra naboskolene Godlia, Trasop og Skøyenåsen, men vi tar også opp musikanter fra skoler i nærområdet som ikke har egne korps.
 
