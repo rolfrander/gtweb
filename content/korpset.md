@@ -5,8 +5,8 @@ menu:
     weight: 30
 
 description: Godlia/Trasop skolers musikkorps er et foreldredrevet musikkorps hvor årsmøtet velger et styre som står for driften av korpset i styreperioden.
-forsidebilde: /images/musician_trumpet_fingers_music-878660.jpg
-bilde: /images/musician_trumpet_fingers_music-878660.jpg
+forsidebilde: /images/4P3A8009.jpg
+bilde: /images/4P3A8009.jpg
 
 ---
 
@@ -41,7 +41,9 @@ Godlia/Trasop skolers musikkorps er medlem av
 ## Støtte
 
 For sesongen 2018-19 har vi vært heldige og fått økonomisk støtte til uniformer,
-instrumenter, noter og instruksjon.
+inkludert ny uniform til vår dyktige tamburmajor, instrumenter, noter og
+instruksjon.
+
 Tusen takk for støtte fra:
 
 * OBOS
