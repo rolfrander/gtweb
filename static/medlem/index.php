@@ -13,7 +13,7 @@ if(!$success) {
 }
 $adjektiv = array("liten", "stor", "gul", "blid", "fin", "rar", "morsom", "ullen", "sur", "glad");
 $substantiv = array("hest", "bil", "telefon", "vegg", "stol", "ovn", "lampe", "blokk", "boks", "sokk");
-$felt = array("navn", "etternavn", "adresse", "postnr", "poststed", "tlf",
+$felt = array("navn", "etternavn", "fdato", "adresse", "postnr", "poststed", "tlf",
               "f1_navn", "f1_etternavn", "f1_adresse", "f1_postnr", "f1_poststed", "f1_tlf", "f1_epost",
               "f2_navn", "f2_etternavn", "f2_adresse", "f2_postnr", "f2_poststed", "f2_tlf", "f2_epost",
               "instr1", "instr2", "instr3", "kommentarer");
@@ -75,6 +75,22 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         array_push($feil, "navn og adresse må oppgis");
         array_push($feilfelt, "navn", "etternavn", "adresse", "postnr");
     }
+
+    $fdato = new DateTime($_POST["fdato"]);
+    if($fdato) {
+        $now   = new DateTime("now");
+        $alder = $fdato->diff($now)->y;
+        if($alder < 6 || $alder > 18) {
+            array_push($feil, "ugyldig fødselsdato");
+            array_push($feilfelt, "fdato");
+        } else {
+            $_POST["fdato"] = $fdato->format('Y-m-d');
+        }
+    } else {
+        array_push($feil, "mangler fødselsdato");
+        array_push($feilfelt, "fdato");
+    }
+
     if($_POST["f1_navn"] == "" && $_POST["f2_navn"] == "") {
         array_push($feil, "minst en foresatt må oppgis");
         array_push($feilfelt, "f1_navn", "f2_navn");
@@ -163,6 +179,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         <table>';
         $message = $message . tr("Navn", "navn");
         $message = $message . tr("Etternavn", "etternavn");
+        $message = $message . tr("Fødselsdato", "fdato");        
         $message = $message . tr("Adresse", "adresse");
         $message = $message . tr("Postnummer", "postnr");
         $message = $message . tr("Poststed", "poststed");
@@ -209,7 +226,10 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         mail($to, $subject, $message, implode("\r\n", $headers));
     }
 } elseif($_SERVER['REQUEST_METHOD'] == 'GET') {
-    ?><h1><?php echo Config::HELLO ?></h1><?php
+    ?>
+    <html><head><title>Hello</title></head>
+<body><h1><?php echo Config::HELLO ?></h1>
+</body></html><?php
 } else {
     http_response_code(405);
 }
