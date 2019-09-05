@@ -14,13 +14,30 @@ Sitemap:
 
 ---
 
-Vårens loppemarked er over for denne gang, neste loppemarked er høsten 2019.
+Neste loppemarked er 12. og 13. oktober på Trasop Skole.
+
+- Lør 12.10 kl 10-16
+- Søn 13.10. kl 11-15
+
+Les mer på Facebook:
+
+- [Loppemarkedet på facebook](https://www.facebook.com/events/1098007180409216/)
+- [Facebook-side for innsamling av lopper](https://www.facebook.com/events/2499433143676223/)
 
 Hvis det er noe du lurer på kan du ta kontakt med oss på {{<email loppemarked>}}.
 
 ## Innlevering
 
-Vi tar i mot lopper etter avtale i vårt lager i [Stallerudveien 117](https://goo.gl/maps/ySm194Yt4MN2) (bak Kiwi Bogerud).
+Vi tar i mot lopper etter avtale i vårt lager i [Stallerudveien 117](https://goo.gl/maps/ySm194Yt4MN2) (bak Kiwi Bogerud) på disse tidspunktene:
+
+- tirsdag 17. september kl. 18-20
+- onsdag 18. september kl 18-20
+- torsdag 19. september kl 18-20
+- tirsdag 24. september kl. 18-20
+- onsdag 25. september kl 18-20
+- torsdag 26. september kl 18-20
+
+Legg dette rett inn i kalenderen din ved å klikke [her](/GodliaTrasop_Musikkorps_loppemarked.ics)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2002.3976339757041!2d10.84076311609445!3d59.875747681853376!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46416f5c862f43ad%3A0x7abbca3ab637596a!2sStallerudveien+117%2C+0693+Oslo!5e0!3m2!1sno!2sno!4v1551210189295" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 

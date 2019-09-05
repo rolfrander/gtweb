@@ -12,8 +12,12 @@ logo:
 description: Skolekorps for elever fra naboskolene Godlia, Trasop og Skøyenåsen.
 
 aktiviteter:
-  - dato: 29. august
-    tittel: vi starter opp igjen etter skolens sommerferie
+  - dato: 7. september
+    tittel: Oppsal gatefest
+  - dato: 17.-26. september
+    tottel: Innsamling av lopper
+  - dato: 12.-13. oktober
+    tittel: Loppemarked
 
 bilde: /images/4P3A8056.jpg
 
@@ -23,11 +27,7 @@ Sitemap:
 
 ---
 
-
-Mai har vært en flott og travel måned i korpset: vi har spilt og marsjert på 16.
-og 17. mai og på Lions' stevne for alle korps i bydelen på Skøyenåsen. Juniorene
-har spilt rekrutteringskonserter på skolene og i forrige uke var det mange
-nysgjerrige som kom på vår åpne informasjonskveld for nye medlemmer.
+Vi pangstarter høsten med å bli med i paraden på [Oppsal gatefest](https://oppsalgatefest.no)! Her er korpset i godt selskap: med nabokorpset, Oslo drill, brannbiler og flere til.
 
 Korpset består av 60 barn fordelt på aspirantkorps, juniorkorps og hovedkorps.
 Medlemmene kommer hovedsaklig fra naboskolene Godlia, Trasop og Skøyenåsen, men
