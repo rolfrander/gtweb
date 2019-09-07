@@ -12,10 +12,8 @@ logo:
 description: Skolekorps for elever fra naboskolene Godlia, Trasop og Skøyenåsen.
 
 aktiviteter:
-  - dato: 7. september
-    tittel: Oppsal gatefest
   - dato: 17.-26. september
-    tottel: Innsamling av lopper
+    tittel: Innsamling av lopper
   - dato: 12.-13. oktober
     tittel: Loppemarked
 
