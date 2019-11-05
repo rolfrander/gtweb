@@ -12,12 +12,10 @@ logo:
 description: Skolekorps for elever fra naboskolene Godlia, Trasop og Skøyenåsen.
 
 aktiviteter:
-  - dato: 17.-26. september
-    tittel: Innsamling av lopper
-  - dato: 12.-13. oktober
-    tittel: Loppemarked
+  - dato: 30. november
+    tittel: Adventskonsert med musikk fra Snøfall
 
-bilde: /images/4P3A8056.jpg
+bilde: /images/SBS Ole M og Henrik Snøfall.jpg
 
 Sitemap:
   Priority: 0.8
@@ -33,5 +31,7 @@ vi tar også opp musikanter fra skoler i nærområdet som ikke har egne korps.
 
 Korpset hadde 35-årsjubileum i 2017, og har de siste årene hatt en gledelig
 vekst i antall musikanter.
+
+I vår fikk vi støtte fra Sparebankstiftelsen DNB (tusen takk 💕) til å arrangere musikken fra NRKs populære juleserie SNØFALL for korps, og nå blir det snart konsert! Vår egen dirigent Ole Magnus Ekeberg (t. v.) har skrevet stemmer for harde livet og er i gang med å øve inn musikken med hovedkorpset, komponist Henrik Skram gleder seg til å høre 🙂
 
 {{<button link="bli_medlem" tekst="Bli medlem" >}}

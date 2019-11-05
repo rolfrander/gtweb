@@ -40,25 +40,9 @@ Godlia/Trasop skolers musikkorps er medlem av
 
 ## Støtte
 
-For sesongen 2018-19 har vi vært heldige og fått økonomisk støtte til uniformer,
-inkludert ny uniform til vår dyktige tamburmajor, instrumenter, noter og
-instruksjon.
+I vår fikk vi støtte fra Sparebankstiftelsen DNB (tusen takk 💕) til å arrangere musikken fra NRKs populære juleserie SNØFALL for korps, og nå blir det snart konsert! Vår egen dirigent Ole Magnus Ekeberg (t. v.) har skrevet stemmer for harde livet og er i gang med å øve inn musikken med hovedkorpset, komponist Henrik Skram gleder seg til å høre 🙂
 
-Tusen takk for støtte fra:
-
-* OBOS
-* Olav Thons legat
-* Frifond/Norges Musikkorps Forbund
-* Sparebankstiftelsen DNB
-* Bydel Østensjø
-* Oslo Kommune
-* NOPA, norsk forening for komponister og tekstforfattere
-* Bergensstiftelsen
-
-<img src="../images/nmf_logo.svg" height="80" alt="NMF">
-<img src="../images/OlavThonsLegat_gull.svg" height="80" alt="Olav Thons Legat">
-<img src="../images/bydelostensjo.png" alt="Bydel Østensjø">
-<img src="../images/obos_liggende.svg" height="50" alt="OBOS">
+<img src="../images/sbs-logo-dark.png" alt="Sparebankstiftelsen DNB">
 
 Du som spiller hos Norsk Tipping kan velge ett lag eller en forening som skal
 motta syv prosent av det beløpet du spiller for. Merk at grasrotandelen ikke på
