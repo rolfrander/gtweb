@@ -23,8 +23,6 @@ Sitemap:
 
 ---
 
-Vi pangstarter høsten med å bli med i paraden på [Oppsal gatefest](https://oppsalgatefest.no)! Her er korpset i godt selskap: med nabokorpset, Oslo drill, brannbiler og flere til.
-
 Korpset består av 60 barn fordelt på aspirantkorps, juniorkorps og hovedkorps.
 Medlemmene kommer hovedsaklig fra naboskolene Godlia, Trasop og Skøyenåsen, men
 vi tar også opp musikanter fra skoler i nærområdet som ikke har egne korps.
