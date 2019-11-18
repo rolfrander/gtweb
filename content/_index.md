@@ -15,7 +15,7 @@ aktiviteter:
   - dato: 30. november
     tittel: Adventskonsert med musikk fra Snøfall
 
-bilde: /images/SBS Ole M og Henrik Snøfall.jpg
+bilde: /images/SBS Ole M og Henrik Snøfall mindre.jpg
 
 Sitemap:
   Priority: 0.8
