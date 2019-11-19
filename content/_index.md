@@ -12,8 +12,8 @@ logo:
 description: Skolekorps for elever fra naboskolene Godlia, Trasop og Skøyenåsen.
 
 aktiviteter:
-  - dato: 30. november
-    tittel: Adventskonsert med musikk fra Snøfall
+  - dato: 30. november kl 16:00
+    tittel: "Adventskonsert med musikk fra Snøfall, billetter i døra: kr 100/50, barn under 6 gratis, familiebillett kr 200"
 
 bilde: /images/SBS Ole M og Henrik Snøfall mindre.jpg
 
