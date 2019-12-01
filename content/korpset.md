@@ -44,6 +44,8 @@ I vår fikk vi støtte fra Sparebankstiftelsen DNB (tusen takk 💕) til å arra
 
 <img src="../images/sbs-logo-dark.png" alt="Sparebankstiftelsen DNB">
 
+### Grasrotandelen
+
 Du som spiller hos Norsk Tipping kan velge ett lag eller en forening som skal
 motta syv prosent av det beløpet du spiller for. Merk at grasrotandelen ikke på
 noen måte går ut over innsatsen eller premien din - du blir ikke belastet noe
@@ -68,3 +70,9 @@ Internett
 Du kan laste ned en pdf fil med alt du trenger [her](grasrot-1-971284676.pdf).
 
 Les mer hos [Norsk tipping](https://www.norsk-tipping.no/grasrotandelen).
+
+### Max spill
+
+Korpset får også støtte fra Max Spill AS
+
+<iframe width="150" height="135" src="https://maxspill.no/ads120919/" frameborder="0" margin="0" padding="0" marginheight="0" marginwidth="0" scrolling="no"></iframe>
