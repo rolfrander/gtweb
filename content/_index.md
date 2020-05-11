@@ -12,8 +12,8 @@ logo:
 description: Skolekorps for elever fra naboskolene Godlia, Trasop og Skøyenåsen.
 
 aktiviteter:
-  - dato: 12. desember kl 1730
-    tittel: "Juleavslutning og stjernedryss"
+  - dato: 17. mai 2020
+    tittel: "Korps på nasjonaldagen"
 
 bilde: /images/4P3A8056.jpg
 
@@ -22,6 +22,16 @@ Sitemap:
   ChangeFreq: monthly
 
 ---
+
+17\. mai
+=======
+
+Snart 17. mai! Det blir selvfølgelig korps på nasjonaldagen. Vi foretar en rekke
+hemmelige minikonserter rundt i nærmiljøet i tiden rundt myndighetenes foreslåtte
+avspilling av nasjonalsangen. Vi marsjerer i vei og foretar ymse stoppesteder
+underveis men kan ikke si noe mer detaljert grunnet pålegg fra høyeste hold.
+Om noen likevel skulle tiltrekkes av lystig korpsmusikk ber vi alle holde god
+avstand til både korps og naboer.
 
 Korpset består av 60 barn fordelt på aspirantkorps, juniorkorps og hovedkorps.
 Medlemmene kommer hovedsaklig fra naboskolene Godlia, Trasop og Skøyenåsen, men
