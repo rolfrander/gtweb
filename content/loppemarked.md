@@ -14,11 +14,15 @@ Sitemap:
 
 ---
 
-Høstens loppemarked er over. Neste loppemarked er til våren, 25.-26. april.
+Neste loppemarked er høsten 2020, følg med her for oppdateringer.
 
 Hvis det er noe du lurer på kan du ta kontakt med oss på {{<email loppemarked>}}.
 
 ## Innlevering
+
+Noen som har ryddet de siste ukene og har noe å gi bort? Godlia Trasop skolers musikkorps tar imot lopper hele året!
+De neste ukene vil vi åpne lageret på Bogerud (bak Kiwi) tirsdag/onsdag ettermiddag/kveld etter nærmere avtale.
+Takk for alle bidrag!
 
 Vi tar i mot lopper etter avtale i vårt lager i [Stallerudveien 117](https://goo.gl/maps/ySm194Yt4MN2).
 
