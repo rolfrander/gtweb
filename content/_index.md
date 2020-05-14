@@ -33,6 +33,9 @@ underveis men kan ikke si noe mer detaljert grunnet pålegg fra høyeste hold.
 Om noen likevel skulle tiltrekkes av lystig korpsmusikk ber vi alle holde god
 avstand til både korps og naboer.
 
+Dere kan følge med på [facebook](https://www.facebook.com/events/779401349257245/) for
+oppdateringer.
+
 Korpset består av 60 barn fordelt på aspirantkorps, juniorkorps og hovedkorps.
 Medlemmene kommer hovedsaklig fra naboskolene Godlia, Trasop og Skøyenåsen, men
 vi tar også opp musikanter fra skoler i nærområdet som ikke har egne korps.
