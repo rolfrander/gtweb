@@ -23,24 +23,21 @@ Sitemap:
 
 ---
 
-17\. mai
-=======
-
-Snart 17. mai! Det blir selvfølgelig korps på nasjonaldagen. Vi foretar en rekke
-hemmelige minikonserter rundt i nærmiljøet i tiden rundt myndighetenes foreslåtte
-avspilling av nasjonalsangen. Vi marsjerer i vei og foretar ymse stoppesteder
-underveis men kan ikke si noe mer detaljert grunnet pålegg fra høyeste hold.
-Om noen likevel skulle tiltrekkes av lystig korpsmusikk ber vi alle holde god
-avstand til både korps og naboer.
-
-Dere kan følge med på [facebook](https://www.facebook.com/events/779401349257245/) for
-oppdateringer.
-
 Korpset består av 60 barn fordelt på aspirantkorps, juniorkorps og hovedkorps.
 Medlemmene kommer hovedsaklig fra naboskolene Godlia, Trasop og Skøyenåsen, men
 vi tar også opp musikanter fra skoler i nærområdet som ikke har egne korps.
 
 Korpset hadde 35-årsjubileum i 2017, og har de siste årene hatt en gledelig
 vekst i antall musikanter.
+
+Vi har lagt bak oss en spesiell periode hvor vi ikke fikk øve sammen på grunn
+av smittevern, men det har ikke lagt noen demper på spillegleden! Her er musikken
+fra dataspillet "brawl stars" i corona-versjon:
+
+<div style="position: relative; overflow: hidden; width: 100%; padding-top:56.25%; margin-top: 5%; margin-bottom: 5%">
+<video style="position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%" controls>
+  <source src="./video/brawl_stars.mp4" type="video/mp4">
+</video>
+</div>
 
 {{<button link="bli_medlem" tekst="Bli medlem" >}}
