@@ -2,10 +2,10 @@
 <section class="post">
   {{ range .Pages}}
     <article>
-      <header><h2><a href="{{.URL}}">{{.Title}}</a></h2></header>
+      <header><h2><a href="{{.RelPermalink}}">{{.Title}}</a></h2></header>
       {{ .Content }}
       <ul class="action special">
-        <li><a href="{{.URL}}" class="button">{{.Title}}</a></li>
+        <li><a href="{{.RelPermalink}}" class="button">{{.Title}}</a></li>
       </ul>
     </article>
   {{ end }}

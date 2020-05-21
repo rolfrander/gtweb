@@ -2,14 +2,15 @@
 title: "Har du lyst til å spille i korps?"
 menu:
   main:
-    weight: 10
-    name: Bli medlem
+    weight: 4
+    name: Spill med oss!
 
 description: Hos oss får du god musikkundervisning, gode venner og mange hyggelige og spennende opplevelser.
 forsidebilde: /images/17mai2017-bredde.jpg
 bilde: /images/17mai2017-bredde.jpg
 
-excludeFirstPage: true
+featured: true
+excludeFirstPage: false
 
 layout: medlemskjema
 
@@ -23,8 +24,50 @@ Sitemap:
 
 ---
 
-Godlia-Trasop musikkorps består av ca. 60 musikkglade barn fordelt på
-aspirantkorps, juniorkorps og hovedkorps.
+Etter sommerferien tar vi imot nye musikanter i
+Godlia Trasop skolers musikkorps!
+
+Vil du lære å spille fløyte, trombone, klarinett, horn eller
+kornett? Eller kanskje saxofon eller trommer?
+
+Her kan du se og høre noen av instrumentene, når
+juniorkorpset musikk fra dataspillet Brawl Stars -
+koronaversjon:
+
+<div style="position: relative; overflow: hidden; width: 100%; padding-top:56.25%; margin-top: 5%; margin-bottom: 5%">
+<video style="position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%" controls>
+  <source src="../video/brawl_stars.mp4" | relURL }}" type="video/mp4">
+</video>
+</div>
+
+Korpset vil invitere til informasjonskveld med
+demonstrasjon av instrumenter like etter skolestart.
+Men de somhar spørsmål eller vet at de har lyst å
+begynne i korpset kan ta kontakt nå, gjerne med ønske
+om instrument.
+
+{{<button link="#form" tekst="trykk her for innmeldingsskjema" >}}
+
+## Hvordan er det å gå i korps?
+
+Tre grupper spiller sammen hver uke:
+
+* Aspirantkorpset, (1. år i korpset)
+* Juniorkorpset (2. og 3. år i korpset)
+* Hovedkorpset (4. år i korpset inntil fylte 19 år)
+
+I tillegg får hvert medlem en enetime i uka med
+instruksjon på sitt instrument (som du får låne av
+korpset).
+
+Vi spiller konserter med mye forskjellig, drar på tur, m.
+m. I det siste har vi spilt film- og dataspillmusikk i tillegg
+til julekonsert med musikk fra Snøfall-serien på TV og
+selvsagt: marsjer.
+
+Alle våre dirigenter og instruktører er profesjonelle,
+hyggelige og dyktige. Hils på to av dem her XXX [lenke]
+Kontingent er 2000 per semester (+ instrumentleie 400/år)
 
 Meld deg inn i korpset hvis du vil:
 
@@ -36,22 +79,6 @@ Meld deg inn i korpset hvis du vil:
 - Spille med andre.
 - Få enetimer med instruktør.
 - Delta på seminarer og korpsturer.
-
-{{<button link="#form" tekst="trykk her for innmeldingsskjema" >}}
-
-## Hvordan er det å gå i korps?
-
-Korpset har opptak en gang i året, på høsten.
-
-Nybegynnerne starter i aspirantkorpset, og går der i ett år. Deretter rykker de
-opp til juniorkorpset, hvor de går i to år. Så rykker de opp til hovedkorpset,
-der de kan spille til de har fylt 19 år. I korpset får hvert medlem en enetime
-med instruktør en gang i uken. I tillegg har alle aspiranter, alle
-juniorkorpsmedlemmer og alle hovedkorpsmedlemmer fellesøving en gang i uken.
-
-Alle våre instruktører er profesjonelle og dyktige.
-
-Det å spille i korps skal være en aktivitet for alle, både lærerikt og hyggelig.
 
 Noen av musikantene har egne instrumenter, men de aller fleste låner av korpset.
 Vi forsøker så langt det er mulig å etterkomme musikantenes instrumentønsker.

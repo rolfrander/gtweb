@@ -29,7 +29,7 @@
 		}
 
 		> .post {
-			@include padding((_size(padding) * 4), (_size(padding) * 4));
+			@include padding((_size(padding) * 1.5), (_size(padding) * 4));
 
 			header {
 				&.major {

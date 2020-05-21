@@ -9,8 +9,9 @@
   <meta name="description" content="{{ .Description }}">
   <meta name="geo.position" content="59.907389;10.84698" >
   <meta name="ICBM" content="59.907389, 10.84698" >
-  <link rel="stylesheet" href="{{"assets/css/main.css" | relURL}}">
-  <noscript><link rel="stylesheet" href="{{"assets/css/noscript.css" | relURL}}" /></noscript>
+  {{ $css := resources.Get "sass/main.scss" | resources.ToCSS (dict "targetPath" "assets/css/main.css") }}
+  <link rel="stylesheet" href="{{ $css.Permalink | relURL }}" media="screen">
+
   <link rel="icon" href="{{ "images/logo_16.png" | relURL}}" sizes="16x16" />
   {{ with .Site.GoogleAnalytics }}
   <script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
