@@ -5,7 +5,7 @@ menu:
     weight: 4
     name: Spill med oss!
 
-description: Hos oss får du god musikkundervisning, gode venner og mange hyggelige og spennende opplevelser.
+description: Hos oss får du god musikkundervisning, nye venner og mange hyggelige og spennende opplevelser.
 forsidebilde: /images/17mai2017-bredde.jpg
 bilde: /images/17mai2017-bredde.jpg
 
@@ -34,17 +34,19 @@ Her kan du se og høre noen av instrumentene, når
 juniorkorpset musikk fra dataspillet Brawl Stars -
 koronaversjon:
 
-<div style="position: relative; overflow: hidden; width: 100%; padding-top:56.25%; margin-top: 5%; margin-bottom: 5%">
-<video style="position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%" controls>
-  <source src="../video/brawl_stars.mp4" | relURL }}" type="video/mp4">
+<div class="video">
+<video controls>
+  <source src="../video/brawl_stars.mp4" type="video/mp4">
 </video>
 </div>
 
 Korpset vil invitere til informasjonskveld med
 demonstrasjon av instrumenter like etter skolestart.
-Men de somhar spørsmål eller vet at de har lyst å
+Men de som har spørsmål eller vet at de har lyst å
 begynne i korpset kan ta kontakt nå, gjerne med ønske
 om instrument.
+
+Hvis du har spørsmål kan du sende epost til {{<email medlem>}}.
 
 {{<button link="#form" tekst="trykk her for innmeldingsskjema" >}}
 
@@ -66,19 +68,17 @@ til julekonsert med musikk fra Snøfall-serien på TV og
 selvsagt: marsjer.
 
 Alle våre dirigenter og instruktører er profesjonelle,
-hyggelige og dyktige. Hils på to av dem her XXX [lenke]
-Kontingent er 2000 per semester (+ instrumentleie 400/år)
+hyggelige og dyktige.
 
 Meld deg inn i korpset hvis du vil:
 
-- Lære å spille et instrument.
-- Bli god med dyktige dirigenter og instruktører. Alle våre instruktører er
-  profesjonelle musikere og pedagoger.
-- Ha det gøy med andre. I et skolekorps er alle med i det samme fellesskapet,
-  fra de som nettopp har begynt til 19-åringene som har vært med lenge.
 - Spille med andre.
-- Få enetimer med instruktør.
+- Lære å spille et instrument.
 - Delta på seminarer og korpsturer.
+- Ha det gøy med musikk, sammen med andre.
+  I et skolekorps er alle med i det samme fellesskapet,
+  fra de som nettopp har begynt til 19-åringene som har
+  vært med lenge.
 
 Noen av musikantene har egne instrumenter, men de aller fleste låner av korpset.
 Vi forsøker så langt det er mulig å etterkomme musikantenes instrumentønsker.

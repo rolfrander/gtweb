@@ -1999,6 +1999,23 @@ my-email::after {
 my-email::before {
   content: attr(data-user); }
 
+div.video {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%;
+  margin-top: 5%;
+  margin-bottom: 5%; }
+
+div.video > video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%; }
+
 /* Wrapper */
 #wrapper {
   -moz-transition: opacity 0.5s ease;
@@ -2393,7 +2410,7 @@ my-email::before {
   #main > footer {
     text-align: center; }
   #main > .post {
-    padding: 4rem 8rem 2rem 8rem ; }
+    padding: 3rem 8rem 1rem 8rem ; }
     #main > .post header.major > .date {
       margin-top: -2rem; }
     #main > .post header.major > h1, #main > .post header.major h2 {
