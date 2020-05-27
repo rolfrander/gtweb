@@ -48,8 +48,6 @@ om instrument.
 
 Hvis du har spørsmål kan du sende epost til {{<email medlem>}}.
 
-{{<button link="#form" tekst="trykk her for innmeldingsskjema" >}}
-
 ## Hvordan er det å gå i korps?
 
 Tre grupper spiller sammen hver uke:
@@ -100,13 +98,10 @@ Korpsets musikanter spiller bl.a.:
 Vi ønsker oss mange nye musikanter, så har *du* lyst til å spille i korps, trykk
 på knappen under.
 
+{{<button link="#form" tekst="trykk her for innmeldingsskjema" >}}
+
 Barnet meldes inn i Norges Musikkorps Forbund samtidig som det tas opp som
 medlem av Godlia/Trasop skolers musikkorps.
-
-Hvis du lurer på noe kan du ta kontakt med oss på epost
-{{<email medlem>}} eller telefon til styreleder Anita Moe-Riise: 926&nbsp;07&nbsp;803
-
-{{<button link="#form" tekst="trykk her for innmeldingsskjema" >}}
 
 ## Kjære foreldre
 
