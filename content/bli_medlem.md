@@ -31,7 +31,7 @@ Vil du lære å spille fløyte, trombone, klarinett, horn eller
 kornett? Eller kanskje saxofon eller trommer?
 
 Her kan du se og høre noen av instrumentene, når
-juniorkorpset musikk fra dataspillet Brawl Stars -
+juniorkorpset spiller musikk fra dataspillet Brawl Stars -
 koronaversjon:
 
 <div class="video">
