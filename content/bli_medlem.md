@@ -44,10 +44,11 @@ Korpset vil invitere til informasjonskveld med
 demonstrasjon av instrumenter like etter skolestart.
 Men de som har spørsmål eller vet at de har lyst å
 begynne i korpset kan ta kontakt nå, gjerne med ønske
-om instrument. 
+om instrument.
 
 Anbefalt alder for å begynne i korps er fra 8 år (3. klasse) og oppover.
-Vi er også åpne for ekstra motiverte 7-åringer (2. klassinger) som kan få litt hjelp hjemme.
+Vi er også åpne for ekstra motiverte 7-åringer (2. klassinger) som kan få god
+hjelp hjemme.
 
 Hvis du har spørsmål kan du sende epost til {{<email medlem>}}.
 
