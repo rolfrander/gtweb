@@ -24,11 +24,18 @@ Sitemap:
 
 ---
 
-Etter sommerferien tar vi imot nye musikanter i
-Godlia Trasop skolers musikkorps!
+Godlia Trasop musikkorps ønsker nye medlemmer velkommen!
 
-Vil du lære å spille fløyte, trombone, klarinett, horn eller
-kornett? Eller kanskje saxofon eller trommer?
+Torsdag 27. august inviterer skolekorpset elever fra 3. klasse og oppover til å
+bli bedre kjent med instrumentene og korpset.
+
+Fra kl. 19 blir det demonstrasjon av blåseinstrumenter (klarinett, sax og fløyte,
+kornett, tuba med mer) pluss slagverk (trommer) i skolegården på Godlia skole.
+
+Alle som vil begynne eller vurderer å bli med i korpset er velkommen!
+
+**Av smittevernhensyn er vi utendørs - ved regn: i toppen av trappa (A-inng.) -
+og vi kan dessverre ikke la elevene prøve instrumenter, bare lytte.**
 
 Her kan du se og høre noen av instrumentene, når
 juniorkorpset spiller musikk fra dataspillet Brawl Stars -
@@ -40,17 +47,22 @@ koronaversjon:
 </video>
 </div>
 
-Korpset vil invitere til informasjonskveld med
-demonstrasjon av instrumenter like etter skolestart.
-Men de som har spørsmål eller vet at de har lyst å
-begynne i korpset kan ta kontakt nå, gjerne med ønske
-om instrument.
-
 Anbefalt alder for å begynne i korps er fra 8 år (3. klasse) og oppover.
 Vi er også åpne for ekstra motiverte 7-åringer (2. klassinger) som kan få god
 hjelp hjemme.
 
 Hvis du har spørsmål kan du sende epost til {{<email medlem>}}.
+
+## Innmelding
+
+Vi ønsker oss mange nye musikanter, så har *du* lyst til å spille i korps, trykk
+på knappen under.
+
+{{<button link="#form" tekst="trykk her for innmeldingsskjema" >}}
+
+Barnet meldes inn i Norges Musikkorps Forbund samtidig som det tas opp som
+medlem av Godlia/Trasop skolers musikkorps.
+
 
 ## Hvordan er det å gå i korps?
 
@@ -96,16 +108,6 @@ Korpsets musikanter spiller bl.a.:
 - Baryton
 - Tuba
 - Slagverk (trommer m.m.)
-
-## Innmelding
-
-Vi ønsker oss mange nye musikanter, så har *du* lyst til å spille i korps, trykk
-på knappen under.
-
-{{<button link="#form" tekst="trykk her for innmeldingsskjema" >}}
-
-Barnet meldes inn i Norges Musikkorps Forbund samtidig som det tas opp som
-medlem av Godlia/Trasop skolers musikkorps.
 
 ## Kjære foreldre
 
