@@ -19,10 +19,10 @@ Godlia/Trasop skolers musikkorps har tre forskjellige korps:
 - Juniorkorpset er for de som er i sitt andre eller tredje år som medlem
 - Hovedkorpset er for de som har vært medlem i mer enn tre år
 
-De ulike korpsene øver til faste tider hver torsdag:
+De ulike korpsene øver på Godlia skole til faste tider hver torsdag:
 
 <table>
-<tr><th>Hovedkorps</th>   <td>Torsdager 17:30-20:00</td>
+<tr><th>Hovedkorps</th>   <td>Torsdager 17:45-20:00</td>
 <tr><th>Juniorkorps</th>  <td>Torsdager 18:00-19:30</td>
 <tr><th>Aspirantkorps</th><td>Torsdager 16:00-17:00</td>
 </table>
