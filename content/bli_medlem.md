@@ -102,12 +102,12 @@ Korpsets musikanter spiller bl.a.:
 - Fløyte
 - Klarinett
 - Saxofon
-- Horn
-- Kornett
+- [Horn](https://no.wikipedia.org/wiki/Valthorn)
+- [Kornett](https://no.wikipedia.org/wiki/Kornett)/Trompet
 - Trombone
-- Baryton
+- [Baryton](https://no.wikipedia.org/wiki/Baryton_(instrument))
 - Tuba
-- Slagverk (trommer m.m.)
+- [Slagverk](https://no.wikipedia.org/wiki/Slagverkinstrument) (trommer m.m.)
 
 ## Kjære foreldre
 
