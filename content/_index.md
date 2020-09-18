@@ -19,7 +19,7 @@ Sitemap:
 
 ---
 
-Korpset består av 60 barn fordelt på aspirantkorps, juniorkorps og hovedkorps.
+Korpset består av 50 barn fordelt på aspirantkorps, juniorkorps og hovedkorps.
 Medlemmene kommer hovedsaklig fra naboskolene Godlia, Trasop og Skøyenåsen, men
 vi tar også opp musikanter fra skoler i nærområdet som ikke har egne korps.
 
