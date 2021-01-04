@@ -36,7 +36,7 @@ function tr($f, $v)
 
 // only for testing...
 //header('Access-Control-Allow-Origin: *');
-//header('Access-Control-Expose-Headers: X-GT-Error');
+header('Access-Control-Expose-Headers: X-GT-Error');
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
