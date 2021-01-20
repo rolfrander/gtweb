@@ -26,16 +26,10 @@ Sitemap:
 
 Godlia Trasop musikkorps ønsker nye medlemmer velkommen!
 
-Torsdag 27. august inviterer skolekorpset elever fra 3. klasse og oppover til å
-bli bedre kjent med instrumentene og korpset.
+Vi tar opp nye medlemmer hver høst, følg med her og på facebook-sidene våre for
+detaljer når det nærmer seg. Vi tar opp medlemmer fra 3. klasse og oppover.
 
-Fra kl. 19 blir det demonstrasjon av blåseinstrumenter (klarinett, sax og fløyte,
-kornett, tuba med mer) pluss slagverk (trommer) i skolegården på Godlia skole.
-
-Alle som vil begynne eller vurderer å bli med i korpset er velkommen!
-
-**Av smittevernhensyn er vi utendørs - ved regn: i toppen av trappa (A-inng.) -
-og vi kan dessverre ikke la elevene prøve instrumenter, bare lytte.**
+Hvis du har spørsmål kan du sende epost til {{<email medlem>}}.
 
 Her kan du se og høre noen av instrumentene, når
 juniorkorpset spiller musikk fra dataspillet Brawl Stars -
@@ -46,12 +40,6 @@ koronaversjon:
   <source src="../video/brawl_stars.mp4" type="video/mp4">
 </video>
 </div>
-
-Anbefalt alder for å begynne i korps er fra 8 år (3. klasse) og oppover.
-Vi er også åpne for ekstra motiverte 7-åringer (2. klassinger) som kan få god
-hjelp hjemme.
-
-Hvis du har spørsmål kan du sende epost til {{<email medlem>}}.
 
 ## Innmelding
 
@@ -99,14 +87,14 @@ Vi forsøker så langt det er mulig å etterkomme musikantenes instrumentønsker
 
 Korpsets musikanter spiller bl.a.:
 
-- Fløyte
-- Klarinett
-- Saxofon
+- [Fløyte](https://no.wikipedia.org/wiki/Tverrfl%C3%B8yte)
+- [Klarinett](https://no.wikipedia.org/wiki/Klarinett)
+- [Saxofon](https://no.wikipedia.org/wiki/Saksofon)
 - [Horn](https://no.wikipedia.org/wiki/Valthorn)
 - [Kornett](https://no.wikipedia.org/wiki/Kornett)/Trompet
-- Trombone
+- [Trombone](https://no.wikipedia.org/wiki/Trombone)
 - [Baryton](https://no.wikipedia.org/wiki/Baryton_(instrument))
-- Tuba
+- [Tuba](https://no.wikipedia.org/wiki/Tuba)
 - [Slagverk](https://no.wikipedia.org/wiki/Slagverkinstrument) (trommer m.m.)
 
 ## Kjære foreldre
