@@ -4,7 +4,7 @@ menu:
   main:
     weight: 5
 
-description: Loppemarkedet er korpsets viktigste inntektskilde. Det er kjent for å være trivelig og ryddig med et stort utvalg av klær og leker, bøker, kunst, finlopper, sport med mer - pluss cafe med pølser og burgere, drikke og kaker. Vi samler inn lopper gjennom hele året.
+description: Loppemarkedet er korpsets viktigste inntektskilde. Det er kjent for å være trivelig og ryddig med et stort utvalg av klær og leker, bøker, kunst, finlopper, sport med mer - pluss cafe med pølser og burgere, drikke og kaker.
 forsidebilde: /images/fine_lopper.jpg
 bilde: /images/fine_lopper.jpg
 
@@ -14,44 +14,15 @@ Sitemap:
 
 ---
 
-Neste loppemarked er høsten 2020, følg med her for oppdateringer.
+Neste loppemarked er planlagt 24-25. april 2021, følg med her for oppdateringer.
 
 Hvis det er noe du lurer på kan du ta kontakt med oss på {{<email loppemarked>}}.
 
 ## Innlevering
 
-Noen som har ryddet de siste ukene og har noe å gi bort? Godlia Trasop skolers musikkorps tar imot lopper hele året!
-De neste ukene vil vi åpne lageret på Bogerud (bak Kiwi) tirsdag/onsdag ettermiddag/kveld etter nærmere avtale.
-Takk for alle bidrag!
-
-Vi tar i mot lopper etter avtale i vårt lager i [Stallerudveien 117](https://goo.gl/maps/ySm194Yt4MN2).
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2002.3976339757041!2d10.84076311609445!3d59.875747681853376!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46416f5c862f43ad%3A0x7abbca3ab637596a!2sStallerudveien+117%2C+0693+Oslo!5e0!3m2!1sno!2sno!4v1551210189295" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-### Vi tar i mot
-
-- Bøker (ikke leksikon)
-- Klær og tekstiler
-- Leker
-- LP/CD/DVD
-- Kjøkkenutstyr
-- Småelektrisk og lamper
-- Flat-TV som virker
-- Små møbler (ikke sofa, seng, seksjon etc)
-- Barneutstyr
-- Sportsutstyr
-- Sko/vesker
-- Etc.
-
-Vennligst sorter og merk med innhold.
-
-### Vi tar ikke i mot
-
-- Hvitevarer
-- Billedrørs-TV
-- Store seksjoner, sofaer, skap, etc.
-- Leksikon
-- Annet vi vurderer som usalgbart
+Med smittesituasjonen hadde vi dessverre ikke anledning til å arrangere noe loppemarked
+høsten 2020. Loppelageret vårt er derfor helt fullt, og inntil videre har vi derfor
+ikke mulighet til å ta i mot flere lopper.
 
 ## Vi selger
 
