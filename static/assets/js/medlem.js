@@ -3,9 +3,10 @@ function nytt_medlem() {
   $("div#form p#feilmeldinger").empty();
   $("div#form label").css("color", "");
   var data = $('div#form form').serialize();
+  var url = window.location.pathname.replace('bli_','');
   $.ajax({
      type: 'POST',
-     url: "https://www.godliatrasop.no/medlem/",
+     url: url,
      data: data,
      success: function(response) {
        if('id' in response) {

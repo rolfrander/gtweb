@@ -1,6 +1,5 @@
 <?php
 
-
 $success = include 'Config.php';
 if(!$success) {
     class Config
@@ -9,6 +8,7 @@ if(!$success) {
         const DB_PASSWORD = 'web';
         const RECAPTCHA_SECRET = null;
         const HELLO = 'hello world!';
+        const EPOST_MEDLEMSANSVARLIG = 'rolfrander@gmail.com';
     }
 }
 $adjektiv = array("liten", "stor", "gul", "blid", "fin", "rar", "morsom", "ullen", "sur", "glad");
@@ -25,6 +25,7 @@ function feilkode($feilmelding)
     $s = $substantiv[rand(0, count($substantiv)-1)];
     error_log("feilkode [".$a." ".$s."]: ".$feilmelding);
     header('X-GT-Error: '.$a." ".$s);
+    return $a." ".$s;
 }
 
 function tr($f, $v)
@@ -34,7 +35,7 @@ function tr($f, $v)
 }
 
 // only for testing...
-header('Access-Control-Allow-Origin: *');
+//header('Access-Control-Allow-Origin: *');
 header('Access-Control-Expose-Headers: X-GT-Error');
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
@@ -64,7 +65,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
       $response = file_get_contents('https://www.google.com/recaptcha/api/siteverify', false, $context);
       $result = json_decode($response);
       if (!$result->success) {
-        array_push($feil, "er du en person?");
+        array_push($feil, "er du en person??");
       }
     }
 
@@ -76,14 +77,26 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         array_push($feilfelt, "navn", "etternavn", "adresse", "postnr");
     }
 
-    $fdato = new DateTime($_POST["fdato"]);
+    $fdato = null;
+    try {
+      $fdato = new DateTime($_POST["fdato"]);
+    } catch(Exception $e) {
+      feilkode("Feil fra datoparsing: " . $e->getMessage());
+      $_POST["kommentarer"] .= " Oppgitt fødselsdato: " . $_POST["fdato"];
+    }
+
     if($fdato) {
         $now   = new DateTime("now");
         $alder = $fdato->diff($now)->y;
-        if($alder < 6 || $alder > 18) {
-            array_push($feil, "ugyldig fødselsdato");
+        //array_push($feil, "logget dato: " . $fdato->format('d. M Y'));
+        if($alder < 6) {
+            array_push($feil, "alder under 6 år");
+            array_push($feilfelt, "fdato");
+        } else if($alder > 18) {
+            array_push($feil, "alder over 18 år");
             array_push($feilfelt, "fdato");
         } else {
+            // riktig formattert dato for database
             $_POST["fdato"] = $fdato->format('Y-m-d');
         }
     } else {
@@ -112,6 +125,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     }
 
     if(count($feil) > 0 || count($feilfelt) > 0) {
+        error_log("feilmeldinger returnert til bruker: " . join(", ", $feil) . join(", ", $feilfelt));
         http_response_code(200);
         header('Content-Type: application/json');
         $ret = [ 'feil' => $feil, 'feilfelt' => $feilfelt ];
@@ -157,15 +171,13 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                 $k=feilkode("error executing transaction: ".err);
                 http_response_code(500);
             }
-        } catch (\PDOException $e) {
+        } catch (PDOException $e) {
             $k = feilkode("PDO-error (" . $e->getCode() . "): " . $e->getMessage());
             http_response_code(500);
         }
 
         // Multiple recipients
-        $to = 'GT Medlemsansvarlig <medlem@godliatrasop.no>';
-        //$to = 'rolfrander@gmail.com';
-
+        $to = CONFIG::EPOST_MEDLEMSANSVARLIG;
         // Subject
         $subject = '[GT] Nytt medlem, søknad ' . $id;
 
@@ -179,7 +191,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         <table>';
         $message = $message . tr("Navn", "navn");
         $message = $message . tr("Etternavn", "etternavn");
-        $message = $message . tr("Fødselsdato", "fdato");        
+        $message = $message . tr("Fødselsdato", "fdato");
         $message = $message . tr("Adresse", "adresse");
         $message = $message . tr("Postnummer", "postnr");
         $message = $message . tr("Poststed", "poststed");
@@ -229,7 +241,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     ?>
     <html><head><title>Hello</title></head>
 <body><h1><?php echo Config::HELLO ?></h1>
-</body></html><?php
+update 1
+    </body></html><?php
 } else {
     http_response_code(405);
 }
