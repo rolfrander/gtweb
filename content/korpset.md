@@ -40,9 +40,12 @@ Godlia/Trasop skolers musikkorps er medlem av
 
 ## Støtte
 
-I vår fikk vi støtte fra Sparebankstiftelsen DNB (tusen takk 💕) til å arrangere musikken fra NRKs populære juleserie SNØFALL for korps, og nå blir det snart konsert! Vår egen dirigent Ole Magnus Ekeberg (t. v.) har skrevet stemmer for harde livet og er i gang med å øve inn musikken med hovedkorpset, komponist Henrik Skram gleder seg til å høre 🙂
+I 2020 fikk vi støtte fra frifond-ordningen til Norsk musikkråd til gjennomføring
+av en konsert med dataspillmusikk. På grunn av COVID-19 har vi dessverre ikke
+hatt anledning til å gjennomføre konserten ennå, men noter og planer er på plass.
 
-<img src="../images/sbs-logo-dark.png" alt="Sparebankstiftelsen DNB">
+<img src="../images/nmr.png" height="90" alt="Norges Musikkråd" style="padding: 0 5em 0 5em">
+<img src="../images/frifond-svg.svg" height="90" alt="Frifond" style="padding: 0 5em 0 5em">
 
 ### Grasrotandelen
 
