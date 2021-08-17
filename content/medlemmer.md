@@ -16,8 +16,6 @@ Sitemap:
 
 Har du spørsmål om øvelser eller konserter, ta kontakt med dirigentene.
 
-Terminliste finnes [her](/terminliste)
-
 Hvis du ikke kan komme på spilletimer, samspill eller en konsert/arrangement, er
 det viktig at du gir beskjed om fraværet. Gi beskjed til dirigenten. Gjelder
 fraværet spilletimer, gir du beskjed direkte til spillelæreren.
