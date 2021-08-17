@@ -40,13 +40,6 @@ Godlia/Trasop skolers musikkorps er medlem av
 
 ## Støtte
 
-I 2020 fikk vi støtte fra frifond-ordningen til Norsk musikkråd til gjennomføring
-av en konsert med dataspillmusikk. På grunn av COVID-19 har vi dessverre ikke
-hatt anledning til å gjennomføre konserten ennå, men noter og planer er på plass.
-
-<img src="../images/nmr.png" height="90" alt="Norges Musikkråd" style="padding: 0 5em 0 5em">
-<img src="../images/frifond-svg.svg" height="90" alt="Frifond" style="padding: 0 5em 0 5em">
-
 ### Grasrotandelen
 
 Du som spiller hos Norsk Tipping kan velge ett lag eller en forening som skal
