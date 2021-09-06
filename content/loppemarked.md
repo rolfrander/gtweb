@@ -14,24 +14,57 @@ Sitemap:
 
 ---
 
-Neste loppemarked er planlagt 24-25. april 2021, følg med her for oppdateringer.
+Neste loppemarked er 16-17 oktober 2021 på Trasop skole.
+
+* Lørd 16. okt kl 10 - 16
+* Sønd 17. okt kl 11 - 15
+
+Legg alle datoer i kalenderen din ved å klikke [her](/assets/Innlevering_loppemarked.ics)
+
+Korpset spiller ved åpning begge dager. Det blir forhåpentligvis salg av både kaker, kaffe, pølser, burgere og annet digg.
+
+Følg med på [Facebook](https://www.facebook.com/events/177952901075625) for oppdateringer.
 
 Hvis det er noe du lurer på kan du ta kontakt med oss på {{<email loppemarked>}}.
 
 ## Innlevering
 
-Med smittesituasjonen hadde vi dessverre ikke anledning til å arrangere noe loppemarked
-høsten 2020. Loppelageret vårt er derfor helt fullt, og inntil videre har vi derfor
-ikke mulighet til å ta i mot flere lopper.
+Vi tar i mot lopper etter avtale i vårt lager i [Stallerudveien 117](https://goo.gl/maps/ySm194Yt4MN2) på Bogerud, bak Kiwi..
 
-## Vi selger
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2002.3976339757041!2d10.84076311609445!3d59.875747681853376!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46416f5c862f43ad%3A0x7abbca3ab637596a!2sStallerudveien+117%2C+0693+Oslo!5e0!3m2!1sno!2sno!4v1551210189295" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-klær, vesker og sko, møbler, elektriske artikler, bøker, sport/leker, finere
-lopper og kjøkkenting. Kort sagt: Alt som hører et ekte loppemarked til!
 
-## Veibeskrivelse - fra Tveita
+Vi er der mellom kl 18 - 20: 
+
+* Uke 38: Tirsd 21 og onsd 22. sept
+* Uke 39: Mand 27, tirsd 28 og onsd 29. sept.
+
+## Vi tar i mot
+
+* Tekstil: klær, sko, vesker, gardiner, duker, tepper
+* Leker og sportsutstyr
+* Bøker, tegneserier, dvd/cd/lp
+* Interiør: Kjøkkensaker, servise, glass, bestikk, blomsterpotter, vaser, lysestaker  etc. 
+* Små elektro (ikke store hvitevarer som kjøleskap etc.)
+* Små møbler
+
+Vi setter stor pris på at tingene er sortert i disse kategorier og at klær er ytterligere sortert etter: barn, dame, herre. 
+
+## Vi tar *ikke* i mot
+
+* Store eller veldig tunge møbler (sofa, spisebord, seksjoner)
+* Billy-hyller fra IKEA, eller andre bokhyller av lignende kvalitet
+* Madrasser, dyner, puter
+* Skarpe kniver (kjøkkenkniver)
+* Store hvitevarer (kjøleskap, frys, komfyr osv) 
+* Ødelagte ting
+
+
+## Hvor er Loppemarkedet
 
 [Trasop Skole](https://www.google.com/maps/place/Trasop+skole/@59.904898,10.8484054,17z/data=!3m1!4b1!4m5!3m4!1s0x46416f9d491d3505:0x9abf56f5b7e8c94!8m2!3d59.9048953!4d10.8505994) på Google Maps
+
+### Veibeskrivelse fra Tveita
 
 Følg Ytre Ringvei/Hellerudveien i retning Oppsal, og ta til høyre i første
 lyskryss (Stordamveien) og med en gang til venstre inn Vetlandsveien. Følg den
