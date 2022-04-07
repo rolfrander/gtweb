@@ -33,6 +33,11 @@ Korpset kan kontaktes på epost {{<email styret>}}.
 
 Postadresse: Postboks 72, 0671 Oslo.
 
+## Vedtekter
+
+Vedtektene ble sist endret 1. august 2018, nyeste versjon er tilgjengelig
+[her](/GT_Vedtekter_2018-08-01.pdf)
+
 ## Norges Musikkorps Forbund
 
 Godlia/Trasop skolers musikkorps er medlem av
