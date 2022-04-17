@@ -55,8 +55,12 @@ Korpsets foreldre deltar i en vaktordning på torsdagenes samspill.
 - Svarte sko (ikke sandaler) - fra din egen garderobe
 - Hvite hansker
 
-## Kontakt
-For spørsmål om uniformer, kontakt uniformsansvarlig Elin Hansen
+## Instrumenter
 
-- e-post: {{<email uniform>}}
-- Telefon: 951 68 187
+Korpset bruker mye tid og penger på vedlikehold og reparasjon av instrumenter, og derfor er det viktig
+at hver enkelt tar godt vare på instrumentet sitt. Vi har samlet gode råd om instrumentvedlikehold
+i et [dokument du kan lese her](/Vedlikehold_instrumenter_GT.pdf).
+
+## Kontakt
+For spørsmål om uniformer, instrumenter eller annet utstyr, kontakt materialforvalter:
+{{<email instrument>}}
