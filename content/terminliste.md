@@ -74,7 +74,7 @@ I tillegg er det fint om alle slagverkere som har en skarptromme fra korpset hje
   <li>14:00 Alle foresatte må møte på Trasop, salg av is, brus, kaker, burger</li>
   <li>ca 18:00 Ferdig</li>
   </ul>
-  All marsjering 17. mai er med uniform, for alle medlemmer.
+  All marsjering 17. mai er med uniform, for alle medlemmer. Aspiranter er også med i både toget i byen og i borgertoget, uten instrument, men bytter på å bære duskene på fanen.
 </dd>
 <dt>22. mai: Skøyenkvelden</dt>
 <dd>Vi regner med at det blir "skøyenkvelden" på Nordre Skøyen Hovedgård i slutten av mai, men har ikke fått detaljene bekreftet ennå.</dd>
