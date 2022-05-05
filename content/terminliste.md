@@ -88,6 +88,8 @@ I tillegg er det fint om alle slagverkere som har en skarptromme fra korpset hje
 <dd>
   Sommertur til Bø.
 </dd>
+<dt>25. august: oppstart</dt>
+<dd>Oppstart etter sommeren blir torsdag 25. august. Vi tar imot nye aspiranter samtidig.</dd>
 </dl>
 
 ## Øvetider
