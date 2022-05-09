@@ -25,14 +25,12 @@ Sitemap:
 
 ---
 
-Godlia Trasop musikkorps ønsker nye medlemmer velkommen!
+## Godlia Trasop musikkorps ønsker nye medlemmer velkommen!
 
 Torsdag 25. august inviterer skolekorpset elever fra 3. klasse og oppover til å
-bli bedre kjent med instrumentene og korpset.
-
-Det blir demonstrasjon av og mulighet til å prøve blåseinstrumenter (klarinett, sax og fløyte,
-kornett, tuba med mer) pluss slagverk (trommer) på Godlia skole.
-
+bli bedre kjent med instrumentene og korpset. Det blir demonstrasjon av og 
+mulighet til å prøve blåseinstrumenter (klarinett, sax og fløyte, kornett, 
+tuba med mer) pluss slagverk (trommer) på Godlia skole.
 Alle som vil begynne eller vurderer å bli med i korpset er velkommen!
 
 Hvis du har spørsmål kan du sende epost til {{<email medlem>}}.
