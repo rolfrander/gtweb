@@ -62,5 +62,7 @@ at hver enkelt tar godt vare på instrumentet sitt. Vi har samlet gode råd om i
 i et [dokument du kan lese her](/Vedlikehold_instrumenter_GT.pdf).
 
 ## Kontakt
-For spørsmål om uniformer, instrumenter eller annet utstyr, kontakt materialforvalter:
+For spørsmål om instrumenter, kontakt materialforvalter, Helle Louise:
 {{<email instrument>}}
+
+For spørsmål om uniformer, kontakt uniformskomiteen: {{<email uniform>}}
