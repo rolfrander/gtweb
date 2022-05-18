@@ -9,75 +9,11 @@ forsidebilde: /images/kalender.jpg
 ## Høydepunkter fremover
 
 <dl>
-<dt>8. mai: marsj-seminar</dt>
-<dd>
-Vi øver på marsjering til 17. mai. AK og JK spilleklar fra kl 10, aspiranter spilleklar kl 14. AK og JK må ha med matpakke.
-</dd>
-<dt>5. og 12. mai</dt>
-<dd>Øving til 17. mai, planen avviker fra torsdager ellers i året:
-<ul>
-<li>JK          17.00 - 19.00</li>
-<li>HK         17.30 - 20.00</li>
-</ul>
-<p>
-I denne tiden vil slagverk øve felles (JK og HK) 17.30 - 18.00, og vi vil marsjere ute begge korps 18.00 - 19.00.
-Vi kommer til å være ute i den oppsatte tiden (nesten) uansett vær, så pass på at musikantene kler seg etter været. Bruk gjerne skoene som musikantene skal bruke på 17.mai så de får vent seg til å gå i dem.
-Resten av øvelsen vil vi øve på det musikalske, inne eller ute.
-</p><p>
-Det er viktig at alle har med seg:
-</p>
-<ul>
-<li>marsjhefte og noteklype</li>
-<li>bæreseler </li>
-<li>regntrekk</li>
-</ul>
-<p>
-I tillegg er det fint om alle slagverkere som har en skarptromme fra korpset hjemme tar den med, så vi får oversikt over hvilke trommer og seler vi skal bruke.
-</p>
-</dd>
-<dt>Marsjrekkefølge</dt>
-<dd>
-<p>Vi har, i år som i fjor, to sider av marsjheftet vi bruker. En til de marsjene vi skal spille mens vi går, og en til de vi kun skal spille stående. De er som følger:</p>
-
-<p>Gående:</p>
-<ol>
-<li>Makarita</li>
-<li>King Size</li>
-<li>Stamp (ikke noter)</li>
-<li>Gammel Jegermarsj</li>
-</ol>
-<p>Stående:</p>
-<ol>
-<li>Ubuhle Bendoda</li>
-<li>Crescent City</li>
-<li>Langt å gå</li>
-<li>Fager kveldssol</li>
-<li>Ja vi elsker</li>
-</ol>
-</dd>
-<dt>16. mai</dt>
-<dd>
-  Vi pleier å spille for barnehager og Trasop/Godlia skoler noen dager før. Vi antar at det blir 16.mai i år, men beskjed kommer 
-</dd>
-<dt>17. mai</dt>
-<dd>
-<p>
-  Korpset har ansvar for 17.maiarrangementet på Trasop skole på
-  ettermiddag i år. Dette blir vårens dugnad
-  og alle foreldre må stille for at vi skal få
-  tjent mest mulig penger på en kort
-  ettermiddag.
-  </p>
-  <ul>
-  <li>07:15 Oppmøte Godlia</li>
-  <li>ca 12:00 Ferdig i byen</li>
-  <li>14:00 Alle foresatte må møte på Trasop, salg av is, brus, kaker, burger</li>
-  <li>ca 18:00 Ferdig</li>
-  </ul>
-  All marsjering 17. mai er med uniform, for alle medlemmer. Aspiranter er også med i både toget i byen og i borgertoget, uten instrument, men bytter på å bære duskene på fanen.
-</dd>
 <dt>22. mai: Skøyenkvelden</dt>
-<dd>Vi regner med at det blir "skøyenkvelden" på Nordre Skøyen Hovedgård i slutten av mai, men har ikke fått detaljene bekreftet ennå.</dd>
+<dd>
+Vi skal marsjere inn til stevneplassen via Promenaden og Peter Aas vei. Innmarsjen starter klokka 15:00, og vi kommer tilbake med presist oppmøtested og oppmøtetid for korpset når det er avklart. Korpset skal også delta med et  særnummer under stevnet.
+Musikantene skal ha uniform denne dagen. Hans Majestets kongens garde avslutter det hele ca klokka 18:30. 
+</dd>
 <dt>31. mai: rekrutteringskonserter på skolene</dt>
 <dd>Vi spiller på både Godlia og Trasop for å vise oss frem for potensielle aspiranter som skal begynne til høsten</dd>
 <dt>2. juni: åpen prøve</dt>
