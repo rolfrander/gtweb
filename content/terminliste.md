@@ -35,7 +35,7 @@ De ulike korpsene øver på Godlia skole til faste tider hver torsdag. Musikante
 <table>
 <tr><th>Hovedkorps</th>   <td>Torsdager 17:45-20:00</td>
 <tr><th>Juniorkorps</th>  <td>Torsdager 17:30-19:00</td>
-<tr><th>Aspirantkorps</th><td>Torsdager 16:00-17:00</td>
+<tr><th>Aspirantkorps</th><td>Torsdager 15:00-16:00 (Merk! Nytt tidspunkt fra 19. mai)</td>
 </table>
 
 Alle musikanter har også enetimer med instrumentlærer, tidspunkter avtales direkte med hver enkelt.
