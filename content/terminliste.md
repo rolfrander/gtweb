@@ -1,7 +1,7 @@
 ---
 title: "Terminliste"
 
-description: Oppdatert 4. mai 2022
+description: Oppdatert 19. mai 2022
 forsidebilde: /images/kalender.jpg
 
 ---
