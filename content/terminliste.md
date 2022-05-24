@@ -1,5 +1,8 @@
 ---
 title: "Terminliste"
+menu:
+  main:
+    weight: 3
 
 description: Oppdatert 19. mai 2022
 forsidebilde: /images/kalender.jpg

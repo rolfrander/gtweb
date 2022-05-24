@@ -1,8 +1,5 @@
 ---
 title: "Loppemarked"
-menu:
-  main:
-    weight: 5
 
 description: Loppemarkedet er korpsets viktigste inntektskilde. Det er kjent for å være trivelig og ryddig med et stort utvalg av klær og leker, bøker, kunst, finlopper, sport med mer - pluss cafe med pølser og burgere, drikke og kaker.
 forsidebilde: /images/fine_lopper.jpg

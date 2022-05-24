@@ -2,7 +2,7 @@
 title: "Har du lyst til å spille i korps?"
 menu:
   main:
-    weight: 4
+    weight: 1
     name: Spill med oss!
 
 description: Hos oss får du god musikkundervisning, nye venner og mange hyggelige og spennende opplevelser. Torsdag 2. juni kl 19 har vi en "åpen prøve" på Godlia skole hvor du kan komme og høre hvordan det er å spille i korps. Nå har vi også åpnet for påmelding til høstens opptak av aspiranter 2022.
@@ -11,7 +11,7 @@ forsidebilde: /images/17mai2017-bredde.jpg
 bilde: /images/17mai2017-bredde.jpg
 
 featured: true
-excludeFirstPage: false
+excludeFirstPage: true
 
 layout: medlemskjema
 

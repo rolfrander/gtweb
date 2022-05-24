@@ -1,5 +1,8 @@
 ---
 title: "Program sommertur til Bø, juni 2022"
+menu:
+  main:
+    weight: 4
 
 description: Detaljert program for korpstur til Bø Sommarland 17-19. juni 2022
 forsidebilde: /images/sommertur.jpg
