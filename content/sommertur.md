@@ -39,7 +39,7 @@ forsidebilde: /images/sommertur.jpg
 <tr><th>08:00</th><td>	Buss til Gullbring kulturanlegg. I uniform og med instrumenter.</td>
 <tr><th>08:15-09:00</th><td>	Frokost Gullbring kulturanlegg (08:00-10:00) Smør niste til lunsj.</td>
 <tr><th>09:30</th><td>	Buss til Bø Sommarland</td>
-<tr><th>11:20</th><td>	Underholdningskonsert i Bø Sommarland formiddag. Spilletid 15 min. Spillerekkefølge: Godlia Trasop musikkorps, Lillestrøm skolekorps, JK og HK</td>
+<tr><th>11:20</th><td>	Underholdningskonsert i Bø Sommarland formiddag. Spilletid 15 min. Spillerekkefølge: Godlia Trasop musikkorps, Lillestrøm skolekorps, JK og HK. Det blir også en liten konsert med aspirantkorpset i løpet av dagen, men detaljene er ikke avklart ennå.</td>
 <tr><th>11:35</th><td>	Felleslunsj. Matpakke, evt. kjøpe mat i Sommarland</td>
 <tr><th>12:00</th><td>	Bading /fritid på Sommarland</td>
 <tr><th>15:00</th><td>	Retur til campingplassen</td>
