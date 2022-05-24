@@ -9,20 +9,15 @@ forsidebilde: /images/kalender.jpg
 ## Høydepunkter fremover
 
 <dl>
-<dt>22. mai: Skøyenkvelden</dt>
-<dd>
-Vi skal marsjere inn til stevneplassen via Promenaden og Peter Aas vei. Innmarsjen starter klokka 15:00, og vi kommer tilbake med presist oppmøtested og oppmøtetid for korpset når det er avklart. Korpset skal også delta med et  særnummer under stevnet.
-Musikantene skal ha uniform denne dagen. Hans Majestets kongens garde avslutter det hele ca klokka 18:30. 
-</dd>
 <dt>31. mai: rekrutteringskonserter på skolene</dt>
-<dd>Vi spiller på både Godlia og Trasop for å vise oss frem for potensielle aspiranter som skal begynne til høsten</dd>
+<dd>Juniorkorpset spiller på både Godlia og Trasop for å vise oss frem for potensielle aspiranter som skal begynne til høsten</dd>
 <dt>2. juni: åpen prøve</dt>
 <dd>Vi har en åpen prøve hvor de som har lyst til å begynne kan komme for å høre hvordan det er å være på øvelse med oss.</dd>
 <dt>16. juni: sommeravslutning</dt>
 <dd>Sommeravslutning med en liten konsert. Pizza og is. Vi bruker også kvelden til å pakke ned utstyr som skal være med på tur dagen etter.</dd>
 <dt>17.-19. juni sommertur</dt>
 <dd>
-  Sommertur til Bø.
+  Sommertur til Bø. <a href="/sommertur">Detaljert program for sommerturen finnes her</a>
 </dd>
 <dt>25. august: oppstart</dt>
 <dd>Oppstart etter sommeren blir torsdag 25. august. Vi tar imot nye aspiranter samtidig.</dd>
