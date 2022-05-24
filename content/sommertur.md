@@ -73,7 +73,7 @@ forsidebilde: /images/sommertur.jpg
 * Barn som reiser alene må ha en kontaktperson som er med på turen.
 * Dette programmet.
 * Full uniform med noteveske og regnfrakk
-* Instrument med noteklype
+* Instrument med noteklype (aspiranter skal ikke spille og trenger ikke ta med instrument)
 * Marsjehefte
 * Vannflaske
 * Matpakkeeske (til å ha brødskivene i)
