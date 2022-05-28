@@ -44,4 +44,4 @@ Godlia/Trasop musikkorps er et foreldredrevet skolekorps med ca 40 medlemmer for
 
 ## Kontakt
 
-For begge stillingene, ta kontakt med styrets leder: Anita Moe-Riise på {{<email leder>}}, tlf 926 07 803
+For begge stillingene, ta kontakt med styrets leder: Anita Moe-Riise på {{<email styreleder>}}, tlf 926 07 803
