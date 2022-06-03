@@ -4,7 +4,7 @@ menu:
   main:
     weight: 3
 
-description: Oppdatert 19. mai 2022
+description: Oppdatert 3. juni 2022
 forsidebilde: /images/kalender.jpg
 
 ---
@@ -12,10 +12,6 @@ forsidebilde: /images/kalender.jpg
 ## Høydepunkter fremover
 
 <dl>
-<dt>31. mai: rekrutteringskonserter på skolene</dt>
-<dd>Juniorkorpset spiller på både Godlia og Trasop for å vise oss frem for potensielle aspiranter som skal begynne til høsten</dd>
-<dt>2. juni: åpen prøve</dt>
-<dd>Vi har en åpen prøve hvor de som har lyst til å begynne kan komme for å høre hvordan det er å være på øvelse med oss.</dd>
 <dt>16. juni: sommeravslutning</dt>
 <dd>Sommeravslutning med en liten konsert. Pizza og is. Vi bruker også kvelden til å pakke ned utstyr som skal være med på tur dagen etter.</dd>
 <dt>17.-19. juni sommertur</dt>
@@ -23,7 +19,7 @@ forsidebilde: /images/kalender.jpg
   Sommertur til Bø. <a href="/sommertur">Detaljert program for sommerturen finnes her</a>
 </dd>
 <dt>25. august: oppstart</dt>
-<dd>Oppstart etter sommeren blir torsdag 25. august. Vi tar imot nye aspiranter samtidig.</dd>
+<dd>Oppstart etter sommeren blir torsdag 25. august. Vi tar samtidig i mot nye aspiranter for utdeling av instrument.</dd>
 </dl>
 
 ## Øvetider
