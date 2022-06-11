@@ -4,7 +4,7 @@ menu:
   main:
     weight: 3
 
-description: Oppdatert 19. mai 2022
+description: Oppdatert 3. juni 2022
 forsidebilde: /images/kalender.jpg
 
 ---
@@ -24,7 +24,7 @@ Vi serverer pizza med drikke. Det er sendt ut epost med påmelding for å vite h
   Sommertur til Bø. <a href="/sommertur">Detaljert program for sommerturen finnes her</a>
 </dd>
 <dt>25. august: oppstart</dt>
-<dd>Oppstart etter sommeren blir torsdag 25. august. Vi tar imot nye aspiranter samtidig.</dd>
+<dd>Oppstart etter sommeren blir torsdag 25. august. Vi tar samtidig i mot nye aspiranter for utdeling av instrument.</dd>
 </dl>
 
 ## Øvetider
