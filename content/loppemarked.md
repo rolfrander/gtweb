@@ -45,6 +45,6 @@ lyskryss (Stordamveien) og med en gang til venstre inn Vetlandsveien. Følg den
 forbi Godlia skole og Oppsal Arena (Trasophallen) til du har skolen på venstre
 hånd. Parkering i skolegården.
 
-Med buss kan du ta linje 76 eller 79 og gå av på holdeplass [Trasop Skole](https://ruter.no/reiseplanlegger/Stoppested/(3011551)Trasop%20skole%20(Oslo)/Avganger/#st:1,sp:0,bp:0)
+Med buss kan du ta linje 76 eller 79 og gå av på holdeplass [Trasop Skole](https://ruter.no/reiseplanlegger/?departures=true&departureStop=%7B%22id%22%3A%22NSR%3AStopPlace%3A6214%22%2C%22name%22%3A%22Trasop+skole%22%2C%22county%22%3A%22Oslo%22%2C%22locality%22%3A%22Oslo%22%2C%22coordinates%22%3A%7B%22x%22%3A10.851185%2C%22y%22%3A59.904148%7D%2C%22category%22%3A%5B%22onstreetBus%22%5D%7D#st:1,sp:0,bp:0)
 
 Takk for at du støtter korpsarbeidet i nærmiljøet!
