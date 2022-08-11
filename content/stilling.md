@@ -1,7 +1,7 @@
 ---
 title: "Ledig stilling"
 
-description: Fra høsten 2022 trenger vi ny dirigent for juniorkorpset og ny instruktør på fløyte.
+description: Fra høsten 2022 trenger vi ny dirigent for juniorkorpset.
 
 Sitemap:
   Priority: 0.6
@@ -28,20 +28,10 @@ Arbeidsoppgaver:
 
 Vi ønsker at du er selvstendig næringsdrivene og kan fakturere korpset, lønn etter avtale.
 
-## Fløyteinstruktør
-
-Vi trenger også en instruktør på fløyte. Hvert medlem får 30 minutter individuell undervisning per uke. Vi har samspill på torsdager, og vil gjerne ha enetimer på en annen dag i uken. Enetimer har pleid å være tirsdager på Godlia skole i tidsrommet 15:00 til 19:00. Det kan også være aktuelt med bistand i forbindelse med seminarer i løpet av sesongen.
-
-Vi ønsker at du tar ansvar for:
-* Planlegging og gjennomføring av instrumentundervisning, inkludert planlegging av tidspunkter i dialog med foreldre
-* Samarbeid med dirigentene om medlemmenes musikalske utvikling
-
-Vi ønsker at du er selvstendig næringsdrivene og kan fakturere korpset, lønn etter avtale.
-
 ## Om korpset
 
 Godlia/Trasop musikkorps er et foreldredrevet skolekorps med ca 40 medlemmer fordelt over aspirant, junior og hovedkorps, de fleste i alderen 9-14. Vi rekrutterer fra naboskolene Godlia og Trasop i bydel Østensjø. Korpset har 40-års jubileum i 2022. Hovedkorpset dirigeres av Ole Magnus Ekeberg.
 
 ## Kontakt
 
-For begge stillingene, ta kontakt med styrets leder: Anita Moe-Riise på {{<email styreleder>}}, tlf 926 07 803
+Ta kontakt med styrets leder: Anita Moe-Riise på {{<email styreleder>}}, tlf 926 07 803
