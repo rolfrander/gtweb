@@ -13,7 +13,7 @@ forsidebilde: /images/kalender.jpg
 
 <dl>
 <dt>25. august: oppstart</dt>
-<dd>Oppstart etter sommeren blir torsdag 25. august. Vi tar samtidig i mot nye aspiranter for utdeling av instrument. Enetimer starter 30. august, instruktørene gjør avtaler med hver enkelt om dette. Aspirantene har første samspill 8. september.</dd>
+<dd>Oppstart etter sommeren blir torsdag 25. august. Vi tar samtidig i mot nye aspiranter for utdeling av instrument. Enetimer starter 30. august, instruktørene gjør avtaler med hver enkelt om dette. Aspirantene har første samspill 1. september.</dd>
 <dt>2. september</dt>
 <dd>Seminar før Oppsal gatefest</dd>
 <dt>3. september</dt>
