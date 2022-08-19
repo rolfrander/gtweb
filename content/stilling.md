@@ -1,7 +1,7 @@
 ---
 title: "Ledig stilling"
 
-description: Fra høsten 2022 trenger vi ny dirigent for juniorkorpset og ny instruktør på fløyte.
+description: Fra høsten 2022 trenger vi ny dirigent for juniorkorpset.
 
 Sitemap:
   Priority: 0.6

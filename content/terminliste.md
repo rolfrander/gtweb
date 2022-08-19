@@ -12,19 +12,24 @@ forsidebilde: /images/kalender.jpg
 ## Høydepunkter fremover
 
 <dl>
-<dt>16. juni: sommeravslutning</dt>
-<dd>Sommeravslutning med en liten konsert. Vi bruker også kvelden til å pakke ned utstyr som skal være med på tur dagen etter.
-
-Det er vanlig øvelser for JK og HK frem til 19:00. 
-Klokka 19:00 inviteres alle foreldre og søsken til en liten sommerkonsert i aulaen på Godlia skole 
-Vi serverer pizza med drikke. Det er sendt ut epost med påmelding for å vite hvor mye pizza vi trenger bestille.
-</dd>
-<dt>17.-19. juni sommertur</dt>
-<dd>
-  Sommertur til Bø. <a href="/sommertur">Detaljert program for sommerturen finnes her</a>
-</dd>
 <dt>25. august: oppstart</dt>
 <dd>Oppstart etter sommeren blir torsdag 25. august. Vi tar samtidig i mot nye aspiranter for utdeling av instrument.</dd>
+<dt>2. september</dt>
+<dd>Seminar</dd>
+<dt>3. september</dt>
+<dd>Oppsal gatefest</dd>
+<dt>13-16. oktober</dt>
+<dd>Loppemarked</dd>
+<dt>22-23. oktober</dt>
+<dd>Seminar</dd>
+<dt>22-23. oktober</dt>
+<dd>Seminar</dd>
+<dt>5-6. november</dt>
+<dd>Konsert</dd>
+<dt>15. desember</dt>
+<dd>Juleavslutning med stjernedryss</dd>
+<dt>11-12. mars 2023</dt>
+<dd>Distriktsmesterskap</dd>
 </dl>
 
 ## Øvetider
