@@ -1,7 +1,9 @@
 ---
 title: "Ledig stilling"
 
-description: Fra høsten 2022 trenger vi ny dirigent for juniorkorpset.
+description: Stillinger er nå besatt.
+
+excludeFirstPage: true
 
 Sitemap:
   Priority: 0.6
