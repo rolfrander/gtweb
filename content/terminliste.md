@@ -13,7 +13,9 @@ forsidebilde: /images/kalender.jpg
 
 <dl>
 <dt>25. august: oppstart</dt>
-<dd>Oppstart etter sommeren blir torsdag 25. august. Vi tar samtidig i mot nye aspiranter for utdeling av instrument. Enetimer starter 30. august, instruktørene gjør avtaler med hver enkelt om dette. Aspirantene har første samspill 1. september.</dd>
+<dd>Oppstart etter sommeren blir torsdag 25. august. Vi tar samtidig i mot nye aspiranter for utdeling av instrument. Enetimer starter 30. august, instruktørene gjør avtaler med hver enkelt om dette. 
+<dt>1. september</dt>
+<dd>Aspirantene har første samspill 1. september. Godlia Skole, Inngang B, klasserommet innerst i gangen</dd>
 <dt>2. september</dt>
 <dd>Seminar før Oppsal gatefest</dd>
 <dt>3. september</dt>
