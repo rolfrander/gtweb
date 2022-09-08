@@ -21,7 +21,9 @@ Sitemap:
 
 ---
 
-## Godlia Trasop musikkorps ønsker nye medlemmer velkommen!
+## Opptak av nye medlemmer er over for i år, nytt opptak høsten 2023
+
+For at alle våre medlemmer skal få god undervisning på riktig nivå, både alene og i grupper, tar vi opp nye medlemmer bare en gang i året.
 
 Vi tar opp nye medlemmer hver høst, følg med her og på facebook-sidene våre for
 detaljer når det nærmer seg. Vi tar opp medlemmer fra 3. klasse og oppover.
