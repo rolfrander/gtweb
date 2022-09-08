@@ -1,17 +1,13 @@
 ---
 title: "Har du lyst til å spille i korps?"
-menu:
-  main:
-    weight: 1
-    name: Spill med oss!
 
-description: Hos oss får du god musikkundervisning, nye venner og mange hyggelige og spennende opplevelser. Torsdag 2. juni kl 19 har vi en "åpen prøve" på Godlia skole hvor du kan komme og høre hvordan det er å spille i korps. Nå har vi også åpnet for påmelding til høstens opptak av aspiranter 2022.
+description: Hos oss får du god musikkundervisning, nye venner og mange hyggelige og spennende opplevelser. Torsdag 2. juni kl 19 har vi en "åpen prøve" på Godlia skole hvor du kan komme og høre hvordan det er å spille i korps.
 
 forsidebilde: /images/17mai2017-bredde.jpg
 bilde: /images/17mai2017-bredde.jpg
 
-featured: true
-excludeFirstPage: true
+featured: false
+excludeFirstPage: false
 
 layout: medlemskjema
 
@@ -27,11 +23,8 @@ Sitemap:
 
 ## Godlia Trasop musikkorps ønsker nye medlemmer velkommen!
 
-Torsdag 25. august inviterer skolekorpset elever fra 3. klasse og oppover til å
-bli bedre kjent med instrumentene og korpset. Det blir demonstrasjon av og 
-mulighet til å prøve blåseinstrumenter (klarinett, sax og fløyte, kornett, 
-tuba med mer) pluss slagverk (trommer) på Godlia skole.
-Alle som vil begynne eller vurderer å bli med i korpset er velkommen!
+Vi tar opp nye medlemmer hver høst, følg med her og på facebook-sidene våre for
+detaljer når det nærmer seg. Vi tar opp medlemmer fra 3. klasse og oppover.
 
 Hvis du har spørsmål kan du sende epost til {{<email medlem>}}.
 
@@ -47,13 +40,7 @@ koronaversjon:
 
 ## Innmelding
 
-Vi ønsker oss mange nye musikanter, så har *du* lyst til å spille i korps, trykk
-på knappen under.
-
-{{<button link="#form" tekst="trykk her for innmeldingsskjema" >}}
-
-Barnet meldes inn i Norges Musikkorps Forbund samtidig som det tas opp som
-medlem av Godlia/Trasop skolers musikkorps.
+Opptaket er over for denne sesongen, neste mulighet blir høsten 2022.
 
 ## Hvordan er det å gå i korps?
 

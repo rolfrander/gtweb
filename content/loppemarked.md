@@ -1,5 +1,11 @@
 ---
 title: "Loppemarked"
+menu:
+  main:
+    weight: 5
+
+featured: true
+excludeFirstPage: true
 
 description: Loppemarkedet er korpsets viktigste inntektskilde. Det er kjent for å være trivelig og ryddig med et stort utvalg av klær og leker, bøker, kunst, finlopper, sport med mer - pluss cafe med pølser og burgere, drikke og kaker. Neste loppemarked er 15-16. oktober 2022.
 forsidebilde: /images/fine_lopper.jpg
