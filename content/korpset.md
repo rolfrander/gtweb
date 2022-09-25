@@ -10,22 +10,6 @@ bilde: /images/4P3A8009.jpg
 
 ---
 
-## Faste tider for samspill
-
-Godlia/Trasop skolers musikkorps har tre forskjellige korps:
-
-- Aspirantkorpset er samspilltrening for de aller nyeste medlemmene,
-  det første året de er medlem
-- Juniorkorpset er for de som er i sitt andre eller tredje år som medlem
-- Hovedkorpset er for de som har vært medlem i mer enn tre år
-
-De ulike korpsene øver på Godlia skole til faste tider hver torsdag:
-
-<table>
-<tr><th>Hovedkorps</th>   <td>Torsdager 17:45-20:00</td>
-<tr><th>Juniorkorps</th>  <td>Torsdager 18:00-19:30</td>
-<tr><th>Aspirantkorps</th><td>Torsdager 16:00-17:00</td>
-</table>
 
 ## Kontakt oss
 
