@@ -1,7 +1,7 @@
 ---
 title: "Har du lyst til å spille i korps?"
 
-description: Hos oss får du god musikkundervisning, nye venner og mange hyggelige og spennende opplevelser. Torsdag 2. juni kl 19 har vi en "åpen prøve" på Godlia skole hvor du kan komme og høre hvordan det er å spille i korps.
+description: Hos oss får du god musikkundervisning, nye venner og mange hyggelige og spennende opplevelser. Vi har tar ikke opp flere medlemmer denne sesongen, men det blir nye muligheter neste høst.
 
 forsidebilde: /images/17mai2017-bredde.jpg
 bilde: /images/17mai2017-bredde.jpg
