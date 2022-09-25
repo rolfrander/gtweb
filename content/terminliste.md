@@ -13,7 +13,9 @@ forsidebilde: /images/kalender.jpg
 
 <dl>
 <dt>25. august: oppstart</dt>
-<dd>Oppstart etter sommeren blir torsdag 25. august. Vi tar samtidig i mot nye aspiranter for utdeling av instrument. Enetimer starter 30. august, instruktørene gjør avtaler med hver enkelt om dette. Aspirantene har første samspill 8. september.</dd>
+<dd>Oppstart etter sommeren blir torsdag 25. august. Vi tar samtidig i mot nye aspiranter for utdeling av instrument. Enetimer starter 30. august, instruktørene gjør avtaler med hver enkelt om dette. 
+<dt>1. september</dt>
+<dd>Aspirantene har første samspill 1. september. Godlia Skole, Inngang B, klasserommet innerst i gangen</dd>
 <dt>2. september</dt>
 <dd>Seminar før Oppsal gatefest</dd>
 <dt>3. september</dt>
@@ -40,8 +42,8 @@ De ulike korpsene øver på Godlia skole til faste tider hver torsdag. Musikante
 
 <table>
 <tr><th>Hovedkorps</th>   <td>Torsdager 17:45-20:00</td>
-<tr><th>Juniorkorps</th>  <td>Torsdager 17:30-19:00</td>
-<tr><th>Aspirantkorps</th><td>Torsdager 15:00-16:00 (Merk! Nytt tidspunkt fra 19. mai)</td>
+<tr><th>Juniorkorps</th>  <td>Torsdager 18:30-19:45 (Midlertidig ordning inntil videre)</td>
+<tr><th>Aspirantkorps</th><td>Torsdager 15:00-16:00</td>
 </table>
 
 Alle musikanter har også enetimer med instrumentlærer, tidspunkter avtales direkte med hver enkelt.
