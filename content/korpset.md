@@ -29,6 +29,17 @@ Godlia/Trasop skolers musikkorps er medlem av
 
 ## Støtte
 
+For sesongen 2022-23 har vi vært heldige og fått økonomisk støtte fra Obos til instruktører, t-skjorter, arrangering av musikk og seminar til våren. 
+
+<img src="../images/obos_liggende.svg" height="50" alt="OBOS">
+
+Vi har også fått midler fra frifond-ordningen øremerket instruktører.
+
+<img src="../images/nmf_logo.svg" height="80" alt="NMF">
+
+Tusen takk!
+
+
 ### Grasrotandelen
 
 Du som spiller hos Norsk Tipping kan velge ett lag eller en forening som skal
