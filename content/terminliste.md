@@ -12,23 +12,11 @@ forsidebilde: /images/kalender.jpg
 ## Høydepunkter fremover
 
 <dl>
-<dt>25. august: oppstart</dt>
-<dd>Oppstart etter sommeren blir torsdag 25. august. Vi tar samtidig i mot nye aspiranter for utdeling av instrument. Enetimer starter 30. august, instruktørene gjør avtaler med hver enkelt om dette. 
-<dt>1. september</dt>
-<dd>Aspirantene har første samspill 1. september. Godlia Skole, Inngang B, klasserommet innerst i gangen</dd>
-<dt>2. september</dt>
-<dd>Seminar før Oppsal gatefest</dd>
-<dt>3. september</dt>
-<dd>Oppsal gatefest</dd>
-<dt>29. september</dt>
-<dd>Kammerkonsert</dd>
 <dt>13-16. oktober</dt>
 <dd>Loppemarked</dd>
 <dt>22-23. oktober</dt>
-<dd>Seminar</dd>
-<dt>22-23. oktober</dt>
-<dd>Seminar</dd>
-<dt>5-6. november</dt>
+<dd>Seminar. Normale tidspunkt for seminar er 10-16 på lørdag og 10-15 på søndag, og med en hentekonsert rett før avsltning søndagen. Følg med i kalenderen under for oppdateringer</dd>
+<dt>6. november</dt>
 <dd>Konsert</dd>
 <dt>15. desember</dt>
 <dd>Juleavslutning med stjernedryss</dd>
