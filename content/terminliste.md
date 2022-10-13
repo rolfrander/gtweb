@@ -13,7 +13,7 @@ forsidebilde: /images/kalender.jpg
 
 <dl>
 <dt>13-16. oktober</dt>
-<dd>Loppemarked</dd>
+<dd>Loppemarked. For foreldre går dette over 4 dager,  med forberedelser torsdag og fredag, gjennomføring lørdag og søndag, og opprydding søndag ettermiddag. Mer om planer for hver dag ligger i kalenderen under.</dd>
 <dt>22-23. oktober</dt>
 <dd>Seminar. Normale tidspunkt for seminar er 10-16 på lørdag og 10-15 på søndag, og med en hentekonsert rett før avsltning søndagen. Følg med i kalenderen under for oppdateringer</dd>
 <dt>6. november</dt>
