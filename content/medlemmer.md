@@ -1,6 +1,10 @@
 ---
 title: "Medlemsinfo"
 
+menu:
+  main:
+    weight: 10
+
 description: Praktisk informasjon til medlemmer av korpset.
 forsidebilde: /images/trumpet.jpg
 bilde: /images/trumpet.jpg

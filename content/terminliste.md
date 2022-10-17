@@ -4,7 +4,7 @@ menu:
   main:
     weight: 3
 
-description: Oppdatert 19. august 2022
+description: Oppdatert 17. oktober 2022
 forsidebilde: /images/kalender.jpg
 
 ---
@@ -12,8 +12,6 @@ forsidebilde: /images/kalender.jpg
 ## Høydepunkter fremover
 
 <dl>
-<dt>13-16. oktober</dt>
-<dd>Loppemarked. For foreldre går dette over 4 dager,  med forberedelser torsdag og fredag, gjennomføring lørdag og søndag, og opprydding søndag ettermiddag. Mer om planer for hver dag ligger i kalenderen under.</dd>
 <dt>22-23. oktober</dt>
 <dd>Seminar. Normale tidspunkt for seminar er 10-16 på lørdag og 10-15 på søndag, og med en hentekonsert rett før avsltning søndagen. Følg med i kalenderen under for oppdateringer</dd>
 <dt>6. november</dt>
