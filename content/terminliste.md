@@ -4,7 +4,7 @@ menu:
   main:
     weight: 3
 
-description: Oppdatert 17. oktober 2022
+description: Oppdatert 24. oktober 2022
 forsidebilde: /images/kalender.jpg
 
 ---
@@ -12,8 +12,6 @@ forsidebilde: /images/kalender.jpg
 ## Høydepunkter fremover
 
 <dl>
-<dt>22-23. oktober</dt>
-<dd>Seminar. Normale tidspunkt for seminar er 10-16 på lørdag og 10-15 på søndag, og med en hentekonsert rett før avsltning søndagen. Følg med i kalenderen under for oppdateringer</dd>
 <dt>6. november</dt>
 <dd>Konsert</dd>
 <dt>15. desember</dt>
