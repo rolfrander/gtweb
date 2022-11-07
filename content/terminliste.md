@@ -4,7 +4,7 @@ menu:
   main:
     weight: 3
 
-description: Oppdatert 24. oktober 2022
+description: Oppdatert 7. november 2022
 forsidebilde: /images/kalender.jpg
 
 ---
@@ -12,12 +12,27 @@ forsidebilde: /images/kalender.jpg
 ## Høydepunkter fremover
 
 <dl>
-<dt>6. november</dt>
-<dd>Konsert</dd>
 <dt>15. desember</dt>
 <dd>Juleavslutning med stjernedryss</dd>
-<dt>11-12. mars 2023</dt>
+<dt>4-5. mars</dt>
 <dd>Distriktsmesterskap</dd>
+<dt>11-12. mars</dt>
+<dd>Distriktsmesterskap</dd>
+<dt>30. mars (torsdag)</dt>
+<dd>Vårkonsert</dt>1
+<dt>20-23. mars</dt>
+<dd>Loppemarked</dd>
+<dt>14. mai</dt>
+<dd>Marsj-seminar</dd>
+<dt>16. mai</dt>
+<dd>Barnehagetog</dd>
+<dt>17. mai</dt>
+<dd>Nasjonaldag</dd>
+<dt>ukjent</dt>
+<dd>Skøyenkvelden. Dette pleier å være en torsdag, men i 2022 var det en søndag. Vi har foreløpig ikke fått noe informasjon om planer for 2023</dd>
+<dt>17-18. juni</dt>
+<dd>Mulig helg for sommertur</dd>
+
 </dl>
 
 ## Øvetider

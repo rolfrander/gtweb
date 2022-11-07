@@ -4,8 +4,8 @@ title: "Neste konsert"
 description: Konsert søndag 6. november 18:00-19:30.
 forsidebilde: /images/jazz.svg
 bilde: /images/jazz.svg
-featured: true
-excludeFirstPage: false
+featured: false
+excludeFirstPage: true
 ---
 
 Korpset presenterer høstens jazz-prosjekt søndag 6. november 18:00-19:30.
