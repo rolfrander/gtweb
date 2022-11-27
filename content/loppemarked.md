@@ -4,7 +4,7 @@ title: "Loppemarked"
 featured: false
 excludeFirstPage: false
 
-description: Høstens loppemarked er over for denne gang, neste blir våren 2023.
+description: Høstens loppemarked er over for denne gang, neste blir 22-23. april 2023.
 
 forsidebilde: /images/fine_lopper.jpg
 bilde: /images/fine_lopper.jpg

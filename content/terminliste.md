@@ -20,7 +20,7 @@ forsidebilde: /images/kalender.jpg
 <dd>Distriktsmesterskap</dd>
 <dt>30. mars (torsdag)</dt>
 <dd>Vårkonsert</dt>1
-<dt>20-23. mars</dt>
+<dt>20-23. april</dt>
 <dd>Loppemarked</dd>
 <dt>14. mai</dt>
 <dd>Marsj-seminar</dd>
