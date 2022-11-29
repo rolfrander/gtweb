@@ -4,7 +4,7 @@ menu:
   main:
     weight: 3
 
-description: Oppdatert 7. november 2022
+description: Oppdatert 29. november 2022
 forsidebilde: /images/kalender.jpg
 
 ---
@@ -41,7 +41,7 @@ De ulike korpsene øver på Godlia skole til faste tider hver torsdag. Musikante
 
 <table>
 <tr><th>Hovedkorps</th>   <td>Torsdager 17:45-20:00</td>
-<tr><th>Juniorkorps</th>  <td>Torsdager 18:30-19:45 (Midlertidig ordning inntil videre)</td>
+<tr><th>Juniorkorps</th>  <td>Torsdager 17:30-19:00 (Nye tider fra 1. desember)</td>
 <tr><th>Aspirantkorps</th><td>Torsdager 15:00-16:00</td>
 </table>
 
