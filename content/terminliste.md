@@ -21,7 +21,7 @@ forsidebilde: /images/kalender.jpg
 <dt>11-12. mars</dt>
 <dd>Distriktsmesterskap (Juniorkorps og hovedkorps)</dd>
 <dt>30. mars (torsdag)</dt>
-<dd>Vårkonsert</dt>1
+<dd>Vårkonsert</dt>
 <dt>20-23. april</dt>
 <dd>Loppemarked</dd>
 <dt>14. mai</dt>
