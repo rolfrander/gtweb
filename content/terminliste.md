@@ -14,10 +14,10 @@ forsidebilde: /images/kalender.jpg
 <dl>
 <dt>15. desember</dt>
 <dd>Juleavslutning med stjernedryss</dd>
-<dt>4-5. mars</dt>
-<dd>Distriktsmesterskap</dd>
+<dt>3-5. mars</dt>
+<dd>Seminar på <a href="https://gavelstad.no">Gavelstad gjestegård</a> (Juniorkorps og hovedkorps)</dd>
 <dt>11-12. mars</dt>
-<dd>Distriktsmesterskap</dd>
+<dd>Distriktsmesterskap (Juniorkorps og hovedkorps)</dd>
 <dt>30. mars (torsdag)</dt>
 <dd>Vårkonsert</dt>1
 <dt>20-23. april</dt>
