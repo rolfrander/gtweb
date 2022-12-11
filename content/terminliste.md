@@ -14,6 +14,8 @@ forsidebilde: /images/kalender.jpg
 <dl>
 <dt>15. desember</dt>
 <dd>Juleavslutning med stjernedryss</dd>
+<dt>3. januar</dt>
+<dd>Oppstart etter juleferien</dd>
 <dt>3-5. mars</dt>
 <dd>Seminar på <a href="https://gavelstad.no">Gavelstad gjestegård</a> (Juniorkorps og hovedkorps)</dd>
 <dt>11-12. mars</dt>
