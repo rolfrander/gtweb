@@ -12,14 +12,14 @@ forsidebilde: /images/kalender.jpg
 ## Høydepunkter fremover
 
 <dl>
-<dt>15. desember</dt>
-<dd>Juleavslutning med stjernedryss</dd>
-<dt>3. januar</dt>
-<dd>Oppstart etter juleferien</dd>
+<dt>9. februar</dt>
+<dd>Digitalt foreldremøte</dd>
 <dt>3-5. mars</dt>
 <dd>Seminar på <a href="https://gavelstad.no">Gavelstad gjestegård</a> (Juniorkorps og hovedkorps)</dd>
-<dt>11-12. mars</dt>
+<dt>11. mars</dt>
 <dd>Distriktsmesterskap (Juniorkorps og hovedkorps)</dd>
+<dt>16. mars</dt>
+<dd>Generalforsamling</dd>
 <dt>30. mars (torsdag)</dt>
 <dd>Vårkonsert</dt>
 <dt>20-23. april</dt>
