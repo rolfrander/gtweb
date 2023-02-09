@@ -9,8 +9,12 @@
   <meta name="description" content="{{ .Description }}">
   <meta name="geo.position" content="59.907389;10.84698" >
   <meta name="ICBM" content="59.907389, 10.84698" >
-  {{- /* $css := resources.Get "sass/main.scss" | resources.ToCSS (dict "targetPath" "assets/css/main.css") */ -}}
-  <link rel="stylesheet" href="{{ "assets/css/main.css" | relURL }}" media="screen">
+  {{ $style := resources.Get "sass/main.scss" | toCSS (dict "targetPath" "assets/css/main.css" ) }}
+  <link rel="stylesheet" href="{{ $style.Permalink | relURL }}">
+  {{ $noscript := resources.Get "sass/noscript.scss" | toCSS (dict "targetPath" "assets/css/noscript.css" ) }}
+  <noscript><link rel="stylesheet" href="{{ $noscript.Permalink | relURL }}" /></noscript>
+  <!--link rel="stylesheet" href="{{ "assets/css/main.css" | relURL }}" media="screen"-->
+
 
   <link rel="icon" href="{{ "images/logo_16.png" | relURL}}" sizes="16x16" />
 </head>
