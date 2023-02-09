@@ -2407,6 +2407,16 @@ div.video > video {
     margin: 0; }
     #main > *:first-child {
       border-top: 0; }
+  #main dl {
+    padding: 0; }
+  #main dt {
+    margin: 0;
+    line-height: normal; }
+  #main dd {
+    padding: 0;
+    margin-left: 4em;
+    margin-bottom: 1em;
+    line-height: normal; }
   #main > footer {
     text-align: center; }
   #main > .post {
