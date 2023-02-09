@@ -4,7 +4,7 @@ menu:
   main:
     weight: 3
 
-description: Oppdatert 29. november 2022
+description: Oppdatert 1. februar 2023
 forsidebilde: /images/kalender.jpg
 
 ---
