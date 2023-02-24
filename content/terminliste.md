@@ -4,7 +4,7 @@ menu:
   main:
     weight: 3
 
-description: Oppdatert 7. november 2022
+description: Oppdatert 9. februar 2023
 forsidebilde: /images/kalender.jpg
 
 ---
@@ -12,15 +12,15 @@ forsidebilde: /images/kalender.jpg
 ## Høydepunkter fremover
 
 <dl>
-<dt>15. desember</dt>
-<dd>Juleavslutning med stjernedryss</dd>
-<dt>4-5. mars</dt>
-<dd>Distriktsmesterskap</dd>
-<dt>11-12. mars</dt>
-<dd>Distriktsmesterskap</dd>
+<dt>3-5. mars</dt>
+<dd>Seminar på <a href="https://gavelstad.no">Gavelstad gjestegård</a> (Juniorkorps og hovedkorps)</dd>
+<dt>11. mars</dt>
+<dd>Distriktsmesterskap (Juniorkorps og hovedkorps)</dd>
+<dt>16. mars</dt>
+<dd>Generalforsamling</dd>
 <dt>30. mars (torsdag)</dt>
-<dd>Vårkonsert</dt>1
-<dt>20-23. mars</dt>
+<dd>Vårkonsert</dt>
+<dt>20-23. april</dt>
 <dd>Loppemarked</dd>
 <dt>14. mai</dt>
 <dd>Marsj-seminar</dd>
@@ -37,12 +37,16 @@ forsidebilde: /images/kalender.jpg
 
 ## Øvetider
 
-De ulike korpsene øver på Godlia skole til faste tider hver torsdag. Musikantene skal være spilleklare til disse tidspunktene, som betyr at man bør møte opp 15 minutter før for å rekke å pakke opp.
+De ulike korpsene øver på Godlia skole til faste tider hver **torsdag**. Musikantene skal være spilleklare til disse tidspunktene, som betyr at man bør møte opp 15 minutter før for å rekke å pakke opp.
 
 <table>
-<tr><th>Hovedkorps</th>   <td>Torsdager 17:45-20:00</td>
-<tr><th>Juniorkorps</th>  <td>Torsdager 18:30-19:45 (Midlertidig ordning inntil videre)</td>
-<tr><th>Aspirantkorps</th><td>Torsdager 15:00-16:00</td>
+<colgroup>
+    <col span="1" style="width: 20%;">
+    <col span="1" style="width: 80%;">
+</colgroup>
+<tr><th>Aspirantkorps</th><td>15:00-16:00</td>
+<tr><th>Juniorkorps</th>  <td>17:30-19:00</td>
+<tr><th>Hovedkorps</th>   <td>17:45-20:00</td>
 </table>
 
 Alle musikanter har også enetimer med instrumentlærer, tidspunkter avtales direkte med hver enkelt.
