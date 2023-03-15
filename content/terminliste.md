@@ -4,7 +4,7 @@ menu:
   main:
     weight: 3
 
-description: Oppdatert 9. februar 2023
+description: Oppdatert 15. mars 2023
 forsidebilde: /images/kalender.jpg
 
 ---
@@ -12,10 +12,6 @@ forsidebilde: /images/kalender.jpg
 ## Høydepunkter fremover
 
 <dl>
-<dt>3-5. mars</dt>
-<dd>Seminar på <a href="https://gavelstad.no">Gavelstad gjestegård</a> (Juniorkorps og hovedkorps)</dd>
-<dt>11. mars</dt>
-<dd>Distriktsmesterskap (Juniorkorps og hovedkorps)</dd>
 <dt>16. mars</dt>
 <dd>Generalforsamling</dd>
 <dt>30. mars (torsdag)</dt>
@@ -28,10 +24,10 @@ forsidebilde: /images/kalender.jpg
 <dd>Barnehagetog</dd>
 <dt>17. mai</dt>
 <dd>Nasjonaldag</dd>
-<dt>ukjent</dt>
-<dd>Skøyenkvelden. Dette pleier å være en torsdag, men i 2022 var det en søndag. Vi har foreløpig ikke fått noe informasjon om planer for 2023</dd>
-<dt>17-18. juni</dt>
-<dd>Mulig helg for sommertur</dd>
+<dt>4. juni</dt>
+<dd>Skøyenkvelden.</dd>
+<dt>16-18. juni</dt>
+<dd>Sommertur</dd>
 
 </dl>
 
