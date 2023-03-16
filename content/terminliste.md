@@ -4,7 +4,7 @@ menu:
   main:
     weight: 3
 
-description: Oppdatert 15. mars 2023
+description: Oppdatert 16. mars 2023
 forsidebilde: /images/kalender.jpg
 
 ---
@@ -12,8 +12,8 @@ forsidebilde: /images/kalender.jpg
 ## Høydepunkter fremover
 
 <dl>
-<dt>16. mars</dt>
-<dd>Generalforsamling</dd>
+<dt>30. mars</dt>
+<dd>Ekstraordinær generalforsamling</dd>
 <dt>30. mars (torsdag)</dt>
 <dd>Vårkonsert</dt>
 <dt>20-23. april</dt>
@@ -27,7 +27,7 @@ forsidebilde: /images/kalender.jpg
 <dt>4. juni</dt>
 <dd>Skøyenkvelden.</dd>
 <dt>16-18. juni</dt>
-<dd>Sommertur</dd>
+<dd><a href="/GT_sommertur-2023.pdf">Sommertur</a></dd>
 
 </dl>
 
