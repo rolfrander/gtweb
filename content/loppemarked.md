@@ -32,6 +32,8 @@ Vi tar i mot lopper på vårt lager i [Stallerudveien 117](https://goo.gl/maps/y
 - tirsdag 11. april
 - onsdag 12. april
 
+Legg disse datoene rett inn i kalenderen din ved å trykke [her](/assets/Innlevering_loppemarked.ics)
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2002.3976339757041!2d10.84076311609445!3d59.875747681853376!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46416f5c862f43ad%3A0x7abbca3ab637596a!2sStallerudveien+117%2C+0693+Oslo!5e0!3m2!1sno!2sno!4v1551210189295" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ## Vi tar i mot
