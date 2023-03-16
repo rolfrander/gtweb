@@ -1,10 +1,13 @@
 ---
 title: "Loppemarked"
+menu:
+  main:
+    weight: 2
 
 featured: false
 excludeFirstPage: false
 
-description: Høstens loppemarked er over for denne gang, neste blir 22-23. april 2023.
+description: Vårens loppemarked er 22-23. april 2023.
 
 forsidebilde: /images/fine_lopper.jpg
 bilde: /images/fine_lopper.jpg
@@ -17,10 +20,17 @@ Sitemap:
 
 Hvis det er noe du lurer på kan du ta kontakt med oss på {{<email loppemarked>}}.
 
-
 ## Innlevering
 
-Noen som har ryddet de siste ukene og har noe å gi bort? Godlia Trasop skolers musikkorps tar imot lopper hele året!
+Noen som har ryddet de siste ukene og har noe å gi bort? 
+Vi tar i mot lopper på vårt lager i [Stallerudveien 117](https://goo.gl/maps/ySm194Yt4MN2) kl 18:00 til 19:30 følgende dager:
+
+- tirsdag 21. mars
+- onsdag 22. mars
+- tirsdag 28. mars
+- onsdag 29. mars
+- tirsdag 11. april
+- onsdag 12. april
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2002.3976339757041!2d10.84076311609445!3d59.875747681853376!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46416f5c862f43ad%3A0x7abbca3ab637596a!2sStallerudveien+117%2C+0693+Oslo!5e0!3m2!1sno!2sno!4v1551210189295" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
