@@ -37,6 +37,10 @@ Vi har også fått midler fra frifond-ordningen øremerket instruktører.
 
 <img src="../images/nmf_logo.svg" height="80" alt="NMF">
 
+Fra Opsahlfondet har vi fått 10.000,- til uniformer.
+
+<img src="../images/opsahlgruppen.svg" height="80" alt="Opsahlgruppen">
+
 Tusen takk!
 
 
