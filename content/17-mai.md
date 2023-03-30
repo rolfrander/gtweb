@@ -43,7 +43,7 @@ Basert på tidligere erfaringer antar vi at hovedtrekkene i programmet blir som 
   * Flaggheising med fanfare
   * Ja vi elsker
   * GT-koret synger 
-  * Dagens 17.mat-tale
+  * Dagens 17.mai-tale
 * Kl. 08:00 Korpset marsjerer fra Godlia til Trasop
   * Flaggheising med fanfare
   * Ja vi elsker
