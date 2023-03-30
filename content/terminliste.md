@@ -12,10 +12,6 @@ forsidebilde: /images/kalender.jpg
 ## Høydepunkter fremover
 
 <dl>
-<dt>30. mars</dt>
-<dd>Ekstraordinær generalforsamling</dd>
-<dt>30. mars (torsdag)</dt>
-<dd>Vårkonsert</dt>
 <dt>20-23. april</dt>
 <dd>Loppemarked</dd>
 <dt>14. mai</dt>
