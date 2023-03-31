@@ -4,7 +4,7 @@ menu:
   main:
     weight: 3
 
-description: Oppdatert 30. mars 2023
+description: Oppdatert 31. mars 2023
 forsidebilde: /images/kalender.jpg
 
 ---
@@ -19,7 +19,7 @@ forsidebilde: /images/kalender.jpg
 <dt>16. mai</dt>
 <dd>Barnehagetog</dd>
 <dt>17. mai</dt>
-<dd>Nasjonaldag</dd>
+<dd>Nasjonaldag. Litt mer info om 16. og 17. mai finnes <a href="/17-mai">her</a></dd>
 <dt>4. juni</dt>
 <dd>Skøyenkvelden.</dd>
 <dt>16-18. juni</dt>
