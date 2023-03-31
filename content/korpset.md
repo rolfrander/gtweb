@@ -19,8 +19,8 @@ Postadresse: Postboks 72, 0671 Oslo.
 
 ## Vedtekter
 
-Vedtektene ble sist endret 1. august 2018, nyeste versjon er tilgjengelig
-[her](/GT_Vedtekter_2018-08-01.pdf)
+[Vedtektene](/vedtekter_2023.pdf) ble justert på årsmøtet 2023 og gjelder fra 1. april.
+
 
 ## Norges Musikkorps Forbund
 
