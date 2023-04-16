@@ -26,7 +26,7 @@ Hvis det er noe du lurer på kan du ta kontakt med oss på {{<email loppemarked>
 
 ## Innlevering
 
-Det er fortsatt mulig å levere inn lopper på Trasop skole fredag 21. april kl 18-21.
+Det er fortsatt mulig å levere inn lopper på Trasop skole fredag 21. april kl 18:00-19:30.
 
 ## Vi tar i mot
 
