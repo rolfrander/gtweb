@@ -1,9 +1,5 @@
 ---
 title: "Loppemarked"
-menu:
-  main:
-    weight: 2
-
 featured: false
 excludeFirstPage: false
 
