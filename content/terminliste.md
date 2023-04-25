@@ -4,7 +4,7 @@ menu:
   main:
     weight: 3
 
-description: Oppdatert 31. mars 2023
+description: Oppdatert 24. april 2023
 forsidebilde: /images/kalender.jpg
 
 ---
@@ -12,19 +12,20 @@ forsidebilde: /images/kalender.jpg
 ## Høydepunkter fremover
 
 <dl>
-<dt>20-23. april</dt>
-<dd>Loppemarked</dd>
 <dt>14. mai</dt>
 <dd>Marsj-seminar</dd>
 <dt>16. mai</dt>
 <dd>Barnehagetog</dd>
 <dt>17. mai</dt>
 <dd>Nasjonaldag. Litt mer info om 16. og 17. mai finnes <a href="/17-mai">her</a></dd>
+<dt>25. mai</dt>
+<dd>Rekrutteringskonserter på skolene og åpen prøve på kvelden. I år kommer vi til å ha rekrutteringsaktiviteter som går over flere torsdagsøvelser. Mer info om dette vil komme. Åpen prøve betyr at vi inviterer de som er nysgjerrige på hvordan det er å spille i korps til å komme og høre på en øvelse, og la de få prøve instrumenter.</dd>
 <dt>4. juni</dt>
 <dd>Skøyenkvelden.</dd>
 <dt>16-18. juni</dt>
 <dd><a href="/GT_sommertur-2023.pdf">Sommertur</a></dd>
-
+<dt>24. august</dt>
+<dd>Oppstart etter sommerferien</dd>
 </dl>
 
 ## Øvetider
