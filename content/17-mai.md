@@ -69,3 +69,5 @@ Styret vil oppdatere med tidspunkter og andre detaljer når disse er klare
 * Kl 15:00 Borgertoget går fra Trasop skole.
 
 I 2022 gikk toget følgende rute: Opp Vetlandsveien ut i Solbergliveien og ned Vetlandsfaret tilbake til Trasop. Når korpset er tilbake på Trasop er musikantene ferdig med all spilling og kan ta seg velfortjent fri
+
+Merk at vi skal **ikke** stå for cafe på Trasop i år. Vi og skolekoret har ansvar for dette annenhvert år, og de årene vi ikke har 17. mai-salg har vi i stedet vår-loppemarked.
