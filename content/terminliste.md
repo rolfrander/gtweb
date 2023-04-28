@@ -26,6 +26,8 @@ forsidebilde: /images/kalender.jpg
 <dd><a href="/GT_sommertur-2023.pdf">Sommertur</a></dd>
 <dt>24. august</dt>
 <dd>Oppstart etter sommerferien</dd>
+<dt>2. september</dt>
+<dd>Oppsal gatefest</dd>
 </dl>
 
 ## Øvetider
