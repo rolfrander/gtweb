@@ -1,7 +1,7 @@
 ---
 title: "Ledig stilling"
 
-description: Instruktør på saxofon, klarinett og korfnett
+description: Instruktør på saxofon, klarinett og kornett
 
 featured: false
 excludeFirstPage: true
