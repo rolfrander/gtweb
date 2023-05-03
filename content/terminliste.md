@@ -23,9 +23,11 @@ forsidebilde: /images/kalender.jpg
 <dt>4. juni</dt>
 <dd>Skøyenkvelden.</dd>
 <dt>16-18. juni</dt>
-<dd><a href="/GT_sommertur-2023.pdf">Sommertur</a></dd>
+<dd>Sommertur, <a href="/GT_sommertur-2023_infoskriv_2.pdf">detaljert program</a></dd>
 <dt>24. august</dt>
 <dd>Oppstart etter sommerferien</dd>
+<dt>2. september</dt>
+<dd>Oppsal gatefest</dd>
 </dl>
 
 ## Øvetider
