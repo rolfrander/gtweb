@@ -3,8 +3,8 @@ title: "Ledig stilling"
 
 description: Instruktør på saxofon, klarinett og kornett
 
-featured: false
-excludeFirstPage: true
+featured: true
+excludeFirstPage: false
 
 Sitemap:
   Priority: 0.6
@@ -34,3 +34,6 @@ Godlia/Trasop musikkorps er et foreldredrevet skolekorps med ca 50 medlemmer for
 ## Kontakt
 
 Ta kontakt med styrets leder: Rolf Rander Næss på {{<email leder>}}, tlf 928 20 228.
+
+Søknadsfrist: 1. juni.
+
