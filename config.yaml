@@ -2,7 +2,6 @@ baseURL: 'https://www.godliatrasop.no/'
 languageCode: no-no
 title: Godlia/Trasop skolers musikkorps
 theme: massively
-googleAnalytics: UA-125464962-1
 relativeURLs: 'true'
 
 params:
