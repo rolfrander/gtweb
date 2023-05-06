@@ -22,7 +22,6 @@
 			@include vendor('flex-basis', '50%');
 			@include vendor('flex-grow', '1');
 			@include vendor('flex-shrink', '1');
-			@include padding((_size(padding) * 2), (_size(padding) * 2));
 			border-left: solid 2px _palette(alt, border);
 
 			&:first-child {
@@ -35,24 +34,19 @@
 				padding: 0;
 
 				> section {
-					@include padding((_size(padding) * 2) - 1, (_size(padding) * 2));
 					border-top: solid 2px _palette(alt, border);
 
 					&:first-child {
-						@include padding((_size(padding) * 2) - 1, (_size(padding) * 2), (_size(padding), 0, 0, 0));
 						border-top: 0;
 					}
 
-					&:last-child {
-						@include padding((_size(padding) * 2) - 1, (_size(padding) * 2), (0, 0, _size(padding), 0));
-					}
 				}
 
 				&.contact {
 					> section {
 						@include vendor('display', 'flex');
 						@include vendor('align-items', 'center');
-						padding: (_size(padding) * 1.575) (_size(padding) * 2);
+						padding: (_size(padding) * 0.5 ) (_size(padding) * 2);
 
 						> * {
 							margin-bottom: 0;
@@ -67,14 +61,6 @@
 						> :last-child {
 							@include vendor('flex-shrink', '1');
 							@include vendor('flex-grow', '1');
-						}
-
-						&:first-child {
-							padding: (_size(padding) * 2) (_size(padding) * 2) ((_size(padding) * 2) - 1) (_size(padding) * 2);
-						}
-
-						&:last-child {
-							padding: ((_size(padding) * 2) - 1) (_size(padding) * 2) (_size(padding) * 2) (_size(padding) * 2);
 						}
 
 						&.alt {
@@ -105,33 +91,6 @@
 					border-top: 0;
 				}
 
-				&.split {
-					> section {
-						@include padding((_size(padding) * 2), (_size(padding) * 2));
-
-						&:first-child {
-							@include padding((_size(padding) * 2), (_size(padding) * 2));
-						}
-
-						&:last-child {
-							@include padding((_size(padding) * 2), (_size(padding) * 2));
-						}
-					}
-
-					&.contact {
-						> section {
-							padding: (_size(padding) * 2);
-
-							&:first-child {
-								padding: (_size(padding) * 2);
-							}
-
-							&:last-child {
-								padding: (_size(padding) * 2);
-							}
-						}
-					}
-				}
 			}
 
 			form label,
