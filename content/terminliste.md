@@ -48,6 +48,8 @@ Alle musikanter har også enetimer med instrumentlærer, tidspunkter avtales dir
 
 ## Kalender
 
+Alle tidspunkter i kalenderen gjelder når man skal være klar til å spille. Musikanter må møte i god tid før dette (typisk 15 minutter før, med mindre annen beskjed er gitt) for å ha tid til å pakke opp og gjøre seg klar.
+
 <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=godlia.trasop.musikkorps%40gmail.com&amp;color=%2342104A&amp;ctz=Europe%2FOslo" style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
 Du kan importere denne kalenderen i ditt eget kalenderprogram ved å kopiere denne lenken:

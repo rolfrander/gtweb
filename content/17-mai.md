@@ -29,11 +29,14 @@ Basert på tidligere erfaringer antar vi at hovedtrekkene i programmet blir som 
 
 ## 16. mai
 
-* oppmøte på korpsrommet på Godlia en gang før storefri
-* marsjering fra Godlia til Trasop skole, barnehager blir med herfra
-* tog rundt i lokalmiljøet på Trasop og Oppsal
-* tilbake på skolen etter ca 1,5 time
-* foresatte må gi beskjed til skolen om at barna skal være med på dette
+* Hele skolen fokuserer på markering av nasjonaldagen
+* Foresatte må gi beskjed til skolen om at barna skal være med i toget. Barn som går på Skøyenåsen er normalt ikke med 16. mai.
+* 10:45 oppmøte på korpsrommet på Godlia
+* 11:30 avmarsj
+  - Rekkefølgen i toget er: Trasop skole, Korpset, Godlia skole, barnehagene. 
+  - Togruta: Vetlandsveien – Hellerudfaret- Ytre  Ringvei – Hellerudsvingen – Ytre Ringvei –  Solbergliveien – Formerveien – Kranveien – Vetlandsveien.
+* Tilbake på skolen etter ca 1,5 time
+
 
 ## 17. mai, morgen
 
@@ -50,24 +53,24 @@ Basert på tidligere erfaringer antar vi at hovedtrekkene i programmet blir som 
   * Velkommen ved rektor
   * GT-koret synger
   * Dagens 17.mai-tale
-
-Umiddelbart etter programmet på Trasop er det frokost for musikantene og GT-koret i samlingssalen på Trasop skole. Frokosten pleier å bestå av en baguette og juice. 
-Etter frokost (tidspunktet er avhengig av rekkefølgen på skolene i barnetoget) blir vi fraktet med buss til sentrum og barnetoget.
+* Umiddelbart etter programmet på Trasop er det frokost for musikantene og GT-koret i samlingssalen på Trasop skole. Frokosten pleier å bestå av en baguette og juice. 
+* kl 09:45 Etter frokost blir vi fraktet med buss til Festningsplassen og barnetoget. I år reiser vi med Trasop sine busser. Vi møter ved A-inngangen, ved lyskrysset i Hellerudveien.
 
 ## 17. mai, formiddag
 
-Ved ankomst Festningsplassen stiller korpset opp sammen med Godlia og Trasop, og foreldrene må hente sin musikant når korpset kommer til oppløsningsplassen. Denne pleier å være i en av sidegatene til Rådhuset. Beskjed om hvilken vil komme i god tid før den 17.
-
-Hver musikant får en voksen tilknytningsperson som tar vare på dem i barnetoget og frem til de blir hentet på oppløsningsplassen
-Rekkefølgen på skolene i barnetoget blir klar i starten av mai. 
-
-Styret vil oppdatere med tidspunkter og andre detaljer når disse er klare
-
+* mellom 10:00 og 11:00: Ved ankomst Festningsplassen stiller korpset opp sammen med Trasop og Godlia, disse er henholdvsi nr 56 og 57 i toget, korpset går mellom skolene. Hver musikant får en voksen tilknytningsperson som tar vare på dem i barnetoget og frem til de blir hentet på oppløsningsplassen.
+* ca 11:00 Avmarsj
+* ca 12:15 Avslutningen på toget: Fra Henrik Ibsens gate svinger barnetoget inn Munkedamsveien og ned Haakon VIIs gate, før det avsluttes for vår del i Tordenskjolds gate (1b i kartet under). Foreldrene må hente sin musikant når korpset kommer til oppløsningsplassen. Det er viktig at den voksne som har ansvar for ditt barn får beskjed når barnet hentes!
 
 ## 17. mai, ettermiddag
 
-* Kl 15:00 Borgertoget går fra Trasop skole.
-
-I 2022 gikk toget følgende rute: Opp Vetlandsveien ut i Solbergliveien og ned Vetlandsfaret tilbake til Trasop. Når korpset er tilbake på Trasop er musikantene ferdig med all spilling og kan ta seg velfortjent fri
+* Kl 15:00 Borgertoget går fra Godlia skole. 
+* Planlagt rute: Vetlandsveien, Kranveien, Formerveien, Solbergliveien, Vetlandsfaret, Trasop skole
 
 Merk at vi skal **ikke** stå for cafe på Trasop i år. Vi og skolekoret har ansvar for dette annenhvert år, og de årene vi ikke har 17. mai-salg har vi i stedet vår-loppemarked.
+
+## Kart over rådhusplassen
+
+<a href="/images/kart_17mai_2023.png">
+<img src="/images/kart_17mai_2023.png">
+</a>
