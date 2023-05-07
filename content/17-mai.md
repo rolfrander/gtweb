@@ -31,7 +31,7 @@ Basert på tidligere erfaringer antar vi at hovedtrekkene i programmet blir som 
 
 * Hele skolen fokuserer på markering av nasjonaldagen
 * Foresatte må gi beskjed til skolen om at barna skal være med i toget. Barn som går på Skøyenåsen er normalt ikke med 16. mai.
-* 10:45 oppmøte på korpsrommet på Godlia
+* 10:45 oppmøte utenfor B-inngangen på Godlia
 * 11:30 avmarsj
   - Rekkefølgen i toget er: Trasop skole, Korpset, Godlia skole, barnehagene. 
   - Togruta: Vetlandsveien – Hellerudfaret- Ytre  Ringvei – Hellerudsvingen – Ytre Ringvei –  Solbergliveien – Formerveien – Kranveien – Vetlandsveien.
