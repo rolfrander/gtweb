@@ -234,6 +234,10 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         $message = $message . tr("Telefon",   "f2_tlf");
         $message = $message . tr("Epost",     "f2_epost");
 
+        $message = $message . tr("Samtykke registering", "samtykke_registrering");
+        $message = $message . tr("Samtykke bilder i profilering", "samtykke_profilering");
+        $message = $message . tr("Samtykke bilder i søknader", "samtykke_soknad");
+
         $message = $message . "<tr><th colspan=\"2\">Kommentarer</td><td>\n";
         $message = $message . tr("Kommentar", "kommentarer");
 

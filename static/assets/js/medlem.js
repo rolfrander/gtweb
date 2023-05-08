@@ -24,6 +24,7 @@ function nytt_medlem() {
          for(i=0, len=response.feilfelt.length; i<len; ++i) {
            $("div#form label[for="+response.feilfelt[i]+"]").css("color", "red");
          }
+         grecaptcha.reset();
        }
        document.body.style.cursor='default';
      },
