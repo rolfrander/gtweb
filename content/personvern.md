@@ -1,7 +1,7 @@
 ---
 title: "Personvernerklæring"
 
-description: Vi logger IP-adresser for statistikk og feilsøking, og vi bruker Google Analytics for å analysere bruken av våre nettsider.
+description: Hvilken informasjon vi samler og lagrer inn.
 
 excludeFirstPage: true
 ---
