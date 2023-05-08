@@ -113,6 +113,17 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         array_push($feil, "minst en foresatt må oppgis");
         array_push($feilfelt, "f1_navn", "f2_navn");
     }
+    
+    if($_POST["f1_navn"] != "" && ($_POST["f1_tlf"] == "" || $_POST["f1_epost"] == "")) {
+        array_push($feil, "vi må ha kontaktinfo til foresatte");
+        array_push($feilfelt, "f1_tlf", "f1_epost");
+    }
+
+    if($_POST["f2_navn"] != "" && ($_POST["f2_tlf"] == "" || $_POST["f2_epost"] == "")) {
+        array_push($feil, "vi må ha kontaktinfo til foresatte");
+        array_push($feilfelt, "f2_tlf", "f2_epost");
+    }
+
     if($_POST["postnr"] != "" && (strlen($_POST["postnr"]) != 4)) {
         $pnrfeil = true;
         array_push($feilfelt, "postnr");
