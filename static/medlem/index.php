@@ -65,7 +65,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
       $response = file_get_contents('https://www.google.com/recaptcha/api/siteverify', false, $context);
       $result = json_decode($response);
       if (!$result->success) {
-        array_push($feil, "er du en person??");
+        array_push($feil, "Kryss av for 'jeg er ikke en robot'");
       }
     }
 
