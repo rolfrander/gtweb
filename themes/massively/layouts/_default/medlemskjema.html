@@ -141,6 +141,33 @@
       </tr>
     </table>
 
+    <h3>Personvernerklæring</h3>
+    <table>
+      <tr>
+        <th>registrering av personopplysninger</th>
+        <td><p>Korpset har en <a href="/personvern_medlem" target="_blank">Personvernerklæring for medlemmer</a> som beskriver 
+          hvilken informasjon vi samler og hvorfor. I korte trekk sier den:</p>
+          <ul>
+            <li>Vi må ha navn, fødselsdato og postnummer fra musikanten for å kunne registrere deg som medlem hos NMF</li>
+            <li>Vi må ha navn og kontaktinfo til minst en foresatt for å kunne organisere aktiviteter</li>
+            <li>Vi kommer til å dele kontaktinfo med andre foresatte i korpset for å kunne gjennomføre aktiviteter</li>
+          </ul>
+          <input type="checkbox" id="samtykke_registrering" name="samtykke_registrering" value="ok">
+          <label for="samtykke_registrering">Det er greit!</label>
+        </td>
+      </tr>
+      <tr>
+        <th>Samtykke til bilder</th>
+        <td>Er det greit å bruke bilder av musikanten til:
+          <p><input type="checkbox" id="samtykke_reklame" name="samtykke_reklame" value="ok">
+            <label for="samtykke_reklame">profilering av korpset på egne nettsider, sosiale medier, trykte program o.l.</label></p>
+          <p><input type="checkbox" id="samtykke_soknad" name="samtykke_soknad" value="ok">
+            <label for="samtykke_soknad">i forbindelse med søknader om penger (vi søker feks penger fra Obos, Opsahs-gruppen, Sparebankstiftelsen, NMF mfl)</label></p>
+  
+        </td>
+      </tr>
+    </table>
+
     <h3>Kommentarer eller andre opplysninger</h3>
     <textarea name="kommentarer" id="kommentarer" maxlength="4096" rows="4"></textarea>
     <p id="feilmeldinger"/>

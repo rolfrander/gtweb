@@ -9,7 +9,11 @@
   <meta name="description" content="{{ .Description }}">
   <meta name="geo.position" content="59.907389;10.84698" >
   <meta name="ICBM" content="59.907389, 10.84698" >
-  <link rel="stylesheet" href="{{ "assets/css/main-2023-05-06.css" | relURL }}" media="screen">
+  {{ $style := resources.Get "sass/main.scss" | toCSS (dict "targetPath" "assets/css/main.css" ) }}
+  <link rel="stylesheet" href="{{ "assets/css/main-2023-05-08.css" | relURL }}" media="screen">
+  <!--
+    <link rel="stylesheet" href="{{ $style.Permalink | relURL }}">
+  -->
 
   <link rel="icon" href="{{ "images/logo_16.png" | relURL}}" sizes="16x16" />
 </head>

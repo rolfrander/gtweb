@@ -1,5 +1,9 @@
 ---
 title: "Har du lyst til å spille i korps?"
+menu:
+  main:
+    weight: 1
+    name: Spill med oss!
 
 description: Hos oss får du god musikkundervisning, nye venner og mange hyggelige og spennende opplevelser. Vi har tar ikke opp flere medlemmer denne sesongen, men det blir nye muligheter neste høst.
 
@@ -40,9 +44,16 @@ koronaversjon:
 </video>
 </div>
 
+
 ## Innmelding
 
-Opptaket er over for denne sesongen, neste mulighet blir høsten 2022.
+Vi ønsker oss mange nye musikanter, så har *du* lyst til å spille i korps, trykk
+på knappen under.
+
+{{<button link="#form" tekst="trykk her for innmeldingsskjema" >}}
+
+Barnet meldes inn i Norges Musikkorps Forbund samtidig som det tas opp som
+medlem av Godlia/Trasop skolers musikkorps.
 
 ## Hvordan er det å gå i korps?
 
