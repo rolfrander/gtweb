@@ -16,7 +16,7 @@ $substantiv = array("hest", "bil", "telefon", "vegg", "stol", "ovn", "lampe", "b
 $felt = array("navn", "etternavn", "fdato", "adresse", "postnr", "poststed", "tlf",
               "f1_navn", "f1_etternavn", "f1_adresse", "f1_postnr", "f1_poststed", "f1_tlf", "f1_epost",
               "f2_navn", "f2_etternavn", "f2_adresse", "f2_postnr", "f2_poststed", "f2_tlf", "f2_epost",
-              "instr1", "instr2", "instr3", "kommentarer");
+              "instr1", "instr2", "instr3", "samtykke_registrering", "samtykke_reklame", "samtykke_soknad", "kommentarer");
 
 function feilkode($feilmelding)
 {
@@ -75,6 +75,11 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
        $_POST["postnr"]    == "") {
         array_push($feil, "navn og adresse må oppgis");
         array_push($feilfelt, "navn", "etternavn", "adresse", "postnr");
+    }
+
+    if($_POST["samtykke_registrering"] == "") {
+        array_push($feil, "du må akseptere personvernerklæringen");
+        array_push($feilfelt, "samtykke_registrering");
     }
 
     $fdato = null;

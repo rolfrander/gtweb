@@ -252,7 +252,7 @@
 				color: _palette($p, fg);
 
 				&:before {
-					border-color: _palette($p, border);
+					border-color: _palette($p, accent);
 				}
 			}
 
