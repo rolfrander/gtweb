@@ -25,14 +25,15 @@ Sitemap:
 
 ---
 
-## Opptak av nye medlemmer er over for i år, nytt opptak høsten 2023
+## Nå åpner vi for nye medlemmer!
 
-For at alle våre medlemmer skal få god undervisning på riktig nivå, både alene og i grupper, tar vi opp nye medlemmer bare en gang i året.
+Nå har vi åpnet for registrering av nye medlemmer. Frem mot sommeren skal vi ha flere aktiviteter for dere som er nysgjerrige på hvordan det er å spille i korps, eller som allerede har bestemt dere for å begynne:
 
-Vi tar opp nye medlemmer hver høst, følg med her og på facebook-sidene våre for
-detaljer når det nærmer seg. Vi tar opp medlemmer fra 3. klasse og oppover.
+* torsdag 25. mai kommer vi til å ha konserter på både Trasop og Godlia
+* på øvelsene 25. mai og 1. juni kl 18:00 kommer vi til å ha "åpen øvelse" som betyr at du kan komme og høre på en vanlig øvelse, du kan få prøve ulike instrumenter og du kan snakke med både barn og voksne i korpset om hvordan det er å spille i korps.
+* hvis du allerede nå bestemmer deg for å begynne skal vi prøve å få gitt deg instrument 8. juni, og vi skal ha en kort øvelse med konsert for de som begynner nå.
 
-Hvis du har spørsmål kan du sende epost til {{<email medlem>}}.
+Du kan registrere innmeldingsskjema på knapp under. Hvis du har spørsmål kan du sende epost til {{<email medlem>}}.
 
 Her kan du se og høre noen av instrumentene, når
 juniorkorpset spiller musikk fra dataspillet Brawl Stars -
