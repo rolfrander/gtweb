@@ -56,16 +56,22 @@ Basert på tidligere erfaringer antar vi at hovedtrekkene i programmet blir som 
 * Umiddelbart etter programmet på Trasop er det frokost for musikantene og GT-koret i samlingssalen på Trasop skole. Frokosten pleier å bestå av en baguette og juice. 
 * kl 09:45 Etter frokost blir vi fraktet med buss til Festningsplassen og barnetoget. I år reiser vi med Trasop sine busser. Vi møter ved A-inngangen, ved lyskrysset i Hellerudveien.
 
+Aspiranter oppfordres til å være med på dette, men det er ikke noe spilling for aspiranter på morgenen.
+
 ## 17. mai, formiddag
 
 * mellom 10:00 og 11:00: Ved ankomst Festningsplassen stiller korpset opp sammen med Trasop og Godlia, disse er henholdvsi nr 56 og 57 i toget, korpset går mellom skolene. Hver musikant får en voksen tilknytningsperson som tar vare på dem i barnetoget og frem til de blir hentet på oppløsningsplassen.
 * ca 11:00 Avmarsj
 * ca 12:15 Avslutningen på toget: Fra Henrik Ibsens gate svinger barnetoget inn Munkedamsveien og ned Haakon VIIs gate, før det avsluttes for vår del i Tordenskjolds gate (1b i kartet under). Foreldrene må hente sin musikant når korpset kommer til oppløsningsplassen. Det er viktig at den voksne som har ansvar for ditt barn får beskjed når barnet hentes!
 
+Aspiranter oppfordres til å være med og marsjere i barnetoget, men spiller ikke i toget. Aspiranter som er med og marsjerer bytter på å holde "dusk" på fanen.
+
 ## 17. mai, ettermiddag
 
+* kl 14:45 Oppmøte Godlia
 * Kl 15:00 Borgertoget går fra Godlia skole. 
 * Planlagt rute: Vetlandsveien, Kranveien, Formerveien, Solbergliveien, Vetlandsfaret, Trasop skole
+* Etter ankomst på Trasop holder vi en liten konsert, her skal både aspiranter, junior og hovedkorps spille.
 
 Merk at vi skal **ikke** stå for cafe på Trasop i år. Vi og skolekoret har ansvar for dette annenhvert år, og de årene vi ikke har 17. mai-salg har vi i stedet vår-loppemarked.
 
