@@ -68,7 +68,7 @@ Aspiranter oppfordres til å være med og marsjere i barnetoget, men spiller ikk
 
 ## 17. mai, ettermiddag
 
-* kl 14:45 Oppmøte Godlia
+* kl 14:45 Oppmøte Vetlandsveien, mellom skolene (her har det vært gitt litt forskjellige beskjeder tidligere, vi stiller opp i Vetlandsveien så vi både ses og høres fra begge skolene)
 * Kl 15:00 Borgertoget går fra Godlia skole. 
 * Planlagt rute: Vetlandsveien, Kranveien, Formerveien, Solbergliveien, Vetlandsfaret, Trasop skole
 * Etter ankomst på Trasop holder vi en liten konsert, her skal både aspiranter, junior og hovedkorps spille.
