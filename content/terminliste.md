@@ -4,7 +4,7 @@ menu:
   main:
     weight: 3
 
-description: Oppdatert 24. april 2023
+description: Oppdatert 19. mai 2023
 forsidebilde: /images/kalender.jpg
 
 ---
@@ -12,16 +12,10 @@ forsidebilde: /images/kalender.jpg
 ## Høydepunkter fremover
 
 <dl>
-<dt>14. mai</dt>
-<dd>Marsj-seminar</dd>
-<dt>16. mai</dt>
-<dd>Barnehagetog</dd>
-<dt>17. mai</dt>
-<dd>Nasjonaldag. Litt mer info om 16. og 17. mai finnes <a href="/17-mai">her</a></dd>
 <dt>25. mai</dt>
 <dd>Rekrutteringskonserter på skolene og åpen prøve på kvelden. I år kommer vi til å ha rekrutteringsaktiviteter som går over flere torsdagsøvelser. Mer info om dette vil komme. Åpen prøve betyr at vi inviterer de som er nysgjerrige på hvordan det er å spille i korps til å komme og høre på en øvelse, og la de få prøve instrumenter.</dd>
 <dt>4. juni</dt>
-<dd>Skøyenkvelden.</dd>
+<dd>Skøyenkvelden. Vi marsjerer fra Godlia skole ca kl 14, via Oppsal, ned Godlia, under undergangen ved Godlia T, Låveveien - Promenaden og Peter Aas vei til stevneplassen. Det er 6-7 andre korps som deltar, innmarsj til Nordre Skøyen Hovedgård starter kl 15. Etter at alle korpsene har marsjert inn får hvert korps anledning til å spille en liten konsert. Vårt program er ikke klart ennå. Det vil være salg av mat, kaffe, kaker mm til inntekt for Lions Club Bryn. Korpset får betalt for dette oppdraget. Arrangementet avsluttes med <a href="https://www.oslodrill.no">Oslo Drill</a> kl 18:30.</dd>
 <dt>16-18. juni</dt>
 <dd>Sommertur, <a href="/GT_sommertur-2023_infoskriv_2.pdf">detaljert program</a></dd>
 <dt>24. august</dt>
