@@ -1,12 +1,11 @@
 ---
 title: "16/17. mai 2023"
-menu:
-  main:
-    weight: 6
 
 description: Endelige planer for 16. og 17. mai 2023, sist oppdatert 6. mai 2023
 forsidebilde: /images/flagg_kjell_joran_hansen.jpg
 bilde: /images/flagg_kjell_joran_hansen.jpg
+featured: false
+excludeFirstPage: true
 
 ---
 
