@@ -23,5 +23,5 @@ Korpset består av 50 barn fordelt på aspirantkorps, juniorkorps og hovedkorps.
 Medlemmene kommer hovedsaklig fra naboskolene Godlia, Trasop og Skøyenåsen, men
 vi tar også opp musikanter fra skoler i nærområdet som ikke har egne korps.
 
-Korpset hadde 35-årsjubileum i 2017, og har de siste årene hatt en gledelig
+Korpset hadde 40-årsjubileum i 2022, og har de siste årene hatt en gledelig
 vekst i antall musikanter.

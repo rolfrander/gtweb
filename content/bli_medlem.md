@@ -5,13 +5,13 @@ menu:
     weight: 1
     name: Spill med oss!
 
-description: Hos oss får du god musikkundervisning, nye venner og mange hyggelige og spennende opplevelser. Nå har vi åpnet for registrering av nye medlemmer. Frem mot sommeren skal vi ha flere aktiviteter for dere som er nysgjerrige på hvordan det er å spille i korps, eller som allerede har bestemt dere for å begynne.
+description: Hos oss får du god musikkundervisning, nye venner og mange hyggelige og spennende opplevelser. Torsdag 25. mai har vi åpen øvelse hvor dere kan komme for å se hvordan vi har det på øvelse, prøve instrumenter og få svar på spørsmål.
 
 forsidebilde: /images/17mai2017-bredde.jpg
 bilde: /images/17mai2017-bredde.jpg
 
-featured: false
-excludeFirstPage: false
+featured: true
+excludeFirstPage: true
 
 layout: medlemskjema
 
@@ -27,9 +27,12 @@ Sitemap:
 
 ## Nå åpner vi for nye medlemmer!
 
-
 * torsdag 25. mai kommer vi til å ha konserter på både Trasop og Godlia
-* på øvelsene 25. mai og 1. juni kl 18:00 kommer vi til å ha "åpen øvelse" på Godlia skole som betyr at du kan komme og høre på en vanlig øvelse, du kan få prøve ulike instrumenter og du kan snakke med både barn og voksne i korpset om hvordan det er å spille i korps.
+* på øvelsene 25. mai og 1. juni kl 18:00 kommer vi til å ha "åpen øvelse" på Godlia skole (inngang B). Her kan du:
+  * komme og høre på en vanlig øvelse, 
+  * få prøve ulike instrumenter
+  * snakke med både barn og voksne i korpset om hvordan det er å spille i korps.
+  * Det blir et lite informasjonsmøte for foresatte kl 18:15
 * hvis du allerede nå bestemmer deg for å begynne skal vi prøve å få gitt deg instrument 8. juni, og vi skal ha en kort øvelse med konsert for de som begynner nå.
 
 Du kan registrere innmeldingsskjema på knapp under. Hvis du har spørsmål kan du sende epost til {{<email medlem>}}.

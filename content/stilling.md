@@ -1,10 +1,10 @@
 ---
 title: "Ledig stilling"
 
-description: Instruktør på saxofon, klarinett og kornett
+description: Vi trenger flere instruktør på saxofon, klarinett og kornett fra høsten 2023
 
 featured: true
-excludeFirstPage: false
+excludeFirstPage: true
 
 Sitemap:
   Priority: 0.6
