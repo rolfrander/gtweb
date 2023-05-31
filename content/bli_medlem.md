@@ -1,4 +1,4 @@
----
+0----
 title: "Har du lyst til å spille i korps?"
 menu:
   main:
@@ -106,7 +106,7 @@ Korpsets musikanter spiller bl.a.:
 ## Kjære foreldre
 
 Kontingent er kr 2000 per halvår, til sammen 4000 kr per år. I tillegg kommer
-instrumentleie på 500,- pr år. Merk at eventuell utmelding av korpset må skje
+instrumentleie på 400,- pr år. Merk at eventuell utmelding av korpset må skje
 før påbegynt semester/halvår. Kontingent for påbegynt halvår refunderes ikke.
 Foreldre må også være korpsvakt noen ganger i løpet av året.
 
