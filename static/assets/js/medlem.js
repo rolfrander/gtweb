@@ -10,7 +10,7 @@ function nytt_medlem() {
      data: data,
      success: function(response) {
        if('id' in response) {
-         $('div#form form').reset();
+         $('div#form form')[0].reset();
          $("div#result span#soknadsid").text(response.id);
          hide("div#form");
          show("div#result");
