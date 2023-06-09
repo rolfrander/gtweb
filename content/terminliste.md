@@ -12,12 +12,8 @@ forsidebilde: /images/kalender.jpg
 ## Høydepunkter fremover
 
 <dl>
-<dt>1. juni</dt>
-<dd>Rekrutteringsaktiviteter med åpen prøve, instrumentprøving og samspill for nye rekrutter.</dd>
-<dt>4. juni</dt>
-<dd>Skøyenkvelden. Vi marsjerer fra Godlia skole ca kl 14, via Oppsal, ned Godlia, under undergangen ved Godlia T, Låveveien - Promenaden og Peter Aas vei til stevneplassen. Det er 6-7 andre korps som deltar, innmarsj til Nordre Skøyen Hovedgård starter kl 15. Etter at alle korpsene har marsjert inn får hvert korps anledning til å spille en liten konsert. Vårt program er ikke klart ennå. Det vil være salg av mat, kaffe, kaker mm til inntekt for Lions Club Bryn. Korpset får betalt for dette oppdraget. Arrangementet avsluttes med <a href="https://www.oslodrill.no">Oslo Drill</a> kl 18:30.</dd>
-<dt>8. juni</dt>
-<dd>Samspill for nye rekrutter, avsluttet med en liten konsert for foresatte.</dd>
+<dt>14. juni (onsdag!)</dt>
+<dd>Samspill og sommeravslutning.</dd>
 <dt>16-18. juni</dt>
 <dd>Sommertur, <a href="/GT_sommertur-2023_infoskriv_2.pdf">detaljert program</a></dd>
 <dt>24. august</dt>
