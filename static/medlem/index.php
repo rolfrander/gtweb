@@ -16,7 +16,7 @@ $substantiv = array("hest", "bil", "telefon", "vegg", "stol", "ovn", "lampe", "b
 $felt = array("navn", "etternavn", "fdato", "adresse", "postnr", "poststed", "tlf",
               "f1_navn", "f1_etternavn", "f1_adresse", "f1_postnr", "f1_poststed", "f1_tlf", "f1_epost",
               "f2_navn", "f2_etternavn", "f2_adresse", "f2_postnr", "f2_poststed", "f2_tlf", "f2_epost",
-              "instr1", "instr2", "instr3", "samtykke_registrering", "samtykke_reklame", "samtykke_soknad", "kommentarer");
+              "instr1", "instr2", "instr3", "samtykke_registrering", "samtykke_reklame", "samtykke_soknad", "skole", "kommentarer");
 
 function feilkode($feilmelding)
 {
@@ -237,6 +237,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         $message = $message . tr("Samtykke registering", "samtykke_registrering");
         $message = $message . tr("Samtykke bilder i profilering", "samtykke_reklame");
         $message = $message . tr("Samtykke bilder i søknader", "samtykke_soknad");
+
+        $message = $message . tr("Skole", "skole");
 
         $message = $message . "<tr><th colspan=\"2\">Kommentarer</td><td>\n";
         $message = $message . tr("Kommentar", "kommentarer");

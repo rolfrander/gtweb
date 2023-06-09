@@ -25,6 +25,7 @@ Sitemap:
 
 ---
 
+
 ## Nå åpner vi for nye medlemmer!
 
 * torsdag 25. mai kommer vi til å ha konserter på både Trasop og Godlia
@@ -33,7 +34,7 @@ Sitemap:
   * få prøve ulike instrumenter
   * snakke med både barn og voksne i korpset om hvordan det er å spille i korps.
   * Det blir et lite informasjonsmøte for foresatte kl 18:15
-* hvis du allerede nå bestemmer deg for å begynne skal vi prøve å få gitt deg instrument 8. juni, og vi skal ha en kort øvelse med konsert for de som begynner nå.
+* Både 1. juni og 8. juni vil vi ha samspill for de som allerede har bestemt seg for å begynne i korpset. Dette avsluttes med en konsert 8. juni.
 
 Du kan registrere innmeldingsskjema på knapp under. Hvis du har spørsmål kan du sende epost til {{<email medlem>}}.
 
