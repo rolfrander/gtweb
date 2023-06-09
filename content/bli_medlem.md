@@ -5,7 +5,7 @@ menu:
     weight: 1
     name: Spill med oss!
 
-description: Hos oss får du god musikkundervisning, nye venner og mange hyggelige og spennende opplevelser. Torsdag 25. mai har vi åpen øvelse hvor dere kan komme for å se hvordan vi har det på øvelse, prøve instrumenter og få svar på spørsmål.
+description: Hos oss får du god musikkundervisning, nye venner og mange hyggelige og spennende opplevelser. 
 
 forsidebilde: /images/17mai2017-bredde.jpg
 bilde: /images/17mai2017-bredde.jpg
