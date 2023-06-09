@@ -26,15 +26,11 @@ Sitemap:
 ---
 
 
-## Nå åpner vi for nye medlemmer!
+## Det er fortsatt rom for å bli medlem av korpset
 
-* torsdag 25. mai kommer vi til å ha konserter på både Trasop og Godlia
-* på øvelsene 25. mai og 1. juni kl 18:00 kommer vi til å ha "åpen øvelse" på Godlia skole (inngang B). Her kan du:
-  * komme og høre på en vanlig øvelse, 
-  * få prøve ulike instrumenter
-  * snakke med både barn og voksne i korpset om hvordan det er å spille i korps.
-  * Det blir et lite informasjonsmøte for foresatte kl 18:15
-* Både 1. juni og 8. juni vil vi ha samspill for de som allerede har bestemt seg for å begynne i korpset. Dette avsluttes med en konsert 8. juni.
+I mai og juni har vi hatt aktiviteter for nye rekrutter som har fått være med på øvelse og prøve instrumenter. Dette er over nå, men det er fortsatt mulig å registrere seg som nytt medlem.
+
+På registreringsskjemaet ber vi dere om tre ulike instrumentønsker. Når vi fordeler instrumenter er det mange hensyn vi trenger å ta: hvilke instrumenter vi har tilgjengelig på lager, ledig tid til undervisning på instrumentet og balansen mellom ulike instrumenter i gruppa. Nå har vi allerede veldig mange påmeldte som aspiranter til høsten slik at det er vanskelig for oss å kunne garantere at man får det instrumentet man har mest lyst på, men vi skal forsøke. Instrumenter hvor vi vet vi har plass til flere er klarinett, kornett, baryton og trombone. Se lenker under for nærmere beskrivelse av disse.
 
 Du kan registrere innmeldingsskjema på knapp under. Hvis du har spørsmål kan du sende epost til {{<email medlem>}}.
 
