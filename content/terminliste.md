@@ -4,7 +4,7 @@ menu:
   main:
     weight: 3
 
-description: Oppdatert 19. mai 2023
+description: Oppdatert 16. juni 2023
 forsidebilde: /images/kalender.jpg
 
 ---
@@ -12,14 +12,36 @@ forsidebilde: /images/kalender.jpg
 ## Høydepunkter fremover
 
 <dl>
-<dt>14. juni (onsdag!)</dt>
-<dd>Samspill og sommeravslutning.</dd>
 <dt>16-18. juni</dt>
 <dd>Sommertur, <a href="/GT_sommertur-2023_infoskriv_2.pdf">detaljert program</a></dd>
 <dt>24. august</dt>
 <dd>Oppstart etter sommerferien</dd>
-<dt>2. september</dt>
-<dd>Oppsal gatefest</dd>
+<dt>1, og 2. september</dt>
+<dd>Oppsal gatefest. Seminar fredag ettermiddag, parade og konsert på lørdag</dd>
+<dt>12-15. oktober</dt>
+<dd>Loppemarked</dd>
+<dt>21-22. oktober</dt>
+<dd>Seminar lørdag og søndag, sosiale aktiviteter lørdag kveld</dd>
+<dt>5. november</dt>
+<dd>Konsert i Oppsal kirke</dd>
+<dt>14. desember</dt>
+<dd>Juleavslutning med konsert og stjernedryss</dd>
+<dt>4. januar 2024</dt>
+<dd>Første samspill etter juleferien</dd>
+<dt>Mars</dt>
+<dd>Seminarhelg</dd>
+<dt>13-14. april</dt>
+<dd>Distriktsmesterskap på Lørenskog.</dd>
+<dt>Mars/April</dt>
+<dd>Vårkonsert</dd>
+<dt>Mai</dt>
+<dd>Marsj-seminar, lørdag eller søndag</dd>
+<dt>16. og 17. mai</dt>
+<dd>Feiring av grunnlovsdagen</dd>
+<dt>Søndag i Mai/Juni</dt>
+<dd>Skøyendagen, arrangert av Lions Bryn</dd>
+<dt>Juni</dt>
+<dd>Sommertur</dd>
 </dl>
 
 ## Øvetider
