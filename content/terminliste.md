@@ -46,14 +46,15 @@ forsidebilde: /images/kalender.jpg
 
 ## Øvetider
 
-De ulike korpsene øver på Godlia skole til faste tider hver **torsdag**. Musikantene skal være spilleklare til disse tidspunktene, som betyr at man bør møte opp 15 minutter før for å rekke å pakke opp.
+De ulike korpsene øver på Godlia skole til faste tider hver **torsdag**. Musikantene skal være spilleklare til disse tidspunktene, som betyr at man bør møte opp 15 minutter før for å rekke å pakke opp. Fra høsten 2023 har vi så mange aspiranter at vi må dele gruppen i 2, fordeling av musikanter i gruppe er ikke klar.
 
 <table>
 <colgroup>
     <col span="1" style="width: 20%;">
     <col span="1" style="width: 80%;">
 </colgroup>
-<tr><th>Aspirantkorps</th><td>15:00-16:00</td>
+<tr><th>Aspirantkorps 1</th><td>14:30-15:30</td>
+<tr><th>Aspirantkorps 2</th><td>15:00-16:00</td>
 <tr><th>Juniorkorps</th>  <td>17:30-19:00</td>
 <tr><th>Hovedkorps</th>   <td>17:45-20:00</td>
 </table>
