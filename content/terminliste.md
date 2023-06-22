@@ -12,8 +12,6 @@ forsidebilde: /images/kalender.jpg
 ## Høydepunkter fremover
 
 <dl>
-<dt>16-18. juni</dt>
-<dd>Sommertur, <a href="/GT_sommertur-2023_infoskriv_2.pdf">detaljert program</a></dd>
 <dt>24. august</dt>
 <dd>Oppstart etter sommerferien</dd>
 <dt>1, og 2. september</dt>
