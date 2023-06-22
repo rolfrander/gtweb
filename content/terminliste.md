@@ -4,7 +4,7 @@ menu:
   main:
     weight: 3
 
-description: Oppdatert 16. juni 2023
+description: Oppdatert 22. juni 2023
 forsidebilde: /images/kalender.jpg
 
 ---
@@ -18,6 +18,8 @@ forsidebilde: /images/kalender.jpg
 <dd>Oppstart etter sommerferien</dd>
 <dt>1, og 2. september</dt>
 <dd>Oppsal gatefest. Seminar fredag ettermiddag, parade og konsert på lørdag</dd>
+<dt>14. september</dt>
+<dd>Hentekonsert og foreldremøte</dd>
 <dt>12-15. oktober</dt>
 <dd>Loppemarked</dd>
 <dt>21-22. oktober</dt>
@@ -30,14 +32,14 @@ forsidebilde: /images/kalender.jpg
 <dd>Første samspill etter juleferien</dd>
 <dt>Mars</dt>
 <dd>Seminarhelg</dd>
+<dt>11. april</dt>
+<dd>Vårkonsert/Generalprøve på DM-repertoar</dd>
 <dt>13-14. april</dt>
 <dd>Distriktsmesterskap på Lørenskog.</dd>
-<dt>Mars/April</dt>
-<dd>Vårkonsert</dd>
-<dt>Mai</dt>
-<dd>Marsj-seminar, lørdag eller søndag</dd>
+<dt>Søndag 12. Mai</dt>
+<dd>Marsj-seminar</dd>
 <dt>16. og 17. mai</dt>
-<dd>Feiring av grunnlovsdagen</dd>
+<dd>Feiring av grunnlovsdagen. 16. mai er en torsdag, det blir også samspill-øvelse denne kvelden.</dd>
 <dt>Søndag i Mai/Juni</dt>
 <dd>Skøyendagen, arrangert av Lions Bryn</dd>
 <dt>Juni</dt>
