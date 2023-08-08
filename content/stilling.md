@@ -1,9 +1,9 @@
 ---
 title: "Ledig stilling"
 
-description: Vi trenger flere instruktør på saxofon, klarinett og kornett fra høsten 2023
+description: Vi har ikke behov for flere instruktører akkurat nå, men ta gjerne kontakt hvis du er interessert, behovet kan endres fremover.
 
-featured: true
+featured: false
 excludeFirstPage: true
 
 Sitemap:
@@ -12,20 +12,6 @@ Sitemap:
 
 ---
 
-## Instruktør for saxofon, klarinett og trompet/kornett
-
-Korpset er i vekst og vi forventer at vi fra høsten 2023 kommer til å trenge tre nye instruktører:
-
-* to instruktører på saxofon eller klarinett, gjerne som kan dekke begge deler for å ha litt mer fleksibilitet i fordeling av timer og elever
-* en instruktør på trompet/kornett
-
-Hvert medlem får 30 minutter individuell undervisning per uke. Vi har samspill på torsdager, og vil gjerne ha enetimer på en annen dag i uken. Enetimer er på tirsdager og onsdager på Godlia skole i tidsrommet 14:00 til 20:00. Det kan også være aktuelt med bistand i forbindelse med seminarer i løpet av sesongen.
-
-Vi ønsker at du tar ansvar for:
-* Planlegging og gjennomføring av instrumentundervisning, inkludert planlegging av tidspunkter i dialog med foreldre
-* Samarbeid med dirigentene om medlemmenes musikalske utvikling
-
-Vi ønsker at du er selvstendig næringsdrivene og kan fakturere korpset, lønn etter avtale.
 
 ## Om korpset
 
@@ -35,5 +21,4 @@ Godlia/Trasop musikkorps er et foreldredrevet skolekorps med ca 50 medlemmer for
 
 Ta kontakt med styrets leder: Rolf Rander Næss på {{<email leder>}}, tlf 928 20 228.
 
-Søknadsfrist: 1. juni.
 
