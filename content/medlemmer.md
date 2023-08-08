@@ -1,10 +1,6 @@
 ---
 title: "Medlemsinfo"
 
-menu:
-  main:
-    weight: 10
-
 description: Praktisk informasjon til medlemmer av korpset.
 forsidebilde: /images/trumpet.jpg
 bilde: /images/trumpet.jpg
@@ -63,7 +59,5 @@ at hver enkelt tar godt vare på instrumentet sitt. Vi har samlet gode råd om i
 i et [dokument du kan lese her](/Vedlikehold_instrumenter_GT.pdf).
 
 ## Kontakt
-For spørsmål om instrumenter, kontakt materialforvalter, Helle Louise:
+For spørsmål om instrumenter eller uniformer, kontakt materialforvalter, Jelena:
 {{<email instrument>}}
-
-For spørsmål om uniformer, kontakt uniformskomiteen: {{<email uniform>}}
