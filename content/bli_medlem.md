@@ -5,7 +5,7 @@ menu:
     weight: 1
     name: Spill med oss!
 
-description: Hos oss får du god musikkundervisning, nye venner og mange hyggelige og spennende opplevelser. Torsdag 25. mai har vi åpen øvelse hvor dere kan komme for å se hvordan vi har det på øvelse, prøve instrumenter og få svar på spørsmål.
+description: Hos oss får du god musikkundervisning, nye venner og mange hyggelige og spennende opplevelser. Opptak av nye medlemmer er i mai og juni hvert år, men vi har fortsatt ledige plasser på noen instrumenter for kommende sesong 2023-24
 
 forsidebilde: /images/17mai2017-bredde.jpg
 bilde: /images/17mai2017-bredde.jpg
@@ -26,15 +26,13 @@ Sitemap:
 ---
 
 
-## Nå åpner vi for nye medlemmer!
+## Fortsatt ledige plasser på noen instrumenter
 
-* torsdag 25. mai kommer vi til å ha konserter på både Trasop og Godlia
-* på øvelsene 25. mai og 1. juni kl 18:00 kommer vi til å ha "åpen øvelse" på Godlia skole (inngang B). Her kan du:
-  * komme og høre på en vanlig øvelse, 
-  * få prøve ulike instrumenter
-  * snakke med både barn og voksne i korpset om hvordan det er å spille i korps.
-  * Det blir et lite informasjonsmøte for foresatte kl 18:15
-* Både 1. juni og 8. juni vil vi ha samspill for de som allerede har bestemt seg for å begynne i korpset. Dette avsluttes med en konsert 8. juni.
+Korpsets kapasitet til å ta i mot nye medlemmer er begrenset av hvilken kapasitet vi har på instruktører og behovet for å ha en balanse mellom ulike instrumentgrupper i korpset. Vi har hatt en gledelig god rekruttering i år med nesten 30 nye medlemmer, men det er fortsatt plass til noen til på disse instrumentene:
+
+* Baryton (som en liten tuba, [youtube](https://youtu.be/3rV2ZwyGdY8))
+* Trombone ([youtube](https://youtu.be/Af1AzoGFCLM))
+* Klarinett ([youtube](https://youtu.be/kSfEDb1cMAw))
 
 Du kan registrere innmeldingsskjema på knapp under. Hvis du har spørsmål kan du sende epost til {{<email medlem>}}.
 
