@@ -21,4 +21,3 @@ Godlia/Trasop musikkorps er et foreldredrevet skolekorps med ca 50 medlemmer for
 
 Ta kontakt med styrets leder: Rolf Rander Næss på {{<email leder>}}, tlf 928 20 228.
 
-
