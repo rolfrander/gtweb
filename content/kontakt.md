@@ -10,6 +10,7 @@ excludeFirstPage: false
 
 description: Hvordan komme i kontakt med korpset
 
+forsidebilde: /images/brev.jpg
 
 Sitemap:
   Priority: 1.0
