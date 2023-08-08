@@ -4,7 +4,7 @@ menu:
   main:
     weight: 3
 
-description: Oppdatert 19. mai 2023
+description: Oppdatert 22. juni 2023
 forsidebilde: /images/kalender.jpg
 
 ---
@@ -12,30 +12,49 @@ forsidebilde: /images/kalender.jpg
 ## Høydepunkter fremover
 
 <dl>
-<dt>1. juni</dt>
-<dd>Rekrutteringsaktiviteter med åpen prøve, instrumentprøving og samspill for nye rekrutter.</dd>
-<dt>4. juni</dt>
-<dd>Skøyenkvelden. Vi marsjerer fra Godlia skole ca kl 14, via Oppsal, ned Godlia, under undergangen ved Godlia T, Låveveien - Promenaden og Peter Aas vei til stevneplassen. Det er 6-7 andre korps som deltar, innmarsj til Nordre Skøyen Hovedgård starter kl 15. Etter at alle korpsene har marsjert inn får hvert korps anledning til å spille en liten konsert. Vårt program er ikke klart ennå. Det vil være salg av mat, kaffe, kaker mm til inntekt for Lions Club Bryn. Korpset får betalt for dette oppdraget. Arrangementet avsluttes med <a href="https://www.oslodrill.no">Oslo Drill</a> kl 18:30.</dd>
-<dt>8. juni</dt>
-<dd>Samspill for nye rekrutter, avsluttet med en liten konsert for foresatte.</dd>
-<dt>16-18. juni</dt>
-<dd>Sommertur, <a href="/GT_sommertur-2023_infoskriv_2.pdf">detaljert program</a></dd>
 <dt>24. august</dt>
 <dd>Oppstart etter sommerferien</dd>
-<dt>2. september</dt>
-<dd>Oppsal gatefest</dd>
+<dt>1, og 2. september</dt>
+<dd>Oppsal gatefest. Seminar fredag ettermiddag, parade og konsert på lørdag</dd>
+<dt>14. september</dt>
+<dd>Hentekonsert og foreldremøte</dd>
+<dt>12-15. oktober</dt>
+<dd>Loppemarked</dd>
+<dt>21-22. oktober</dt>
+<dd>Seminar lørdag og søndag, sosiale aktiviteter lørdag kveld</dd>
+<dt>5. november</dt>
+<dd>Konsert i Oppsal kirke</dd>
+<dt>14. desember</dt>
+<dd>Juleavslutning med konsert og stjernedryss</dd>
+<dt>4. januar 2024</dt>
+<dd>Første samspill etter juleferien</dd>
+<dt>Mars</dt>
+<dd>Seminarhelg</dd>
+<dt>11. april</dt>
+<dd>Vårkonsert/Generalprøve på DM-repertoar</dd>
+<dt>13-14. april</dt>
+<dd>Distriktsmesterskap på Lørenskog.</dd>
+<dt>Søndag 12. Mai</dt>
+<dd>Marsj-seminar</dd>
+<dt>16. og 17. mai</dt>
+<dd>Feiring av grunnlovsdagen. 16. mai er en torsdag, det blir også samspill-øvelse denne kvelden.</dd>
+<dt>Søndag i Mai/Juni</dt>
+<dd>Skøyendagen, arrangert av Lions Bryn</dd>
+<dt>Juni</dt>
+<dd>Sommertur</dd>
 </dl>
 
 ## Øvetider
 
-De ulike korpsene øver på Godlia skole til faste tider hver **torsdag**. Musikantene skal være spilleklare til disse tidspunktene, som betyr at man bør møte opp 15 minutter før for å rekke å pakke opp.
+De ulike korpsene øver på Godlia skole til faste tider hver **torsdag**. Musikantene skal være spilleklare til disse tidspunktene, som betyr at man bør møte opp 15 minutter før for å rekke å pakke opp. Fra høsten 2023 har vi så mange aspiranter at vi må dele gruppen i 2, fordeling av musikanter i gruppe er ikke klar.
 
 <table>
 <colgroup>
     <col span="1" style="width: 20%;">
     <col span="1" style="width: 80%;">
 </colgroup>
-<tr><th>Aspirantkorps</th><td>15:00-16:00</td>
+<tr><th>Aspirantkorps 1</th><td>14:30-15:30</td>
+<tr><th>Aspirantkorps 2</th><td>16:00-17:00</td>
 <tr><th>Juniorkorps</th>  <td>17:30-19:00</td>
 <tr><th>Hovedkorps</th>   <td>17:45-20:00</td>
 </table>
