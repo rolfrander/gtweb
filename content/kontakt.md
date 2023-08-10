@@ -42,8 +42,19 @@ Epost {{<email leder>}}</td>
 <td>1822.83.31100</td>
 </tr>
 
-<tr><th>Epost-adresser til komiteer</th>
-<td>Loppekomiteen, for alt som gjelder loppemarked: <br>{{<email loppemarked>}}<br>
-Instrument- og uniformsforvalter: <br>{{<email instrument>}}
+<tr><th>Kasserer</th>
+<td>
+For alt som gjelder kontingent, faktura og søknader: <br>{{<email kasserer>}}
 </td>
+
+<tr><th>Loppekomiteen</th>
+<td>For alt som gjelder loppemarked: <br>{{<email loppemarked>}}
+</td>
+
+<tr><th>Materialforvalter</th>
+<td>
+For spørsmål om instrumenter og uniformer: <br>{{<email instrument>}}
+</td>
+
+
 </table>
