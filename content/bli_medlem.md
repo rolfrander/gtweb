@@ -32,7 +32,6 @@ Korpsets kapasitet til å ta i mot nye medlemmer er begrenset av hvilken kapasit
 
 * Baryton (som en liten tuba, [youtube](https://youtu.be/3rV2ZwyGdY8))
 * Trombone ([youtube](https://youtu.be/Af1AzoGFCLM))
-* Klarinett ([youtube](https://youtu.be/kSfEDb1cMAw))
 
 Du kan registrere innmeldingsskjema på knapp under. Hvis du har spørsmål kan du sende epost til {{<email medlem>}}.
 
