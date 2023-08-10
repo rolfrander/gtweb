@@ -13,7 +13,7 @@ forsidebilde: /images/kalender.jpg
 
 <dl>
 <dt>24. august</dt>
-<dd>Oppstart etter sommerferien</dd>
+<dd>Oppstart etter sommerferien, enetimer starter tirsdag og onsdag uken etter (29/30 august)</dd>
 <dt>1, og 2. september</dt>
 <dd>Oppsal gatefest. Seminar fredag ettermiddag, parade og konsert på lørdag</dd>
 <dt>14. september</dt>
