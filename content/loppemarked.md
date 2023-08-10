@@ -23,6 +23,9 @@ Sitemap:
 
 Høstens loppemarked er 14 og 15 oktober. 
 
+I høst vil vi ta i mot lopper på vårt lager på Bogerud hver onsdag kl 19:00 til 20:00, bortsett fra høstferien 4. oktober.
+Det er også mulig å levere lopper direkte til Trasop skole fredag 13. oktober fra kl 18:00.
+
 Hvis det er noe du lurer på kan du ta kontakt med oss på {{<email loppemarked>}}.
 
 ## Vi tar i mot
