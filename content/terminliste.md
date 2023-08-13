@@ -23,6 +23,8 @@ Tutti kan lastes ned her:
 
 Du logger på med telefonnummer eller epost. Ta kontakt med {{<email styret>}} hvis du trenger hjelp.
 
+Det er mulig å importere kalenderen inn i apple/iphone, google/android eller microsoft/outlook. Trykk på tannhjulet øverst til høyre i appen og følg instruksjonene.
+
 ## Høydepunkter fremover
 
 <dl>
