@@ -23,16 +23,16 @@ Sitemap:
 
 Høstens loppemarked er 14 og 15 oktober. 
 
-I høst vil vi ta i mot lopper på vårt lager på Bogerud hver onsdag kl 19:00 til 20:00, bortsett fra høstferien 4. oktober.
-Det er også mulig å levere lopper direkte til Trasop skole fredag 13. oktober fra kl 18:00.
-
 Hvis det er noe du lurer på kan du ta kontakt med oss på {{<email loppemarked>}}.
 
 ## Vi tar i mot
 
 Noen som har ryddet de siste ukene og har noe å gi bort? Godlia Trasop skolers musikkorps tar imot lopper hele året!
 
-Vi tar i mot lopper på vårt lager i [Stallerudveien 117](https://goo.gl/maps/ySm194Yt4MN2), mer informasjon om tidspunkt kommer.
+Vi tar i mot lopper på vårt lager i [Stallerudveien 117](https://goo.gl/maps/ySm194Yt4MN2)
+hver onsdag kl 19:00 til 20:00, også i høstferien.
+Det er også mulig å levere lopper direkte til Trasop skole fredag 13. oktober fra kl 18:00.
+
 
 * Tekstil: klær, sko, vesker, gardiner, duker, tepper
 * Leker og sportsutstyr
