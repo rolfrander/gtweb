@@ -48,10 +48,7 @@ koronaversjon:
 
 ## Innmelding
 
-Vi ønsker oss mange nye musikanter, så har *du* lyst til å spille i korps, trykk
-på knappen under.
-
-{{<button link="#form" tekst="trykk her for innmeldingsskjema" >}}
+Registreringsskjemaet vårt er dessverre ute av drift, send epost til {{<email medlem>}}.
 
 Barnet meldes inn i Norges Musikkorps Forbund samtidig som det tas opp som
 medlem av Godlia/Trasop skolers musikkorps.
