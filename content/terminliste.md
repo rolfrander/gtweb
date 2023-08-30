@@ -44,7 +44,7 @@ Det er mulig å importere kalenderen inn i apple/iphone, google/android eller mi
 <dd>Juleavslutning med konsert og stjernedryss</dd>
 <dt>4. januar 2024</dt>
 <dd>Første samspill etter juleferien</dd>
-<dt>Mars</dt>
+<dt>1.-3. Mars</dt>
 <dd>Seminarhelg</dd>
 <dt>11. april</dt>
 <dd>Vårkonsert/Generalprøve på DM-repertoar</dd>
