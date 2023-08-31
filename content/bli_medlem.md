@@ -26,14 +26,9 @@ Sitemap:
 ---
 
 
-## Fortsatt ledige plasser på noen instrumenter
+## Opptaket er over for i år
 
-Korpsets kapasitet til å ta i mot nye medlemmer er begrenset av hvilken kapasitet vi har på instruktører og behovet for å ha en balanse mellom ulike instrumentgrupper i korpset. Vi har hatt en gledelig god rekruttering i år med nesten 30 nye medlemmer, men det er fortsatt plass til noen til på disse instrumentene:
-
-* Baryton (som en liten tuba, [youtube](https://youtu.be/3rV2ZwyGdY8))
-* Trombone ([youtube](https://youtu.be/Af1AzoGFCLM))
-
-Du kan registrere innmeldingsskjema på knapp under. Hvis du har spørsmål kan du sende epost til {{<email medlem>}}.
+Nå er det fullt i alle instrumentgurpper og vi har dessverre ikke kapasitet til å ta opp flere medlemmer. Rekruttering for neste sesong starter i mai, følg med her for mer info når det nærmer seg.
 
 Her kan du se og høre noen av instrumentene, når
 juniorkorpset spiller musikk fra dataspillet Brawl Stars -
@@ -46,12 +41,6 @@ koronaversjon:
 </div>
 
 
-## Innmelding
-
-Registreringsskjemaet vårt er dessverre ute av drift, send epost til {{<email medlem>}}.
-
-Barnet meldes inn i Norges Musikkorps Forbund samtidig som det tas opp som
-medlem av Godlia/Trasop skolers musikkorps.
 
 ## Hvordan er det å gå i korps?
 
