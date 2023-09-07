@@ -4,7 +4,7 @@ menu:
   main:
     weight: 3
 
-description: Oppdatert 30. august 2023
+description: Oppdatert 7. september 2023
 forsidebilde: /images/kalender.jpg
 
 ---
@@ -27,38 +27,46 @@ Det er mulig å importere kalenderen inn i apple/iphone, google/android eller mi
 
 ## Høydepunkter fremover
 
-<dl>
-<dt>24. august</dt>
-<dd>Oppstart etter sommerferien, enetimer starter tirsdag og onsdag uken etter (29/30 august)</dd>
-<dt>1, og 2. september</dt>
-<dd>Oppsal gatefest. Seminar fredag ettermiddag, parade og konsert på lørdag</dd>
-<dt>14. september</dt>
-<dd>Hentekonsert og foreldremøte</dd>
-<dt>12-15. oktober</dt>
-<dd>Loppemarked</dd>
-<dt>21-22. oktober</dt>
-<dd>Seminar lørdag og søndag, sosiale aktiviteter lørdag kveld</dd>
-<dt>5. november</dt>
-<dd>Konsert i Oppsal kirke</dd>
-<dt>14. desember</dt>
-<dd>Juleavslutning med konsert og stjernedryss</dd>
-<dt>4. januar 2024</dt>
-<dd>Første samspill etter juleferien</dd>
-<dt>1.-3. Mars</dt>
-<dd>Seminarhelg</dd>
-<dt>11. april</dt>
-<dd>Vårkonsert/Generalprøve på DM-repertoar</dd>
-<dt>13-14. april</dt>
-<dd>Distriktsmesterskap på Lørenskog.</dd>
-<dt>Søndag 12. Mai</dt>
-<dd>Marsj-seminar</dd>
-<dt>16. og 17. mai</dt>
-<dd>Feiring av grunnlovsdagen. 16. mai er en torsdag, det blir også samspill-øvelse denne kvelden.</dd>
-<dt>Søndag i Mai/Juni</dt>
-<dd>Skøyendagen, arrangert av Lions Bryn</dd>
-<dt>Juni</dt>
-<dd>Sommertur</dd>
-</dl>
+
+14.september
+: Digitalt foreldremøte
+
+12-15.oktober
+: Loppemarked
+
+21-22.oktober
+: Seminar lørdag og søndag, sosiale aktiviteter lørdag kveld
+
+5.november
+: Konsert i Oppsal kirke
+
+14.desember
+: Juleavslutning med konsert og stjernedryss
+
+4.januar 2024
+: Første samspill etter juleferien
+
+1.-3.Mars
+: Seminarhelg
+
+11.april
+: Vårkonsert/Generalprøve på DM-repertoar
+
+13-14.april
+: Distriktsmesterskap på Lørenskog.
+
+Søndag 12.Mai
+: Marsj-seminar
+
+16 og 17.mai
+: Feiring av grunnlovsdagen. 16. mai er en torsdag, det blir også samspill-øvelse denne kvelden.
+
+Søndag i Mai/Juni
+: Skøyendagen, arrangert av Lions Bryn
+
+Juni
+: Sommertur
+
 
 ## Øvetider
 
