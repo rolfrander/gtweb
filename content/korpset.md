@@ -26,17 +26,9 @@ Godlia/Trasop skolers musikkorps er medlem av
 
 ## Støtte
 
-For sesongen 2022-23 har vi vært heldige og fått økonomisk støtte fra Obos til instruktører, t-skjorter, arrangering av musikk og seminar til våren. 
+Jubelbrøl 🥳 Vi har vært så heldige å få 10 000 kroner fra #OBOSjubel til et miniseminar i forbindelse med Oppsal gatefest sist helg. #OBOSjubel har også støttet korpset tidligere år, og denne gangen kom støtten godt med i semesteroppstarten, med mange nye og nyopprykkede medlemmer. Vi har også stor glede av t-skjortene vi fikk støtte til i forrige sesong. 
 
 <img src="../images/obos_liggende.svg" height="50" alt="OBOS">
-
-Vi har også fått midler fra frifond-ordningen øremerket instruktører.
-
-<img src="../images/nmf_logo.svg" height="80" alt="NMF">
-
-Fra [Opsahlfondet](https://opsahlgruppen.no/opsahlfondet/) har vi fått 10.000,- til uniformer.
-
-<img src="../images/opsahlgruppen.svg" height="80" alt="Opsahlgruppen">
 
 Tusen takk!
 
