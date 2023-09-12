@@ -4,7 +4,7 @@ menu:
   main:
     weight: 3
 
-description: Oppdatert 7. september 2023
+description: Oppdatert 12. september 2023
 forsidebilde: /images/kalender.jpg
 
 ---
@@ -31,6 +31,9 @@ Det er mulig å importere kalenderen inn i apple/iphone, google/android eller mi
 14.september
 : Digitalt foreldremøte
 
+28.september
+: Kammerkonsert i aulaen på Godlia
+
 12-15.oktober
 : Loppemarked
 
@@ -40,7 +43,7 @@ Det er mulig å importere kalenderen inn i apple/iphone, google/android eller mi
 5.november
 : Konsert i Oppsal kirke
 
-14.desember
+15.desember (fredag!)
 : Juleavslutning med konsert og stjernedryss
 
 4.januar 2024
