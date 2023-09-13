@@ -1,17 +1,13 @@
 ---
 title: "Har du lyst til å spille i korps?"
-menu:
-  main:
-    weight: 1
-    name: Spill med oss!
 
-description: Hos oss får du god musikkundervisning, nye venner og mange hyggelige og spennende opplevelser. Opptak av nye medlemmer er i mai og juni hvert år, men vi har fortsatt ledige plasser på noen instrumenter for kommende sesong 2023-24
+description: Hos oss får du god musikkundervisning, nye venner og mange hyggelige og spennende opplevelser. Opptak av nye medlemmer er i mai og juni hvert år, og for sesongen 23-24 har vi dessverre ikke kapasitet til å ta opp flere medlemmer
 
 forsidebilde: /images/17mai2017-bredde.jpg
 bilde: /images/17mai2017-bredde.jpg
 
-featured: true
-excludeFirstPage: true
+featured: false
+excludeFirstPage: false
 
 layout: medlemskjema
 

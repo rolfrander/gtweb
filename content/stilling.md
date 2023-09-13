@@ -1,10 +1,15 @@
 ---
 title: "Ledig stilling"
 
-description: Vi har ikke behov for flere instruktører akkurat nå, men ta gjerne kontakt hvis du er interessert, behovet kan endres fremover.
+menu:
+  main:
+    weight: 1
+    name: Klarinettinstruktør ønskes
 
-featured: false
-excludeFirstPage: true
+description: Vi trenger ny klarinettinstruktør omgående
+
+featured: true
+excludeFirstPage: false
 
 Sitemap:
   Priority: 0.6
@@ -12,6 +17,20 @@ Sitemap:
 
 ---
 
+
+## Instruktør for klarinett
+
+Godlia og Trasop skolers musikkorps trenger ny instruktør for klarinettgruppen.
+
+Vi har 11 klarinettister i alderen 9 til 14 som trenger ny klarinettinstruktør i høst. Undervisningen foregår på Godlia skole tirsdager i tidsrommet 14 til 20. Hvert medlem får 30 minutter individuell undervisning per uke, og det er samspill på torsdager. Det kan også være aktuelt med bistand i forbindelse med seminarer i løpet av sesongen.
+
+Vi har totalt 22 medlemmer som spiller klarinett eller saxofon, resten av elevene får undervisning onsdager. Det er en fordel om du også kan undervise på saxofon, det gir oss mer fleksibilitet til å fordele elever. Det er også fint om du ved behov har mulighet for å vikariere for gruppen som har undervisning onsdag.
+
+Vi ønsker at du tar ansvar for:
+* Planlegging og gjennomføring av instrumentundervisning, inkludert planlegging av tidspunkter i dialog med foreldre
+* Samarbeid med dirigentene om medlemmenes musikalske utvikling
+
+Vi ønsker at du er selvstendig næringsdrivene og kan fakturere korpset, lønn etter avtale.
 
 ## Om korpset
 
