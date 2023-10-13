@@ -67,7 +67,7 @@ Avdelinger i år:
 * burger selges ute, cafe er i samlingssalen
 
 <div class="image">
-<img src="../images/loppemarked_kart.png">
+<a href="../images/loppemarked_kart.png"><img style="width: 100%" src="../images/loppemarked_kart.png"></a>
 </div>
 
 ### Veibeskrivelse fra Tveita
