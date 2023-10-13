@@ -56,6 +56,16 @@ Vi setter stor pris på at tingene er sortert i disse kategorier og at klær er 
 
 [Trasop Skole](https://www.google.com/maps/place/Trasop+skole/@59.904898,10.8484054,17z/data=!3m1!4b1!4m5!3m4!1s0x46416f9d491d3505:0x9abf56f5b7e8c94!8m2!3d59.9048953!4d10.8505994) på Google Maps
 
+Avdelinger i år:
+* 2: Klær, menn  og barn
+* 3-4: Klær, damer
+* 5: Vesker
+* 6: Tekstil
+* 9: Leker
+* 10: Elektro
+* Møbler og sport er ute i skolegården som vanlig
+* burger selges ute, cafe er i samlingssalen
+
 <div class="image">
 <img src="../images/loppemarked_kart.png">
 </div>
