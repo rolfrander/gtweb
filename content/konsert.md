@@ -1,15 +1,24 @@
 ---
-title: "Neste konsert"
+title: "Neste konsert: Universet"
 
-description: Konsert søndag 6. november 18:00-19:30.
-forsidebilde: /images/jazz.svg
-bilde: /images/jazz.svg
-featured: false
+menu:
+  main:
+    weight: 1
+    name: Konsert
+
+description: Konsert søndag 5. november 15:30.
+forsidebilde: /images/universet.jpg
+bilde: /images/universet.jpg
+featured: true
 excludeFirstPage: true
 ---
 
-Korpset presenterer høstens jazz-prosjekt søndag 6. november 18:00-19:30.
+Høstkonsert med tema "universet" i Oppsal Kirke søndag 5. november kl 15:30. Det blir kaffe og kake etter konserten.
 
-Det blir salg av kaffe og kaker i pausen.
+Betaling for kake og kaffe og frivillig sum for inngang gjøres med vipps. Vi gleder oss!
 
-* [Skullerud Skole, General Ruges vei 100](https://goo.gl/maps/bscYCQA1xXxtbNVe9)
+Konserten er støttet av Oslo Kommune.
+
+<img src="/images/Oslo-logo-sort-RGB.svg" width="30%">
+
+Bildet er av to kolliderende galakser, fra [NASA](https://apod.nasa.gov/apod/ap231024.html).

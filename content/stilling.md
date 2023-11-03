@@ -1,15 +1,10 @@
 ---
 title: "Ledig stilling"
 
-menu:
-  main:
-    weight: 1
-    name: Klarinettinstruktør ønskes
-
 description: Vi trenger ny klarinettinstruktør omgående
 
-featured: true
-excludeFirstPage: false
+featured: false
+excludeFirstPage: true
 
 Sitemap:
   Priority: 0.6
