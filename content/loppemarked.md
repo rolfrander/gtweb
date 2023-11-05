@@ -1,5 +1,5 @@
 ---
-title: "Loppemarked"
+title: "Loppemottak hver onsdag"
 
 menu:
   main:
@@ -8,7 +8,7 @@ menu:
 featured: false
 excludeFirstPage: false
 
-description: Loppemarkedet er korpsets viktigste inntektskilde. Det er kjent for å være trivelig og ryddig med et stort utvalg av klær og leker, bøker, kunst, finlopper, sport med mer - pluss cafe med pølser og burgere, drikke og kaker. Neste loppemarked er 14 og 15 oktober 2023.
+description: Loppemarkedet er korpsets viktigste inntektskilde. Det er kjent for å være trivelig og ryddig med et stort utvalg av klær og leker, bøker, kunst, finlopper, sport med mer - pluss cafe med pølser og burgere, drikke og kaker. Neste loppemarked er våren 2024, men vi tar i mot lopper på Bogerud hver onsdag.
 
 forsidebilde: /images/loppemarked-23.jpg
 bilde: /images/loppemarked-23.jpg
