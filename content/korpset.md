@@ -26,9 +26,15 @@ Godlia/Trasop skolers musikkorps er medlem av
 
 ## Støtte
 
-Jubelbrøl 🥳 Vi har vært så heldige å få 10 000 kroner fra #OBOSjubel til et miniseminar i forbindelse med Oppsal gatefest sist helg. #OBOSjubel har også støttet korpset tidligere år, og denne gangen kom støtten godt med i semesteroppstarten, med mange nye og nyopprykkede medlemmer. Vi har også stor glede av t-skjortene vi fikk støtte til i forrige sesong. 
+Sesongen 23-24 har vi fått støtte fra:
 
-<img src="../images/obos_liggende.svg" height="50" alt="OBOS">
+* Obos til undervisning
+* Olav Thons Legat til uniformer
+* Oslo Kommune har gitt konsertstøtte
+
+<img src="/images/obos_liggende.svg"      style="width: 150px; height: 50px; object-fit: contain;" alt="OBOS">
+<img src="/images/Oslo-logo-sort-RGB.svg" style="width: 150px; height: 50px; object-fit: cover;">
+<img src="/images/olav-thon-legat.svg"    style="height: 50px; background: #253373">
 
 Tusen takk!
 
@@ -60,8 +66,10 @@ Du kan laste ned en pdf fil med alt du trenger [her](grasrot-1-971284676.pdf).
 
 Les mer hos [Norsk tipping](https://www.norsk-tipping.no/grasrotandelen).
 
+<iframe frameborder="0" height="550" scrolling="no"  src="https://www.norsk-tipping.no/grasrotandelen/statistikk/iframe/971284676" width="60%"> </iframe>
+
 ### Max spill
 
-Korpset får også støtte fra Max Spill AS
+Korpset får også støtte fra Max Spill på Tveitasenteret.
 
-<iframe width="150" height="135" src="https://maxspill.no/ads120919/" frameborder="0" margin="0" padding="0" marginheight="0" marginwidth="0" scrolling="no"></iframe>
+<iframe width="300" height="270" src="https://maxspill.no/ads120919/" frameborder="0" margin="0" padding="0" marginheight="0" marginwidth="0" scrolling="no"></iframe>

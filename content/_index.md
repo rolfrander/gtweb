@@ -25,7 +25,3 @@ vi tar også opp musikanter fra skoler i nærområdet som ikke har egne korps.
 
 Korpset hadde 40-årsjubileum i 2022, og har de siste årene hatt en gledelig
 vekst i antall musikanter.
-
-Vi har vært så heldige å få 10 000 kroner fra #OBOSjubel til et miniseminar i forbindelse med Oppsal gatefest sist helg.
-
-<img src="images/obos_liggende.svg" height="50" alt="OBOS">
