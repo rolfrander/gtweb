@@ -7,7 +7,7 @@ forsidebilde: /images/17mai2017-bredde.jpg
 bilde: /images/17mai2017-bredde.jpg
 
 featured: false
-excludeFirstPage: false
+excludeFirstPage: true
 
 layout: medlemskjema
 
