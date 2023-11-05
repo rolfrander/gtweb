@@ -4,7 +4,7 @@ menu:
   main:
     weight: 3
 
-description: Oppdatert 12. september 2023
+description: Oppdatert 5. november 2023
 forsidebilde: /images/kalender.jpg
 
 ---
@@ -26,22 +26,6 @@ Du logger på med telefonnummer eller epost. Ta kontakt med {{<email styret>}} h
 Det er mulig å importere kalenderen inn i apple/iphone, google/android eller microsoft/outlook. Trykk på tannhjulet øverst til høyre i appen og følg instruksjonene.
 
 ## Høydepunkter fremover
-
-
-14.september
-: Digitalt foreldremøte
-
-28.september
-: Kammerkonsert i aulaen på Godlia
-
-12-15.oktober
-: Loppemarked
-
-21-22.oktober
-: Seminar lørdag og søndag, sosiale aktiviteter lørdag kveld
-
-5.november
-: Konsert i Oppsal kirke
 
 15.desember (fredag!)
 : Juleavslutning med konsert og stjernedryss
