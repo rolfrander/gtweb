@@ -4,7 +4,7 @@ menu:
   main:
     weight: 3
 
-description: Oppdatert 5. november 2023
+description: Oppdatert 20. november 2023
 forsidebilde: /images/kalender.jpg
 
 ---
@@ -26,6 +26,9 @@ Du logger på med telefonnummer eller epost. Ta kontakt med {{<email styret>}} h
 Det er mulig å importere kalenderen inn i apple/iphone, google/android eller microsoft/outlook. Trykk på tannhjulet øverst til høyre i appen og følg instruksjonene.
 
 ## Høydepunkter fremover
+
+Søndag 3. desember (kun HK)
+: Hovedkorpset spiller på julegrantenning ved Godlia Velhus kl 16.
 
 15.desember (fredag!)
 : Juleavslutning med konsert og stjernedryss
