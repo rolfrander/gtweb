@@ -27,17 +27,14 @@ Det er mulig å importere kalenderen inn i apple/iphone, google/android eller mi
 
 ## Høydepunkter fremover
 
-Søndag 3. desember (kun HK)
-: Hovedkorpset spiller på julegrantenning ved Godlia Velhus kl 16.
-
-15.desember (fredag!)
-: Juleavslutning med konsert og stjernedryss
-
 4.januar 2024
 : Første samspill etter juleferien
 
 1.-3.Mars
 : Seminarhelg
+
+7.Mars
+: Årsmøte
 
 11.april
 : Vårkonsert/Generalprøve på DM-repertoar
