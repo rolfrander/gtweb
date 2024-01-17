@@ -4,7 +4,7 @@ menu:
   main:
     weight: 3
 
-description: Oppdatert 3. januar 2024
+description: Oppdatert 17. januar 2024
 forsidebilde: /images/kalender.jpg
 
 ---
@@ -26,9 +26,6 @@ Du logger på med telefonnummer eller epost. Ta kontakt med {{<email styret>}} h
 Det er mulig å importere kalenderen inn i apple/iphone, google/android eller microsoft/outlook. Trykk på tannhjulet øverst til høyre i appen og følg instruksjonene.
 
 ## Høydepunkter fremover
-
-4.januar 2024
-: Første samspill etter juleferien
 
 1.-3.Mars
 : Seminarhelg
@@ -52,7 +49,25 @@ Søndag i Mai/Juni
 : Skøyendagen, arrangert av Lions Bryn
 
 Juni
+: Sommeravslutning med stjernedryss. Vi flytter stjernedrysset fra desember til juni.
+
+Juni
 : Sommertur
+
+19.august
+: Første skoledag etter ferien, enetimer og samspill starter samme uke
+
+September
+: Kammerkonsert
+
+Oktober
+: Seminar på Godlia
+
+November
+: Høstkonsert
+
+Desember
+: Juleavslutning
 
 
 ## Øvetider
