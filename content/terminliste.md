@@ -4,7 +4,7 @@ menu:
   main:
     weight: 3
 
-description: Oppdatert 17. januar 2024
+description: Oppdatert 24. januar 2024
 forsidebilde: /images/kalender.jpg
 
 ---
@@ -27,7 +27,7 @@ Det er mulig å importere kalenderen inn i apple/iphone, google/android eller mi
 
 ## Høydepunkter fremover
 
-1.-3.Mars
+2.-3.Mars
 : Seminarhelg
 
 7.Mars
@@ -38,6 +38,9 @@ Det er mulig å importere kalenderen inn i apple/iphone, google/android eller mi
 
 13-14.april
 : Distriktsmesterskap på Lørenskog.
+
+20-21.april
+: Loppemarked
 
 Søndag 12.Mai
 : Marsj-seminar
