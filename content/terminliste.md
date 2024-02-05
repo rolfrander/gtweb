@@ -4,7 +4,7 @@ menu:
   main:
     weight: 3
 
-description: Oppdatert 24. januar 2024
+description: Oppdatert 5. februar 2024
 forsidebilde: /images/kalender.jpg
 
 ---
@@ -26,6 +26,9 @@ Du logger på med telefonnummer eller epost. Ta kontakt med {{<email styret>}} h
 Det er mulig å importere kalenderen inn i apple/iphone, google/android eller microsoft/outlook. Trykk på tannhjulet øverst til høyre i appen og følg instruksjonene.
 
 ## Høydepunkter fremover
+
+7.februar
+: Endret tidspunkt for junior og hoved, se tutti for detaljer
 
 2.-3.Mars
 : Seminarhelg
@@ -82,8 +85,7 @@ De ulike korpsene øver på Godlia skole til faste tider hver **torsdag**. Musik
     <col span="1" style="width: 20%;">
     <col span="1" style="width: 80%;">
 </colgroup>
-<tr><th>Aspirantkorps 1</th><td>14:30-15:30</td>
-<tr><th>Aspirantkorps 2</th><td>16:00-17:00</td>
+<tr><th>Aspirantkorps</th><td>15:00-16:00</td>
 <tr><th>Juniorkorps</th>  <td>17:30-19:00</td>
 <tr><th>Hovedkorps</th>   <td>17:45-20:00</td>
 </table>
