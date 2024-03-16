@@ -21,7 +21,7 @@ Sitemap:
 
 ## Neste loppemarked våren 2024
 
-Høstens loppemarked er over, men vi tar fortsatt i mot lopper hele høsten på vårt lager på Bogerud hver onsdag kl 19-20.
+Høstens loppemarked er over, men vi tar fortsatt i mot lopper hele året (men ikke 27. mars på grunn av påske) på vårt lager på Bogerud hver onsdag kl 19-20.
 
 Hvis det er noe du lurer på kan du ta kontakt med oss på {{<email loppemarked>}}.
 
