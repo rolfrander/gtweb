@@ -29,8 +29,8 @@ Sitemap:
 </tr>
 
 <tr><th>Styreleder</th>
-<td>Rolf Rander Næss<br>
-Tlf: 928 20 227<br>
+<td>Frode Villumstad<br>
+Tlf: 930 81 183<br>
 Epost {{<email leder>}}</td>
 </tr>
 
