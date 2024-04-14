@@ -27,21 +27,6 @@ Det er mulig å importere kalenderen inn i apple/iphone, google/android eller mi
 
 ## Høydepunkter fremover
 
-7.februar
-: Endret tidspunkt for junior og hoved, se tutti for detaljer
-
-2.-3.Mars
-: Seminarhelg
-
-7.Mars
-: Årsmøte
-
-11.april
-: Vårkonsert/Generalprøve på DM-repertoar
-
-13-14.april
-: Distriktsmesterskap på Lørenskog.
-
 20-21.april
 : Loppemarked
 
@@ -57,8 +42,8 @@ Søndag i Mai/Juni
 Juni
 : Sommeravslutning med stjernedryss. Vi flytter stjernedrysset fra desember til juni.
 
-Juni
-: Sommertur
+21.-23. juni
+: Sommertur til Sommarlandfestivalen i Bø i Telemark
 
 19.august
 : Første skoledag etter ferien, enetimer og samspill starter samme uke
