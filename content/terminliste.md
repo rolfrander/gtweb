@@ -36,8 +36,8 @@ Søndag 12.Mai
 16 og 17.mai
 : Feiring av grunnlovsdagen. 16. mai er en torsdag, det blir også samspill-øvelse denne kvelden.
 
-Søndag i Mai/Juni
-: Skøyendagen, arrangert av Lions Bryn
+Torsdag 30. mai
+: Skøyenkvelden, arrangert av Lions Bryn
 
 Juni
 : Sommeravslutning med stjernedryss. Vi flytter stjernedrysset fra desember til juni.
