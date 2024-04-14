@@ -23,6 +23,10 @@ Sitemap:
 
 *Onsdag 17. april er siste onsdag før loppemarkedet og lageret er åpent kl 18 til 20!*
 
+Åpningstider for loppemarkedet:
+* Lørdag 20. april kl 10-16
+* Søndag 21. april kl 11-16
+
 Hvis det er noe du lurer på kan du ta kontakt med oss på {{<email loppemarked>}}.
 
 ## Vi tar i mot
