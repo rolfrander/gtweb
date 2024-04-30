@@ -1,11 +1,15 @@
 ---
-title: "16/17. mai 2023"
+title: "16/17. mai 2024"
 
-description: Endelige planer for 16. og 17. mai 2023, sist oppdatert 6. mai 2023
+description: Endelige planer for 16. og 17. mai 2024, sist oppdatert 30. april 2024
 forsidebilde: /images/flagg_kjell_joran_hansen.jpg
 bilde: /images/flagg_kjell_joran_hansen.jpg
-featured: false
+featured: true
 excludeFirstPage: true
+
+menu:
+  main:
+    weight: 2
 
 ---
 
@@ -59,11 +63,14 @@ Aspiranter oppfordres til å være med på dette, men det er ikke noe spilling f
 
 ## 17. mai, formiddag
 
-* mellom 10:00 og 11:00: Ved ankomst Festningsplassen stiller korpset opp sammen med Trasop og Godlia, disse er henholdvsi nr 56 og 57 i toget, korpset går mellom skolene. Hver musikant får en voksen tilknytningsperson som tar vare på dem i barnetoget og frem til de blir hentet på oppløsningsplassen.
-* ca 11:00 Avmarsj
-* ca 12:15 Avslutningen på toget: Fra Henrik Ibsens gate svinger barnetoget inn Munkedamsveien og ned Haakon VIIs gate, før det avsluttes for vår del i Tordenskjolds gate (1b i kartet under). Foreldrene må hente sin musikant når korpset kommer til oppløsningsplassen. Det er viktig at den voksne som har ansvar for ditt barn får beskjed når barnet hentes!
+* mellom 10:45 og 11:35: Ved ankomst Festningsplassen stiller korpset opp sammen med Trasop og Godlia, disse er henholdvis nr 76 og 77 i toget, korpset går mellom skolene. Hver musikant får en voksen tilknytningsperson som tar vare på dem i barnetoget og frem til de blir hentet på oppløsningsplassen.
+* ca 11:35 Avmarsj
+* ca 12:25 Avslutningen på toget: Fra Henrik Ibsens gate svinger barnetoget inn Munkedamsveien og ned Haakon VIIs gate, før det avsluttes for vår del i Tordenskjolds gate (1b i kartet under). Foreldrene må hente sin musikant når korpset kommer til oppløsningsplassen. Det er viktig at den voksne som har ansvar for ditt barn får beskjed når barnet hentes!
 
 Aspiranter oppfordres til å være med og marsjere i barnetoget, men spiller ikke i toget. Aspiranter som er med og marsjerer bytter på å holde "dusk" på fanen.
+
+Påmelding til å være med i toget i byen finner du 
+[her](https://forms.gle/z55MJ2Z3Nytx3PdG7)
 
 ## 17. mai, ettermiddag
 
@@ -72,10 +79,12 @@ Aspiranter oppfordres til å være med og marsjere i barnetoget, men spiller ikk
 * Planlagt rute: Vetlandsveien, Kranveien, Formerveien, Solbergliveien, Vetlandsfaret, Trasop skole
 * Etter ankomst på Trasop holder vi en liten konsert, her skal både aspiranter, junior og hovedkorps spille.
 
-Merk at vi skal **ikke** stå for cafe på Trasop i år. Vi og skolekoret har ansvar for dette annenhvert år, og de årene vi ikke har 17. mai-salg har vi i stedet vår-loppemarked.
+Vi står for kafe på Trasop i år. Se link til påmelding som bidragsyter i
+meldingen. Merk at alle må bidra med en kake eller gjærbakst, som gjerne kan
+leveres på morgenen. 
 
 ## Kart over rådhusplassen
 
-<a href="/images/kart_17mai_2023.png">
-<img src="/images/kart_17mai_2023.png">
+<a href="/images/kart_17mai_2024.png">
+<img src="/images/kart_17mai_2024.png">
 </a>
