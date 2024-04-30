@@ -1,14 +1,10 @@
 ---
-title: "Loppemarked 20-21. april 2024"
-
-menu:
-  main:
-    weight: 2
+title: "Loppemarked høsten 2024"
 
 featured: false
 excludeFirstPage: false
 
-description: Loppemarkedet er korpsets viktigste inntektskilde. Det er kjent for å være trivelig og ryddig med et stort utvalg av klær og leker, bøker, kunst, finlopper, sport med mer - pluss cafe med pølser og burgere, drikke og kaker. Neste loppemarked er 20-21. april 2024. Vi tar i mot lopper på Bogerud hver onsdag.
+description: Loppemarkedet er korpsets viktigste inntektskilde. Det er kjent for å være trivelig og ryddig med et stort utvalg av klær og leker, bøker, kunst, finlopper, sport med mer - pluss cafe med pølser og burgere, drikke og kaker. Neste loppemarked er høsten 2024. 
 
 forsidebilde: /images/loppemarked-23.jpg
 bilde: /images/loppemarked-23.jpg
@@ -19,24 +15,11 @@ Sitemap:
 
 ---
 
-## Neste loppemarked 20. og 21. april
+## Neste loppemarked høsten 2024
 
-*Onsdag 17. april er siste onsdag før loppemarkedet og lageret er åpent kl 18 til 20!*
-
-Åpningstider for loppemarkedet:
-* Lørdag 20. april kl 10-16
-* Søndag 21. april kl 11-16
-
-Hvis det er noe du lurer på kan du ta kontakt med oss på {{<email loppemarked>}}.
+Vårens loppemarked er over, neste blir høsten 2024. Akkurat nå har vi også pause i mottak av lopper, men vi oppdaterer med ny info når vi har lagt nye planer.
 
 ## Vi tar i mot
-
-Noen som har ryddet de siste ukene og har noe å gi bort? Godlia Trasop skolers musikkorps tar imot lopper hele året!
-
-Vi tar i mot lopper på vårt lager i [Stallerudveien 117](https://goo.gl/maps/ySm194Yt4MN2)
-hver onsdag kl 19:00 til 20:00.
-Det er også mulig å levere lopper direkte til Trasop skole fredag 19. april fra kl 18:00.
-
 
 * Tekstil: klær, sko, vesker, gardiner, duker, tepper
 * Leker og sportsutstyr
