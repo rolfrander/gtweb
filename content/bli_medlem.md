@@ -1,13 +1,13 @@
 ---
 title: "Har du lyst til å spille i korps?"
 
-description: Hos oss får du god musikkundervisning, nye venner og mange hyggelige og spennende opplevelser. Opptak av nye medlemmer er i mai og juni hvert år, og for sesongen 23-24 har vi dessverre ikke kapasitet til å ta opp flere medlemmer
+description: Hos oss får du god musikkundervisning, nye venner og mange hyggelige og spennende opplevelser. Opptak av nye medlemmer fra høsten 2024 starter straks.
 
 forsidebilde: /images/17mai2017-bredde.jpg
 bilde: /images/17mai2017-bredde.jpg
 
 featured: false
-excludeFirstPage: true
+excludeFirstPage: false
 
 layout: medlemskjema
 
@@ -22,9 +22,15 @@ Sitemap:
 ---
 
 
-## Opptaket er over for i år
+## Nå åpner vi for nye medlemmer!
 
-Nå er det fullt i alle instrumentgurpper og vi har dessverre ikke kapasitet til å ta opp flere medlemmer. Rekruttering for neste sesong starter i mai, følg med her for mer info når det nærmer seg.
+* torsdag 23. mai kommer vi til å ha konserter på både Trasop og Godlia
+* på øvelsen 6. juni kl 18:00 kommer vi til å ha "åpen øvelse" på Godlia skole (inngang B). Her kan du:
+  * komme og høre på en vanlig øvelse, 
+  * få prøve ulike instrumenter
+  * snakke med både barn og voksne i korpset om hvordan det er å spille i korps.
+
+Du kan registrere innmeldingsskjema på knapp under. Hvis du har spørsmål kan du sende epost til {{<email medlem>}}.
 
 Her kan du se og høre noen av instrumentene, når
 juniorkorpset spiller musikk fra dataspillet Brawl Stars -
@@ -36,6 +42,16 @@ koronaversjon:
 </video>
 </div>
 
+
+## Innmelding
+
+Vi ønsker oss mange nye musikanter, så har *du* lyst til å spille i korps, trykk
+på knappen under.
+
+{{<button link="#form" tekst="trykk her for innmeldingsskjema" >}}
+
+Barnet meldes inn i Norges Musikkorps Forbund samtidig som det tas opp som
+medlem av Godlia/Trasop skolers musikkorps.
 
 
 ## Hvordan er det å gå i korps?
