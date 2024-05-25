@@ -13,12 +13,6 @@ menu:
   main:
     weight: 2
 
-layout: medlemskjema
-
-script:
- - /assets/js/medlem.js
- - https://www.google.com/recaptcha/api.js
-
 Sitemap:
   Priority: 0.6
   ChangeFreq: yearly
@@ -53,7 +47,13 @@ koronaversjon:
 Vi ønsker oss mange nye musikanter, så har *du* lyst til å spille i korps, trykk
 på knappen under.
 
-{{<button link="#form" tekst="trykk her for innmeldingsskjema" >}}
+<ul class="actions special">
+<li>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSd66JkbuJ_aOmkb1Te8LYnNSy1814_fC3FWuuByGX_EbhrtXg/viewform" target="gt_innmelding" class="button large">
+trykk her for innmeldingsskjema
+</a>
+</li>
+</ul>
 
 Barnet meldes inn i Norges Musikkorps Forbund samtidig som det tas opp som
 medlem av Godlia/Trasop skolers musikkorps.
