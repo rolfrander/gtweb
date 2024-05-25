@@ -28,6 +28,8 @@ Sitemap:
 
 ## Nå åpner vi for nye medlemmer!
 
+Vi tar i mot barn fra tredje trinn, altså de som begynner i tredje klasse til høsten. Selv om de fleste nye medlemmer går i 3. eller 4., er det aldri for sent å begynne, og eldre barn er selvsagt også velkommen.
+
 På øvelsen 6. juni kl 18:00 kommer vi til å ha "åpen øvelse" på Godlia skole (inngang B). Her kan du:
 * få kort informasjon om korpset 
 * få prøve ulike instrumenter
