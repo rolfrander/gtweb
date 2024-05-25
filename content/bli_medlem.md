@@ -26,7 +26,7 @@ Sitemap:
 
 * torsdag 23. mai kommer vi til å ha konserter på både Trasop og Godlia
 * på øvelsen 6. juni kl 18:00 kommer vi til å ha "åpen øvelse" på Godlia skole (inngang B). Her kan du:
-  * komme og høre på en vanlig øvelse, 
+  * få kort informasjon om korpset 
   * få prøve ulike instrumenter
   * snakke med både barn og voksne i korpset om hvordan det er å spille i korps.
 
@@ -104,19 +104,12 @@ Korpsets musikanter spiller bl.a.:
 Kontingent er kr 2000 per halvår, til sammen 4000 kr per år. I tillegg kommer
 instrumentleie på 400,- pr år. Merk at eventuell utmelding av korpset må skje
 før påbegynt semester/halvår. Kontingent for påbegynt halvår refunderes ikke.
-Foreldre må også være korpsvakt noen ganger i løpet av året.
+Foreldre må også være korpsvakt på øvelsene noen ganger i løpet av året.
 
-Vi har vår dugnadinnsats konsentrert rundt et årlig loppemarked i midten av
-oktober, og loppemarked annet hvert år på våren. Foreldreaktiviteter i
-forbindelse med loppemarkedene er
+Vi er et korps drevet av foreldrene, og for at vi skal ha penger til de dyktige instruktørene og dirigentene, samt til innkjøp og vedlikehold av instrumenter og uniformer, har vi loppemarked to ganger i året (høst og vår). Foreldreaktiviteter i forbindelse med loppemarkedene er:
 
-- hente lopper i forkant av loppemarkedene
-- bidra med rigging før markedet
-- bidra med salg under selve loppemarkedet
+*	Bidra med rigging i dagene før loppemarkedet
+*	Bidra med salg under selve loppemarkedet
 
-Loppemarkedene betyr litt arbeidsinnsats fra foreldre, men er aller mest en
-sosial og hyggelig begivenhet, hvor du blir bedre kjent med barnas venner og
-foreldrene deres. I tillegg til loppemarked har vi ansvaret for 17. mai
-arrangementet på Trasop skole annet hvert år. La ikke redselen for dugnadsarbeid
-stå i veien for ditt barns musikkglede, for du har intet å frykte. Vi har det
-veldig gøy.
+For å få inn mange gode lopper har vi åpent lager for innlevering av lopper en gang i uken gjennom året. Foreldre settes opp i en vaktordning som innebærer å ta imot lopper på vårt lager på Bogerud (ca. 1 time, 1-2 ganger pr. halvår).
+Dugnadsarbeid er både gøy og sosialt, og bidrar til å holde medlemskontingenten nede. 
