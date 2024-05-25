@@ -6,8 +6,12 @@ description: Hos oss får du god musikkundervisning, nye venner og mange hyggeli
 forsidebilde: /images/17mai2017-bredde.jpg
 bilde: /images/17mai2017-bredde.jpg
 
-featured: false
-excludeFirstPage: false
+featured: true
+excludeFirstPage: true
+
+menu:
+  main:
+    weight: 2
 
 layout: medlemskjema
 
@@ -24,11 +28,10 @@ Sitemap:
 
 ## Nå åpner vi for nye medlemmer!
 
-* torsdag 23. mai kommer vi til å ha konserter på både Trasop og Godlia
-* på øvelsen 6. juni kl 18:00 kommer vi til å ha "åpen øvelse" på Godlia skole (inngang B). Her kan du:
-  * få kort informasjon om korpset 
-  * få prøve ulike instrumenter
-  * snakke med både barn og voksne i korpset om hvordan det er å spille i korps.
+På øvelsen 6. juni kl 18:00 kommer vi til å ha "åpen øvelse" på Godlia skole (inngang B). Her kan du:
+* få kort informasjon om korpset 
+* få prøve ulike instrumenter
+* snakke med både barn og voksne i korpset om hvordan det er å spille i korps.
 
 Du kan registrere innmeldingsskjema på knapp under. Hvis du har spørsmål kan du sende epost til {{<email medlem>}}.
 

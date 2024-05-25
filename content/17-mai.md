@@ -4,12 +4,8 @@ title: "16/17. mai 2024"
 description: Endelige planer for 16. og 17. mai 2024, sist oppdatert 30. april 2024
 forsidebilde: /images/flagg_kjell_joran_hansen.jpg
 bilde: /images/flagg_kjell_joran_hansen.jpg
-featured: true
+featured: false
 excludeFirstPage: true
-
-menu:
-  main:
-    weight: 2
 
 ---
 
