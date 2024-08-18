@@ -27,37 +27,28 @@ Det er mulig å importere kalenderen inn i apple/iphone, google/android eller mi
 
 ## Høydepunkter fremover
 
-20-21.april
-: Loppemarked
-
-Søndag 12.Mai
-: Marsj-seminar
-
-16 og 17.mai
-: Feiring av grunnlovsdagen. 16. mai er en torsdag, det blir også samspill-øvelse denne kvelden.
-
-Torsdag 30. mai
-: Skøyenkvelden, arrangert av Lions Bryn
-
-Juni
-: Sommeravslutning med stjernedryss. Vi flytter stjernedrysset fra desember til juni.
-
-21.-23. juni
-: Sommertur til Sommarlandfestivalen i Bø i Telemark
-
 19.august
 : Første skoledag etter ferien, enetimer og samspill starter samme uke
 
-September
+6.september
+: Ekstraøvelse før Oppsal gatefest
+
+7.september
+: Oppsal gatefest
+
+21.-22. September
+: Loppemarked
+
+26.September
 : Kammerkonsert
 
-Oktober
+18.-20. Oktober
 : Seminar på Godlia
 
-November
+1.-3. November
 : Høstkonsert
 
-Desember
+12.Desember
 : Juleavslutning
 
 
@@ -77,9 +68,4 @@ De ulike korpsene øver på Godlia skole til faste tider hver **torsdag**. Musik
 
 Alle musikanter har også enetimer med instrumentlærer, tidspunkter avtales direkte med hver enkelt.
 
-## Kalender
-
-Denne inneholder bare høydepunktene som gjelder alle musikanter, ikke detaljer for hver øvelse.
-
-<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=godlia.trasop.musikkorps%40gmail.com&amp;color=%2342104A&amp;ctz=Europe%2FOslo" style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
