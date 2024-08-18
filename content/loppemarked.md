@@ -21,7 +21,7 @@ menu:
 
 ## Loppemarked 21. og 22. september 2024
 
-Snart er det loppemarked igjen! Vi tar imot lopper hver onsdag i vårt lager på Bogerud, inngang fra parkeringsplassen bak Kiwi.
+Snart er det loppemarked igjen! Vi tar imot lopper hver onsdag kl 19-20 i vårt lager på Bogerud, inngang fra parkeringsplassen bak Kiwi.
 
 Loppemarkedet er 
 
@@ -36,7 +36,7 @@ Noen som har ryddet de siste ukene og har noe å gi bort? Godlia Trasop skolers 
 Vi tar i mot lopper på vårt lager i [Stallerudveien 117](https://goo.gl/maps/ySm194Yt4MN2)
 hver onsdag kl 19:00 til 20:00, samt hver dag 9-12. september.
 
-Det er også mulig å levere lopper direkte til Trasop skole fredag 13. oktober fra kl 18:00.
+Det er også mulig å levere lopper direkte til Trasop skole fredag 20. september fra kl 18:00.
 
 * Tekstil: klær, sko, vesker, gardiner, duker, tepper
 * Leker og sportsutstyr
@@ -55,6 +55,7 @@ Vi setter stor pris på at tingene er sortert i disse kategorier og at klær er 
 * Skarpe kniver (kjøkkenkniver)
 * Store hvitevarer (kjøleskap, frys, komfyr osv) 
 * Ødelagte ting
+* Leksikon
 
 ## Hvor er Loppemarkedet
 
