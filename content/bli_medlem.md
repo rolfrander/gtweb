@@ -6,12 +6,8 @@ description: Hos oss får du god musikkundervisning, nye venner og mange hyggeli
 forsidebilde: /images/17mai2017-bredde.jpg
 bilde: /images/17mai2017-bredde.jpg
 
-featured: true
+featured: false
 excludeFirstPage: true
-
-menu:
-  main:
-    weight: 2
 
 Sitemap:
   Priority: 0.6
