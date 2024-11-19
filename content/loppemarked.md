@@ -1,9 +1,6 @@
 ---
 title: "Loppemarked våren 2025."
 
-featured: true
-excludeFirstPage: true
-
 description: Loppemarkedet er korpsets viktigste inntektskilde. Det er kjent for å være trivelig og ryddig med et stort utvalg av klær og leker, bøker, kunst, finlopper, sport med mer - pluss cafe med pølser og burgere, drikke og kaker. Neste loppemarked er 21. og 22. september 2024. 
 
 forsidebilde: /images/loppemarked-23.jpg
@@ -13,9 +10,6 @@ Sitemap:
   Priority: 1.0
   ChangeFreq: monthly
 
-menu:
-  main:
-    weight: 1
 
 ---
 
