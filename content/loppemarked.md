@@ -1,5 +1,5 @@
 ---
-title: "Loppemarked 21-22. sept."
+title: "Loppemarked våren 2025."
 
 featured: true
 excludeFirstPage: true
@@ -19,22 +19,21 @@ menu:
 
 ---
 
-## Loppemarked 21. og 22. september 2024
+## Neste loppemarked 5-6. april 2025
 
 Snart er det loppemarked igjen! Vi tar imot lopper hver onsdag kl 19-20 i vårt lager på Bogerud, inngang fra parkeringsplassen bak Kiwi.
 
 Loppemarkedet er 
 
-* lørdag 21. september kl 10-16
-* søndag 22. september kl 11-16
-* Auksjon begge dager kl 14-15, her selges de fineste loppene
+* lørdag 5. april kl 10-16
+* søndag 6. april kl 11-16
 
 ## Vi tar i mot
 
 Noen som har ryddet de siste ukene og har noe å gi bort? Godlia Trasop skolers musikkorps tar imot lopper hele året!
 
 Vi tar i mot lopper på vårt lager i [Stallerudveien 117](https://goo.gl/maps/ySm194Yt4MN2)
-hver onsdag kl 19:00 til 20:00, samt hver dag 9-12. september.
+hver onsdag kl 19:00 til 20:00.
 
 Det er også mulig å levere lopper direkte til Trasop skole fredag 20. september fra kl 18:00.
 
