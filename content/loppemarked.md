@@ -27,7 +27,7 @@ Loppemarkedet er
 Noen som har ryddet de siste ukene og har noe å gi bort? Godlia Trasop skolers musikkorps tar imot lopper hele året!
 
 Vi tar i mot lopper på vårt lager i [Stallerudveien 117](https://goo.gl/maps/ySm194Yt4MN2)
-hver onsdag kl 19:00 til 20:00.
+hver onsdag kl 19:00 til 20:00 til og med 27. november. I desember tar vi juleferie, men vi starter igjen 8. januar 2025.
 
 * Tekstil: klær, sko, vesker, gardiner, duker, tepper
 * Leker og sportsutstyr
