@@ -29,8 +29,8 @@ Sitemap:
 </tr>
 
 <tr><th>Styreleder</th>
-<td>Frode Villumstad<br>
-Tlf: 930 81 183<br>
+<td>Anne-Marie Korseberg Stokke<br>
+Tlf: 918 21 226<br>
 Epost {{<email leder>}}</td>
 </tr>
 
