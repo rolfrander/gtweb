@@ -1,8 +1,5 @@
 ---
 title: "Terminliste"
-menu:
-  main:
-    weight: 3
 
 description: Oppdatert 5. februar 2024
 forsidebilde: /images/kalender.jpg
@@ -27,30 +24,23 @@ Det er mulig å importere kalenderen inn i apple/iphone, google/android eller mi
 
 ## Høydepunkter fremover
 
-19.august
-: Første skoledag etter ferien, enetimer og samspill starter samme uke
+31.januar
+: Skolekonserter
 
-6.september
-: Ekstraøvelse før Oppsal gatefest
+1.-2.Mars
+: Seminar, bowling og pizza på kvelden lørdag.
 
-7.september
-: Oppsal gatefest
+22.Mars
+: Distriktsmesterskap
 
-21.-22. September
-: Loppemarked
+5.-6.april
+: [Loppemarked](/loppemarked)
 
-26.September
-: Kammerkonsert
+22.Mai
+: Skøyenkvelden
 
-18.-20. Oktober
-: Seminar på Godlia
-
-1.-3. November
-: Høstkonsert
-
-12.Desember
-: Juleavslutning
-
+27.Juni
+: Tur til Italia
 
 ## Øvetider
 
