@@ -12,7 +12,7 @@ Sitemap:
 
 menu:
   main:
-    weight: 1
+    weight: 10
 
 
 ---
@@ -28,29 +28,7 @@ Snart er det loppemarked igjen! Loppemarkedet er
 
 Vi tar imot lopper hver onsdag kl 19-20 i vårt lager på Bogerud, inngang fra parkeringsplassen bak Kiwi.
 
-Noen som har ryddet de siste ukene og har noe å gi bort? Godlia Trasop skolers musikkorps tar imot lopper hele året!
-
-Vi tar i mot lopper på vårt lager i [Stallerudveien 117](https://goo.gl/maps/ySm194Yt4MN2)
-hver onsdag kl 19:00 til 20:00 til og med 27. november. I desember tar vi juleferie, men vi starter igjen 8. januar 2025.
-
-* Tekstil: klær, sko, vesker, gardiner, duker, tepper
-* Leker og sportsutstyr
-* Bøker, tegneserier, dvd/cd/lp
-* Interiør: Kjøkkensaker, servise, glass, bestikk, blomsterpotter, vaser, lysestaker  etc. 
-* Små elektro (ikke store hvitevarer som kjøleskap etc.)
-* Små møbler
-
-Vi setter stor pris på at tingene er sortert i disse kategorier og at klær er ytterligere sortert etter: barn, dame, herre. 
-
-## Vi tar *ikke* i mot
-
-* Store eller veldig tunge møbler (sofa, spisebord, seksjoner)
-* Billy-hyller fra IKEA, eller andre bokhyller av lignende kvalitet
-* Madrasser, dyner, puter
-* Skarpe kniver (kjøkkenkniver)
-* Store hvitevarer (kjøleskap, frys, komfyr osv) 
-* Ødelagte ting
-* Leksikon
+Mer om det [her](/levere_lopper)
 
 ## Hvor er Loppemarkedet
 
