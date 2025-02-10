@@ -6,7 +6,7 @@ description: Hos oss får du god musikkundervisning, nye venner og mange hyggeli
 forsidebilde: /images/17mai2017-bredde.jpg
 bilde: /images/17mai2017-bredde.jpg
 
-featured: false
+featured: true
 excludeFirstPage: true
 
 Sitemap:
@@ -22,16 +22,23 @@ Vi tar i mot barn fra tredje trinn, altså de som begynner i tredje klasse til h
 
 Hvis du har spørsmål kan du sende epost til {{<email medlem>}}.
 
-Her kan du se og høre noen av instrumentene, når
-juniorkorpset spiller musikk fra dataspillet Brawl Stars -
-koronaversjon:
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/AOhvMPz6lYc?si=GbWFwaBCXIFd7QZO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<div class="video">
-<video controls>
-  <source src="../video/brawl_stars.mp4" type="video/mp4">
-</video>
-</div>
+## Innmelding
 
+Vi ønsker oss mange nye musikanter, så har *du* lyst til å spille i korps, trykk
+på knappen under.
+
+<ul class="actions special">
+<li>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSd66JkbuJ_aOmkb1Te8LYnNSy1814_fC3FWuuByGX_EbhrtXg/viewform" target="gt_innmelding" class="button large">
+trykk her for innmeldingsskjema
+</a>
+</li>
+</ul>
+
+Barnet meldes inn i Norges Musikkorps Forbund samtidig som det tas opp som
+medlem av Godlia/Trasop skolers musikkorps.
 
 
 ## Hvordan er det å gå i korps?
