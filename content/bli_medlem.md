@@ -1,7 +1,7 @@
 ---
 title: "Har du lyst til å spille i korps?"
 
-description: Hos oss får du god musikkundervisning, nye venner og mange hyggelige og spennende opplevelser. Opptak av nye medlemmer fra høsten 2025 starter straks.
+description: Hos oss får du god musikkundervisning, nye venner og mange hyggelige og spennende opplevelser. Opptak av nye medlemmer fra høsten 2025 har startet!
 
 forsidebilde: /images/17mai2017-bredde.jpg
 bilde: /images/17mai2017-bredde.jpg
@@ -13,12 +13,17 @@ Sitemap:
   Priority: 0.6
   ChangeFreq: yearly
 
+menu:
+  main:
+    weight: 10
+
+
 ---
 
 
-## Snart begynner registering av nye medlemmer
+## Registrering av nye medlemmer er åpen
 
-Vi tar i mot barn fra tredje trinn, altså de som begynner i tredje klasse til høsten. Selv om de fleste nye medlemmer går i 3. eller 4., er det aldri for sent å begynne, og eldre barn er selvsagt også velkommen. Det kommer et påmeldingsskjema her på nettsidene i løpet av våren. Påmeldingsfrist blir i begynnelsen av juni. Etter at påmeldingen er lukket vil vi fordele instrumenter. Vi gjør så godt vi kan for å gi alle barn et instrument de ønsker seg, men hvilke instrumenter som er tilgjengelig er avhengig av både hvilke instrumenter vi har på lager, kapasitet hos instruktører, og at korpset trenger en balanse mellom ulike instrumentgrupper.
+Vi tar i mot barn fra tredje trinn, altså de som begynner i tredje klasse til høsten. Selv om de fleste nye medlemmer går i 3. eller 4., er det aldri for sent å begynne, og eldre barn er selvsagt også velkommen. Det kommer et påmeldingsskjema her på nettsidene i løpet av våren. Etter at påmeldingen er lukket vil vi fordele instrumenter. Vi gjør så godt vi kan for å gi alle barn et instrument de ønsker seg, men hvilke instrumenter som er tilgjengelig er avhengig av både hvilke instrumenter vi har på lager, kapasitet hos instruktører, og at korpset trenger en balanse mellom ulike instrumentgrupper. Vi deler ikke ut slagverk (trommer) til aspiranter, men man kan velge det etter et år, når man begynner i juniorkorpset.
 
 Hvis du har spørsmål kan du sende epost til {{<email medlem>}}.
 

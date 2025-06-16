@@ -1,7 +1,7 @@
 ---
-title: "Loppemarked 5-6. april 2025. kl 10-16, 11-16"
+title: "Loppemarked 11.-12. oktober 2025"
 
-description: Loppemarkedet er korpsets viktigste inntektskilde. Det er kjent for å være trivelig og ryddig med et stort utvalg av klær og leker, bøker, kunst, finlopper, sport med mer - pluss cafe med pølser og burgere, drikke og kaker. Neste loppemarked er 5-6. april 2025, kl 10-16, 11-16
+description: Loppemarkedet er korpsets viktigste inntektskilde. Det er kjent for å være trivelig og ryddig med et stort utvalg av klær og leker, bøker, kunst, finlopper, sport med mer - pluss cafe med pølser og burgere, drikke og kaker. Neste loppemarked er 11.-12. oktober 2025, kl 10-16, 11-16
 
 forsidebilde: /images/loppemarked-23.jpg
 bilde: /images/loppemarked-23.jpg
@@ -10,20 +10,12 @@ Sitemap:
   Priority: 1.0
   ChangeFreq: monthly
 
-menu:
-  main:
-    weight: 10
-
 
 ---
 
-## Neste loppemarked 5-6. april 2025
+## Neste loppemarked er høsten 2025
 
-Snart er det loppemarked igjen! Loppemarkedet er 
-
-* lørdag 5. april kl 10-16
-* søndag 6. april kl 11-16
-
+Vårens loppemarked er over, neste loppemarked er 11.-12. oktober.
 ## Levering
 
 Vi tar imot lopper hver onsdag kl 19-20 i vårt lager på Bogerud, inngang fra parkeringsplassen bak Kiwi.
