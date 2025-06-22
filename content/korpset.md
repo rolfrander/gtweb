@@ -26,15 +26,9 @@ Godlia/Trasop skolers musikkorps er medlem av
 
 ## Støtte
 
-Sesongen 23-24 har vi fått støtte fra:
-
-* Obos til undervisning
-* Olav Thons Legat til uniformer
-* Oslo Kommune har gitt konsertstøtte
+Sesongen 25 har vi fått støtte fra Obos
 
 <img src="/images/obos_liggende.svg"      style="width: 150px; height: 50px; object-fit: contain;" alt="OBOS">
-<img src="/images/Oslo-logo-sort-RGB.svg" style="width: 150px; height: 50px; object-fit: cover;">
-<img src="/images/olav-thon-legat.svg"    style="height: 50px; background: #253373">
 
 Tusen takk!
 

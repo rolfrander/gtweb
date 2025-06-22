@@ -4,6 +4,10 @@ title: "Terminliste"
 description: Oppdatert 5. februar 2024
 forsidebilde: /images/kalender.jpg
 
+menu:
+  main:
+    weight: 30
+
 ---
 
 ## Detaljert kalender i "Tutti"
@@ -24,23 +28,10 @@ Det er mulig å importere kalenderen inn i apple/iphone, google/android eller mi
 
 ## Høydepunkter fremover
 
-31.januar
-: Skolekonserter
-
-1.-2.Mars
-: Seminar, bowling og pizza på kvelden lørdag.
-
-22.Mars
-: Distriktsmesterskap
-
-5.-6.april
-: [Loppemarked](/loppemarked)
-
-22.Mai
-: Skøyenkvelden
-
 27.Juni
 : Tur til Italia
+
+
 
 ## Øvetider
 
