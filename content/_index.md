@@ -19,7 +19,7 @@ Sitemap:
 
 ---
 
-Korpset er på tur til Italia, og dere kan følge deres eventyr og opplevelser på [tiktok](https://www.tiktok.com/@godliatrasopmusikkorps)
+Følg gjerne korpset på [tiktok](https://www.tiktok.com/@godliatrasopmusikkorps)
 
 Korpset består av 50 barn fordelt på aspirantkorps, juniorkorps og hovedkorps.
 Medlemmene kommer hovedsaklig fra naboskolene Godlia, Trasop og Skøyenåsen, men
