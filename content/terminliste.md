@@ -1,7 +1,7 @@
 ---
 title: "Terminliste"
 
-description: Oppdatert 5. februar 2024
+description: Oppdatert 6. august 2025
 forsidebilde: /images/kalender.jpg
 
 menu:
@@ -12,7 +12,7 @@ menu:
 
 ## Detaljert kalender i "Tutti"
 
-Tutti er NMF sin mobil-app for korpsdrift. Organisering av medlemsliste og all utsending av epost gjøres allerede i dette systemet. Fra høsten 2023 kommer også kalender/terminliste til å ligge i tutti. I kalenderen i tutti får du kun opp de aktiviteter som gjelder dine barn.
+Tutti er NMF sin mobil-app for korpsdrift. Organisering av medlemsliste og all utsending av epost gjøres allerede i dette systemet. I kalenderen i tutti får du kun opp de aktiviteter som gjelder dine barn.
 
 Alle tidspunkter i kalenderen gjelder når man skal være klar til å spille. Musikanter må møte i god tid før dette (typisk 15 minutter før, med mindre annen beskjed er gitt) for å ha tid til å pakke opp og gjøre seg klar.
 
@@ -28,9 +28,20 @@ Det er mulig å importere kalenderen inn i apple/iphone, google/android eller mi
 
 ## Høydepunkter fremover
 
-27.Juni
-: Tur til Italia
+21.august
+: Første sammspilløvelse etter sommerferien
 
+5.september
+: Mini-seminar (ekstraøvelse) før Oppsal gatefest
+
+6.september
+: Oppsal gatefest
+
+24-26.Oktober
+: Seminar og konsert
+
+11.desember
+: Juleavslutning
 
 
 ## Øvetider
