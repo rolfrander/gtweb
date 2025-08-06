@@ -1,7 +1,7 @@
 ---
 title: "Innlevering av lopper hver onsdag"
 
-description: Loppelageret har tatt sommerferie, men vi kommer tilbake til høsten.
+description: Vi tar imot lopper hver onsdag kl 19-20 i vårt lager på Bogerud, inngang fra parkeringsplassen bak Kiwi.
 
 forsidebilde: /images/loppelager.jpg
 bilde: /images/loppelager.jpg
@@ -14,8 +14,6 @@ Sitemap:
 ---
 
 ## Innlevering av lopper
-
-Vi tar imot lopper hver onsdag kl 19-20 i vårt lager på Bogerud, inngang fra parkeringsplassen bak Kiwi.
 
 Noen som har ryddet de siste ukene og har noe å gi bort? Godlia Trasop skolers musikkorps tar imot lopper hele året!
 
