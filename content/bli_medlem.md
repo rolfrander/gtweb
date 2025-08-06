@@ -13,10 +13,6 @@ Sitemap:
   Priority: 0.6
   ChangeFreq: yearly
 
-menu:
-  main:
-    weight: 10
-
 
 ---
 
