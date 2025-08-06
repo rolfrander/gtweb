@@ -31,6 +31,9 @@ Det er mulig å importere kalenderen inn i apple/iphone, google/android eller mi
 21.august
 : Første sammspilløvelse etter sommerferien
 
+28.august
+: Foreldremøte
+
 5.september
 : Mini-seminar (ekstraøvelse) før Oppsal gatefest
 
