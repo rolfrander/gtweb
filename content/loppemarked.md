@@ -16,18 +16,14 @@ menu:
 
 ---
 
-## Neste loppemarked er høsten 2025
+## Loppemarked 11. og 12. oktober
 
-Vårens loppemarked er over, neste loppemarked er 11.-12. oktober:
+Nå er det like før vi starter opp:
 
 * lørdag 10-16
 * søndag 11-16
 
-## Levering
-
-Vi tar imot lopper hver onsdag kl 19-20 i vårt lager på Bogerud, inngang fra parkeringsplassen bak Kiwi.
-
-Mer om det [her](/levere_lopper)
+Det blir auksjon i samlingssalen på lørdagen kl 13:00. Auksjonskatalog med objekter som selges finnes her: https://auksjon.godliatrasop.no
 
 ## Hvor er Loppemarkedet
 
@@ -36,6 +32,13 @@ Mer om det [her](/levere_lopper)
 <div class="image">
 <a href="../images/loppemarked_kart.png"><img style="width: 100%" src="../images/loppemarked_kart.png"></a>
 </div>
+
+* rom 1-4: tekstiler, klær og sko
+* rom 9 og 10 musikk og tegneserier
+* rom 12 elektro
+* rom 13 og 14 leker
+* gymsalen: bøker, kjøkkenutstyr, jul
+* samlingssalen: cafe og auksjon
 
 ### Veibeskrivelse fra Tveita
 
