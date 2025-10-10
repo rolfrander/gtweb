@@ -23,7 +23,9 @@ Nå er det like før vi starter opp:
 * lørdag 10-16
 * søndag 11-16
 
-Det blir auksjon i samlingssalen på lørdagen kl 13:00. Auksjonskatalog med objekter som selges finnes her: https://auksjon.godliatrasop.no
+<span style="font-size: xx-large">Det blir auksjon i samlingssalen på lørdagen kl 13:00. </span>
+
+Auksjonskatalog med objekter som selges finnes her: https://auksjon.godliatrasop.no
 
 ## Hvor er Loppemarkedet
 
@@ -33,10 +35,11 @@ Det blir auksjon i samlingssalen på lørdagen kl 13:00. Auksjonskatalog med obj
 <a href="../images/loppemarked_kart.png"><img style="width: 100%" src="../images/loppemarked_kart.png"></a>
 </div>
 
-* rom 1-4: tekstiler, klær og sko
-* rom 9 og 10 musikk og tegneserier
-* rom 12 elektro
-* rom 13 og 14 leker
+* rom 1-2: klær
+* rom 3-4: sko og vesker
+* rom 9 musikk og tegneserier
+* rom 13 elektro
+* rom 14 leker
 * gymsalen: bøker, kjøkkenutstyr, jul
 * samlingssalen: cafe og auksjon
 
