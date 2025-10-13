@@ -9,6 +9,10 @@ Sitemap:
   Priority: 0.2
   ChangeFreq: yearly
 
+menu:
+  main:
+    weight: 40
+
 ---
 
 Har du spørsmål om øvelser eller konserter, ta kontakt med dirigentene.
@@ -59,5 +63,5 @@ at hver enkelt tar godt vare på instrumentet sitt. Vi har samlet gode råd om i
 i et [dokument du kan lese her](/Vedlikehold_instrumenter_GT.pdf).
 
 ## Kontakt
-For spørsmål om instrumenter eller uniformer, kontakt materialforvalter, Jelena:
+For spørsmål om instrumenter eller uniformer, kontakt materialforvalter:
 {{<email instrument>}}
