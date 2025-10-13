@@ -10,6 +10,9 @@ Sitemap:
   Priority: 1.0
   ChangeFreq: monthly
 
+featured: false
+excludeFirstPage: true
+
 ---
 
 ## Innlevering av lopper
