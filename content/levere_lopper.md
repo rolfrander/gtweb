@@ -10,8 +10,10 @@ Sitemap:
   Priority: 1.0
   ChangeFreq: monthly
 
-featured: false
-excludeFirstPage: true
+menu:
+  main:
+    weight: 10
+
 draft: true
 
 ---
