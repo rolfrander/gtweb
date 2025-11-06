@@ -12,6 +12,7 @@ Sitemap:
 
 featured: false
 excludeFirstPage: true
+draft: true
 
 ---
 
