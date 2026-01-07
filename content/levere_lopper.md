@@ -1,7 +1,7 @@
 ---
 title: "Innlevering av lopper hver onsdag"
 
-description: Vi tar imot lopper hver onsdag kl 19-20 i vårt lager på Bogerud, inngang fra parkeringsplassen bak Kiwi.
+description: Nå er loppelageret åpent igjen! Vi tar imot lopper hver onsdag kl 19-20 i vårt lager på Bogerud, inngang fra parkeringsplassen bak Kiwi.
 
 forsidebilde: /images/loppelager.jpg
 bilde: /images/loppelager.jpg
@@ -13,8 +13,6 @@ Sitemap:
 menu:
   main:
     weight: 10
-
-draft: true
 
 ---
 
