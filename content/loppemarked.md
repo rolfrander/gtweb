@@ -1,7 +1,7 @@
 ---
 title: "Loppemarked"
 
-description: Loppemarkedet er over for i høst, kommer tilbake igjen til våren. Loppemarkedet er korpsets viktigste inntektskilde. Det er kjent for å være trivelig og ryddig med et stort utvalg av klær og leker, bøker, kunst, finlopper, sport med mer - pluss cafe med pølser og burgere, drikke og kaker.
+description: Snart er det tid for nytt Loppemarked. Loppemarkedet er korpsets viktigste inntektskilde. Det er kjent for å være trivelig og ryddig med et stort utvalg av klær og leker, bøker, kunst, finlopper, sport med mer - pluss cafe med pølser og burgere, drikke og kaker. Vårens loppemarked 2026 er 18. og 19. mars.
 
 forsidebilde: /images/loppemarked-23.jpg
 bilde: /images/loppemarked-23.jpg
@@ -12,8 +12,13 @@ Sitemap:
 
 ---
 
-## Innlevering av lopper
+## Loppemarked 18. og 19. mars
 
-Loppeinnsamlingen har tatt høstferie, men starter igjen i januar.
+Snart er det loppemarked igjen
 
-Takk for at du støtter korpsarbeidet i nærmiljøet!
+* lørdag 10-16
+* søndag 11-16
+
+Det blir auksjon i samlingssalen på lørdagen kl 13:00.
+
+Vi har [innlevering av lopper](/levere_lopper/) hver onsdag kl 19 til 20.
