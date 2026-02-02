@@ -29,8 +29,8 @@ Det er mulig å importere kalenderen inn i apple/iphone, google/android eller mi
 ## Høydepunkter fremover
 
 6.-8. februar
-: DM-seminar på Gavelstad gjestegård (JK, HK). Det blir hentekonsert søndag etter lunsj.
-
+: DM-seminar på Gavelstad gjestegård (JK, HK). Det blir hentekonsert søndag etter lunsj. Det er 13 voksne (inkl. instruktører) og 51 musikanter som skal på tur. Avreise fra Godlia skole kl. 1600 fredag 6.februar. Hentekonsert søndag kl. 1500
+ 
 26.februar
 : Årsmøte og foreldremøte - innkalling kommer
 
