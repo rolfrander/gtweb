@@ -1,7 +1,7 @@
 ---
 title: "Terminliste"
 
-description: Oppdatert 6. august 2025
+description: Oppdatert 2. februar 2026
 forsidebilde: /images/kalender.jpg
 
 menu:
@@ -28,23 +28,50 @@ Det er mulig å importere kalenderen inn i apple/iphone, google/android eller mi
 
 ## Høydepunkter fremover
 
+6.-8. februar
+: DM-seminar på Gavelstad gjestegård (JK, HK). Det blir hentekonsert søndag etter lunsj.
+
+26.februar
+: Årsmøte og foreldremøte - innkalling kommer
+
+5.mars
+: Før-DM konsert (AK, JK, HK). HK og JK får en gjennomkjøring av sine DM-stykker og AK spiller også konsert! Sted annonseres senere.
+
+7.-8. mars
+: Distriktsmesterskap for skolekorps (JK, HK). Vi spiller enten lørdag eller søndag, JK i junior- og aspirantklassen på Kjenn skole, HK i 3. divisjon på Lørenskog hus. Spilletider offentliggjøres 9. februar (HK har ønsket seg spilletid søndag, men det er ikke garantert). Sørg for at uniformen er klar i god tid.
+
+9.april
+: Vårkonsert med NyNorsk Messingkvintett (sannsynligvis alle). Et kort samarbeidsprosjekt med et profesjonelt ensemble avsluttes med felles konsert. Sted annonseres senere.
+
+18.-19. april
+: Loppemarked - sett av langhelgen!
+
+10.mai
+: Marsj-seminar (AK, JK, HK) - vi øver på marsjering
+
+15.mai
+: Skoletog på Trasop og Godlia skole (AK, JK, HK)
+
+17.mai
+: Flaggheising, barnetog, borgertog (AK, JK, HK)
+
+21.mai
+: Skøyenkvelden (AK, JK, HK) - ikke bekreftet!
+
+6.juni
+: Korpsfest Oslo (AK, JK, HK) - parade og kanskje konsert
+
+20.juni
+: Aspirant-tur til Tusenfryd (AK) - wheeee!
+
+21.juni
+: Sommeravslutning og avskjedskonsert (AK, JK, HK) - vi samles før avreise til Gøteborg
+
+21.-25. juni
+: Sommertur til Gøteborg (JK, HK) - jättebra!
+
 21.august
 : Første sammspilløvelse etter sommerferien
-
-28.august
-: Foreldremøte
-
-5.september
-: Mini-seminar (ekstraøvelse) før Oppsal gatefest
-
-6.september
-: Oppsal gatefest
-
-24-26.Oktober
-: Seminar og konsert
-
-11.desember
-: Juleavslutning
 
 
 ## Øvetider
