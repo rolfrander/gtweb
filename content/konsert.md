@@ -7,6 +7,12 @@ bilde: /images/kaninhullet.jpg
 
 featured: true
 excludeFirstPage: false
+
+menu:
+  main:
+    weight: 5
+
+
 ---
 
 Familiekonsert med NyNorsk Messingkvintett og Godlia/Trasop skolekorps passer for barn fra 6 år og oppover. Marmorsalen 7.4. Kl 18.30. Musikk av Fjellregionen Komponistforening m.fl.
