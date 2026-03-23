@@ -6,7 +6,7 @@ forsidebilde: /images/kaninhullet.jpg
 bilde: /images/kaninhullet.jpg
 
 featured: true
-excludeFirstPage: false
+excludeFirstPage: true
 
 menu:
   main:
