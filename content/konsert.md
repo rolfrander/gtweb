@@ -1,5 +1,5 @@
 ---
-title: "Neste konsert: Juleavslutning"
+title: "Neste konsert: Ned i kaninhullet"
 
 description: Ned i kaninhullet med Nynorsk Messingkvintett, 7. april, Sentralen
 forsidebilde: /images/kaninhullet.jpg
