@@ -19,12 +19,13 @@ Noen som har ryddet de siste ukene og har noe å gi bort? Godlia Trasop skolers 
 Vi er igang igjen etter juleferien med mottak av lopper på vårt lager i [Stallerudveien 117](https://goo.gl/maps/ySm194Yt4MN2)
 hver onsdag kl 19:00 til 20:00.
 
-Legg merke til:
+Innlevering frem mot [loppemarkedet](/loppemarked) 18-19 april:
 
-* Onsdag 1. april tar vi påskeferie og lageret er stengt
-* Tirsdag 14. april har vi en ekstra åpningsdag
-* Loppemarkedet er 18-19 april. Se [her](/loppemarked) for detaljer.
-* Etter loppemarkedet åpner lageret igjen 29. april og hver onsdag til og med 17. juni
+* onsdag 8. april, kl 19-20
+* tirsdag 14. april, kl 19-20
+* onsdag 15. april, kl 19-20
+
+Etter loppemarkedet åpner lageret igjen 29. april og hver onsdag til og med 17. juni
 
 Vi tar imot:
 
