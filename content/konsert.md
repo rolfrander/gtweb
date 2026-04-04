@@ -1,7 +1,7 @@
 ---
-title: "Neste konsert: Ned i kaninhullet"
+title: "Ned i kaninhullet"
 
-description: Ned i kaninhullet med Nynorsk Messingkvintett, 7. april, Sentralen
+description: Neste konsert: Ned i kaninhullet med Nynorsk Messingkvintett, 7. april, Sentralen
 forsidebilde: /images/kaninhullet.jpg
 bilde: /images/kaninhullet.jpg
 
