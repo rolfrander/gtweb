@@ -1,5 +1,5 @@
 ---
-title: "Ned i kaninhullet"
+title: "17. mai og marsj-sesong"
 
 description: "Konserten har vært, nå er det marsj-sesong, vi ses 17. mai"
 forsidebilde: /images/flagg_kjell_joran_hansen.jpg
