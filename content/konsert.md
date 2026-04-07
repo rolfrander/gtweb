@@ -1,9 +1,9 @@
 ---
 title: "Ned i kaninhullet"
 
-description: "Konserten har vært, nå er det marsj-sesjon, vi ses 17. mai"
-forsidebilde: /images/kaninhullet.jpg
-bilde: /images/kaninhullet.jpg
+description: "Konserten har vært, nå er det marsj-sesong, vi ses 17. mai"
+forsidebilde: /images/flagg_kjetil_joran_hansen.jpg
+bilde: /images/flagg_kjetil_joran_hansen.jpg
 
 featured: false
 excludeFirstPage: true
