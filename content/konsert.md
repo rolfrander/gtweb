@@ -5,13 +5,8 @@ description: "Neste konsert: Ned i kaninhullet med Nynorsk Messingkvintett, 7. a
 forsidebilde: /images/kaninhullet.jpg
 bilde: /images/kaninhullet.jpg
 
-featured: true
+featured: false
 excludeFirstPage: true
-
-menu:
-  main:
-    weight: 5
-
 
 ---
 
