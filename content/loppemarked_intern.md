@@ -9,7 +9,7 @@ sitemap:
 excludeFirstPage: true
 ---
 
-# Praktiske opplysninger til gjennomføring av loppemarked
+Praktiske opplysninger til gjennomføring av loppemarked
 
 ## Kart
 
