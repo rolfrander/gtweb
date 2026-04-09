@@ -28,21 +28,6 @@ Det er mulig å importere kalenderen inn i apple/iphone, google/android eller mi
 
 ## Høydepunkter fremover
 
-6.-8. februar
-: DM-seminar på Gavelstad gjestegård (JK, HK). Det blir hentekonsert søndag etter lunsj. Det er 13 voksne (inkl. instruktører) og 51 musikanter som skal på tur. Avreise fra Godlia skole kl. 1600 fredag 6.februar. Hentekonsert søndag kl. 1500
- 
-26.februar
-: Årsmøte og foreldremøte - innkalling kommer
-
-5.mars
-: Før-DM konsert i Haugerud Kirke kl 19:00. Vi får en førpremiere på DM-stykkene og en festforestilling fra aspirantene! Oppmøte: HK: 16.45, JK: 18.00.
-
-7.-8. mars
-: Distriktsmesterskap for skolekorps (JK, HK). Vi spiller enten lørdag eller søndag, JK i junior- og aspirantklassen på Kjenn skole, HK i 3. divisjon på Lørenskog hus. Spilletider offentliggjøres 9. februar (HK har ønsket seg spilletid søndag, men det er ikke garantert). Sørg for at uniformen er klar i god tid.
-
-9.april
-: Vårkonsert med NyNorsk Messingkvintett (sannsynligvis alle). Et kort samarbeidsprosjekt med et profesjonelt ensemble avsluttes med felles konsert. Sted annonseres senere.
-
 18.-19. april
 : Loppemarked - sett av langhelgen!
 
