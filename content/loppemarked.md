@@ -25,9 +25,8 @@ Snart er det loppemarked igjen
 
 Vi har [innlevering av lopper](/levere_lopper/) frem mot loppemarkedet:
 
-* onsdag 8. april
-* tirsdag 14. april
-* onsdag 15. april
+* tirsdag 14. april, kl 19-20
+* onsdag 15. april, kl 19-20
 
 
 ## Hvor er Loppemarkedet
