@@ -21,7 +21,9 @@ Praktiske opplysninger til gjennomføring av loppemarked
 
 * Gymsal: Bøker, klær, vesker, finlopper
 * Samlingssal: Cafe, Finlopper, Loddsalg
-* 1-2-3-4: Elektro
+* 1-2: Kjøkken
+* 3: Elektro
+* 4: Lager
 * 9: Tegneserier, film, musikk
 * 12: Tekstil
 * 13: Barneklær
