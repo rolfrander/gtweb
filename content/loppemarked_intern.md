@@ -25,6 +25,7 @@ Praktiske opplysninger til gjennomføring av loppemarked
 * 3: Elektro
 * 4: Lager
 * 9: Tegneserier, film, musikk
+* 10-11: lager
 * 12: Tekstil
 * 13: Barneklær
 * 14, 11: Leker
