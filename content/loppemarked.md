@@ -38,6 +38,17 @@ Vi har [innlevering av lopper](/levere_lopper/) frem mot loppemarkedet:
 <a href="../images/loppemarked_kart.png"><img style="width: 100%" src="../images/loppemarked_kart.png"></a>
 </div>
 
+* Gymsal: Bøker, klær, vesker, finlopper
+* Samlingssal: Cafe, Finlopper, Loddsalg
+* 1-2: Kjøkken
+* 3: Elektro
+* 9: Tegneserier, film, musikk
+* 12: Tekstil
+* 13: Barneklær
+* 14, 11: Leker
+* 15: Herreklær
+
+
 ### Veibeskrivelse fra Tveita
 
 Følg Ytre Ringvei/Hellerudveien i retning Oppsal, og ta til høyre i første
