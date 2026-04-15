@@ -23,11 +23,7 @@ Snart er det loppemarked igjen
 * lørdag 10-16
 * søndag 11-16
 
-Vi har [innlevering av lopper](/levere_lopper/) frem mot loppemarkedet:
-
-* tirsdag 14. april, kl 19-20
-* onsdag 15. april, kl 19-20
-
+Vi tar i mot lopper direkte til Trasop skole torsdag og fredag kl 18-20.
 
 ## Hvor er Loppemarkedet
 
@@ -37,8 +33,8 @@ Vi har [innlevering av lopper](/levere_lopper/) frem mot loppemarkedet:
 <a href="../images/loppemarked_kart.png"><img style="width: 100%" src="../images/loppemarked_kart.png"></a>
 </div>
 
-* Gymsal: Bøker, klær, vesker, finlopper
-* Samlingssal: Cafe, Finlopper, Loddsalg
+* Gymsal: Bøker, klær, vesker
+* Samlingssal: Cafe, finlopper, Loddsalg
 * 1-2: Kjøkken
 * 3: Elektro
 * 9: Tegneserier, film, musikk
