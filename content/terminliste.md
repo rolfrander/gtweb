@@ -28,23 +28,38 @@ Det er mulig å importere kalenderen inn i apple/iphone, google/android eller mi
 
 ## Høydepunkter fremover
 
-18.-19. april
-: Loppemarked - sett av langhelgen!
+Søndag 26. april
+: Gratis konsert med HMK Garden i Oslo konserthus. Påmelding innen i kveld i Tutti.
 
-10.mai
-: Marsj-seminar (AK, JK, HK) - vi øver på marsjering
+Søndag 10. mai
+: Marsjseminar for alle med Cornelius, Leopold og Vemund. Antrekk: Vanlige klær. Kl 10-14.
 
-15.mai
-: Skoletog på Trasop og Godlia skole (AK, JK, HK)
+Torsdag 14. mai
+: FRI
 
-17.mai
-: Flaggheising, barnetog, borgertog (AK, JK, HK)
+Fredag 15. mai
+: Spille i småskole-toget til Trasop og Godlia. Husk å be om fri fra skolen. Meld fra i Tutti hvis du ikke har mulighet til å være med. Antrekk: Vanlige klær. Oppmøte 11.00, ferdig ca 12.30.
 
-21.mai
-: Skøyenkvelden (AK, JK, HK) - ikke bekreftet!
+Søndag 17. mai
+: Flaggheising, barnetog og borgertog. Tidsplan og informasjon kommer så snart vi har rekkefølgen i barnetoget. Korpset får frokost på skolen etter flaggheising og kjører buss fra Trasop til sentrum og tilbake. Antrekk: Full uniform. Ca kl 07.45-16.00
 
-6.juni
-: Korpsfest Oslo (AK, JK, HK) - parade og kanskje konsert
+Torsdag 28. mai
+: Skøyenkvelden. Vi møter på Godlia og marsjerer derfra. Arrangement og konserter på Nordre Skøyen hovedgård. Antrekk: Full uniform. Ca kl 17-20. 
+
+Torsdag 4. juni
+: Vi spiller på Godlia skole sin sommerfest i løpet av kvelden (ellers vanlig øvelse).
+
+Lørdag 6. juni
+: Korpsfest Oslo. Parade opp Karl Johan, evt minikonsert et sted i byen. Antrekk: Full uniform. Ca 10-?
+
+Lørdag 6. juni
+: Foreldrefest! Invitasjon kommer
+
+Torsdag 11. juni
+: Konsert for HK sammen med Østensjø janitsjar og Østensjø skolekorps på Akershus Festning, Karpedammen. Tidspunkt er ikke satt.
+
+Torsdag 18. juni
+: Øvelse + sommeravslutning med konsert og utdeling av stjerner og medaljer. Haugerud eller Oppsal kirke. Ca 17-20.
 
 20.juni
 : Aspirant-tur til Tusenfryd (AK) - wheeee!
@@ -53,7 +68,7 @@ Det er mulig å importere kalenderen inn i apple/iphone, google/android eller mi
 : Sommeravslutning og avskjedskonsert (AK, JK, HK) - vi samles før avreise til Gøteborg
 
 21.-25. juni
-: Sommertur til Gøteborg (JK, HK) - jättebra!
+: Sommertur til Gøteborg
 
 21.august
 : Første sammspilløvelse etter sommerferien
