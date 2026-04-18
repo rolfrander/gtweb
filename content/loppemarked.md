@@ -30,8 +30,8 @@ Vi holder åpent 11 til 16.
 <a href="../images/loppemarked_kart.png"><img style="width: 100%" src="../images/loppemarked_kart.png"></a>
 </div>
 
-* Gymsal: Bøker, klær, vesker, finlopper
-* Samlingssal: Cafe, Finlopper, Loddsalg
+* Gymsal: Bøker, klær, vesker
+* Samlingssal: Cafe, finlopper, Loddsalg
 * 1-2: Kjøkken
 * 3: Elektro
 * 9: Tegneserier, film, musikk
