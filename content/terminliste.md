@@ -28,9 +28,6 @@ Det er mulig å importere kalenderen inn i apple/iphone, google/android eller mi
 
 ## Høydepunkter fremover
 
-Søndag 26. april
-: Gratis konsert med HMK Garden i Oslo konserthus. Påmelding innen i kveld i Tutti.
-
 Søndag 10. mai
 : Marsjseminar for alle med Cornelius, Leopold og Vemund. Antrekk: Vanlige klær. Kl 10-14.
 
