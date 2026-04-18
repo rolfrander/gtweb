@@ -16,18 +16,11 @@ menu:
 
 ---
 
-## Loppemarked 18. og 19. april
+## Fortsatt loppehelg, innspurt 19. april
 
-Snart er det loppemarked igjen
+Søndag 19. april sier yr at du med god samvittighet kan holde deg inne og nyte en kopp kaffe og et kakestykke. Du får både dette og gode tilbud på siste dag av vårens loppemarked.
 
-* lørdag 10-16
-* søndag 11-16
-
-Vi har [innlevering av lopper](/levere_lopper/) frem mot loppemarkedet:
-
-* tirsdag 14. april, kl 19-20
-* onsdag 15. april, kl 19-20
-
+Vi holder åpent 11 til 16.
 
 ## Hvor er Loppemarkedet
 
