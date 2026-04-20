@@ -61,9 +61,6 @@ Torsdag 18. juni
 20.juni
 : Aspirant-tur til Tusenfryd (AK) - wheeee!
 
-21.juni
-: Sommeravslutning og avskjedskonsert (AK, JK, HK) - vi samles før avreise til Gøteborg
-
 21.-25. juni
 : Sommertur til Gøteborg
 
