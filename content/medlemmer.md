@@ -26,35 +26,29 @@ fraværet spilletimer, gir du beskjed direkte til spillelæreren.
 Korpsets foreldre deltar i en vaktordning på torsdagenes samspill.
 
 ## Uniformer
+
+### For alle
+- Uniformsbukse
+- Svarte sokker - fra din egen garderobe
+- Svarte sko (ikke sandaler) - fra din egen garderobe
+- Hvite hansker ved behov
+
 ### Hovedkorpset
 - Båtlue med dusk
 - Hvit skjorte - fra din egen garderobe
 - Mørkt ensfarget slips - følger med uniformen
 - Uniformsjakke
-- Uniformsbukse
-- Svarte sokker - fra din egen garderobe
-- Svarte sko (ikke sandaler) - fra din egen garderobe
-- Hvite hansker
 
 ### Juniorkorps
 - Båtlue med dusk
 - Hvit skjorte - fra din egen garderobe
 - Mørkt ensfarget slips - følger med uniformen
 - Korpsgenser
-- Uniformsbukse
-- Svarte sokker - fra din egen garderobe
-- Svarte sko (ikke sandaler) - fra din egen garderobe
-- Hvite hansker
 
 ### Aspirantkorps
 - Caps - med stjernene i første feltet til venstre for emblemet (sett forfra)
-- Hvit skjorte - fra din egen garderobe
-- Mørkt ensfarget slips - Følger med uniformen
+- Hvit piquet-skjorte med korpslogo
 - Korpsgenser
-- Korpsbukse
-- Svarte sokker - fra din egen garderobe
-- Svarte sko (ikke sandaler) - fra din egen garderobe
-- Hvite hansker
 
 ## Instrumenter
 
