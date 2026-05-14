@@ -36,7 +36,7 @@ på knappen under.
 
 <ul class="actions special">
 <li>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSd66JkbuJ_aOmkb1Te8LYnNSy1814_fC3FWuuByGX_EbhrtXg/viewform" target="gt_innmelding" class="button large">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfDAU96SQEYzZE7g9NehGh1wMjoUO1MsRDbyIjJ9tlC7uwavg/viewform" target="gt_innmelding" class="button large">
 trykk her for innmeldingsskjema
 </a>
 </li>
