@@ -1,7 +1,7 @@
 ---
 title: "Terminliste"
 
-description: Oppdatert 2. februar 2026
+description: Oppdatert 4. juni 2026
 forsidebilde: /images/kalender.jpg
 
 menu:
@@ -28,17 +28,11 @@ Det er mulig å importere kalenderen inn i apple/iphone, google/android eller mi
 
 ## Høydepunkter fremover
 
-Torsdag 28. mai
-: Skøyenkvelden. Oppmøte kl 17 på Godlia skole med utpakket instrument. Vi marsjerer derfra. Aspiranter går uten instrument, men må få hjelp til å ta med instrumentet til arrangementet. Møt opp 16.45 hvis du mangler noe til uniformen. Full uniform.
-
-Torsdag 4. juni
-: HK spiller på Godlia skole sin sommerfest i løpet av kvelden (ellers vanlig øvelse). NB: Slagverkere må ta med instrument hjem til bruk på lørdag.
-
 Lørdag 6. juni
 : Korpsfest Oslo. Oppmøte kl 10:00 på Operaen med utpakket instrument, aspiranter er velkommen til å bli med, men marsjerer uten instrument. Full uniform.
 
 Lørdag 6. juni
-: FORELDREFEST! Husk å melde deg på innen onsdag 27/5.
+: FORELDREFEST!
 
 Torsdag 11. juni
 : Oppmøte kl 18.00 Karpedammen. 18.30: Konsert. Antrekk: Uniform. JK1: Øvelse utgår - men kom gjerne som publikum! AK: Vanlig øvelse - men kom gjerne som publikum etterpå!
