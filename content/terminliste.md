@@ -28,38 +28,26 @@ Det er mulig å importere kalenderen inn i apple/iphone, google/android eller mi
 
 ## Høydepunkter fremover
 
-Søndag 10. mai
-: Marsjseminar for alle med Cornelius, Leopold og Vemund. Antrekk: Vanlige klær. Kl 10-14.
-
-Torsdag 14. mai
-: FRI
-
-Fredag 15. mai
-: Spille i småskole-toget til Trasop og Godlia. Husk å be om fri fra skolen. Meld fra i Tutti hvis du ikke har mulighet til å være med. Antrekk: Vanlige klær. Oppmøte 11.00, ferdig ca 12.30.
-
-Søndag 17. mai
-: Flaggheising, barnetog og borgertog. Tidsplan og informasjon kommer så snart vi har rekkefølgen i barnetoget. Korpset får frokost på skolen etter flaggheising og kjører buss fra Trasop til sentrum og tilbake. Antrekk: Full uniform. Ca kl 07.45-16.00
-
 Torsdag 28. mai
-: Skøyenkvelden. Vi møter på Godlia og marsjerer derfra. Arrangement og konserter på Nordre Skøyen hovedgård. Antrekk: Full uniform. Ca kl 17-20. 
+: Skøyenkvelden. Oppmøte kl 17 på Godlia skole med utpakket instrument. Vi marsjerer derfra. Aspiranter går uten instrument, men må få hjelp til å ta med instrumentet til arrangementet. Møt opp 16.45 hvis du mangler noe til uniformen. Full uniform.
 
 Torsdag 4. juni
-: Vi spiller på Godlia skole sin sommerfest i løpet av kvelden (ellers vanlig øvelse).
+: HK spiller på Godlia skole sin sommerfest i løpet av kvelden (ellers vanlig øvelse). NB: Slagverkere må ta med instrument hjem til bruk på lørdag.
 
 Lørdag 6. juni
-: Korpsfest Oslo. Parade opp Karl Johan, evt minikonsert et sted i byen. Antrekk: Full uniform. Ca 10-?
+: Korpsfest Oslo. Oppmøte kl 10:00 på Operaen med utpakket instrument, aspiranter er velkommen til å bli med, men marsjerer uten instrument. Full uniform.
 
 Lørdag 6. juni
-: Foreldrefest! Invitasjon kommer
+: FORELDREFEST! Husk å melde deg på innen onsdag 27/5.
 
 Torsdag 11. juni
-: Konsert for HK sammen med Østensjø janitsjar og Østensjø skolekorps på Akershus Festning, Karpedammen. Tidspunkt er ikke satt.
+: Oppmøte kl 18.00 Karpedammen. 18.30: Konsert. Antrekk: Uniform. JK1: Øvelse utgår - men kom gjerne som publikum! AK: Vanlig øvelse - men kom gjerne som publikum etterpå!
 
 Torsdag 18. juni
-: Øvelse + sommeravslutning med konsert og utdeling av stjerner og medaljer. Haugerud eller Oppsal kirke. Ca 17-20.
+: Øvelse + sommeravslutning med konsert og utdeling av stjerner og medaljer. Haugerud kirke. Ca 17-20.
 
 20.juni
-: Aspirant-tur til Tusenfryd (AK) - wheeee!
+: Aspirant-tur til Tusenfryd (AK) - wheeee! (også for de som ikke skal være med til Gøteborg)
 
 21.-25. juni
 : Sommertur til Gøteborg
@@ -67,6 +55,7 @@ Torsdag 18. juni
 21.august
 : Første sammspilløvelse etter sommerferien
 
+Til slutt en viktig påminnelse: Når vi spiller utendørs SKAL regnfrakk og evt. regntrekk til instrumentet være med i veska, med mindre det er 0% fare for regn!
 
 ## Øvetider
 
