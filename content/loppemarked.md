@@ -3,8 +3,8 @@ title: "Loppemarked"
 
 description: Vårens loppemarked er over, vi ses igjen høsten 2026
 
-forsidebilde: /images/loppemarked-23.jpg
-bilde: /images/loppemarked-23.jpg
+forsidebilde: /images/loppemarked-korps.jpg
+bilde: /images/loppemarked-korps.jpg
 
 Sitemap:
   Priority: 1.0

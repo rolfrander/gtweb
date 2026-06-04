@@ -3,8 +3,8 @@ title: "Har du lyst til å spille i korps?"
 
 description: Hos oss får du god musikkundervisning, nye venner og mange hyggelige og spennende opplevelser. 
 
-forsidebilde: /images/17mai2017-bredde.jpg
-bilde: /images/17mai2017-bredde.jpg
+forsidebilde: /images/konsert-JK.jpg
+bilde: /images/konsert-JK.jpg
 
 featured: false
 excludeFirstPage: false

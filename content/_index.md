@@ -21,9 +21,13 @@ Sitemap:
 
 Følg gjerne korpset på [tiktok](https://www.tiktok.com/@godliatrasopmusikkorps)
 
-Korpset består av 50 barn fordelt på aspirantkorps, juniorkorps og hovedkorps.
+Korpset består av 80 barn fordelt på aspirantkorps, juniorkorps og hovedkorps.
 Medlemmene kommer hovedsaklig fra naboskolene Godlia, Trasop og Skøyenåsen, men
 vi tar også opp musikanter fra skoler i nærområdet som ikke har egne korps.
 
 Korpset hadde 40-årsjubileum i 2022, og har de siste årene hatt en gledelig
 vekst i antall musikanter.
+
+Sommeren 2026 reiser vi på tur til Gøteborg.
+
+
