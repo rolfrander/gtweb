@@ -11,7 +11,7 @@ Sitemap:
 
 menu:
   main:
-    weight: 40
+    weight: 10
 
 ---
 
