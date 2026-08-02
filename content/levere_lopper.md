@@ -1,7 +1,7 @@
 ---
 title: "Innlevering av lopper hver onsdag"
 
-description: Vi tar imot lopper hver onsdag kl 19-20 i vårt lager på Bogerud fra 29. april til 17. juni 2026, inngang fra parkeringsplassen bak Kiwi.
+description: Vi tar imot lopper hver onsdag kl 19-20 i vårt lager på Bogerud fra 12. august 2026, inngang fra parkeringsplassen bak Kiwi.
 
 forsidebilde: /images/loppelager.jpg
 bilde: /images/loppelager.jpg
@@ -12,9 +12,9 @@ Sitemap:
 
 ---
 
-## Innlevering av lopper våren 2026
+## Innlevering av lopper høsten 2026
 
-Vi tar i mot lopper på vårt lager i [Stallerudveien 117](https://goo.gl/maps/ySm194Yt4MN2). Etter loppemarkedet våren 2026 åpner lageret igjen 29. april og hver onsdag til og med 17. juni
+Vi tar i mot lopper på vårt lager i [Stallerudveien 117](https://goo.gl/maps/ySm194Yt4MN2). Loppelageret er åpent hver onsdag kl 19-20 fra og med 12. august.
 
 Vi tar imot:
 
