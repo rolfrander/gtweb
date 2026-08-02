@@ -9,10 +9,6 @@ Sitemap:
   Priority: 0.2
   ChangeFreq: yearly
 
-menu:
-  main:
-    weight: 10
-
 ---
 
 Har du spørsmål om øvelser eller konserter, ta kontakt med dirigentene.

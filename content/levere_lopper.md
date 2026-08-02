@@ -10,6 +10,10 @@ Sitemap:
   Priority: 1.0
   ChangeFreq: monthly
 
+menu:
+  main:
+    weight: 25
+
 ---
 
 ## Innlevering av lopper høsten 2026

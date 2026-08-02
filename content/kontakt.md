@@ -1,10 +1,6 @@
 ---
 title: "Kontakt oss"
 
-menu:
-  main:
-    weight: 100
-
 featured: false
 excludeFirstPage: false
 
