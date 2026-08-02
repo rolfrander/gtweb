@@ -3,8 +3,8 @@ title: "Loppemarked"
 
 description: Snart er det tid for nytt Loppemarked. Loppemarkedet er korpsets viktigste inntektskilde. Det er kjent for å være trivelig og ryddig med et stort utvalg av klær og leker, bøker, kunst, finlopper, sport med mer - pluss cafe med pølser og burgere, drikke og kaker. Høstens loppemarked 2026 er 10.-11. oktober.
 
-forsidebilde: /images/loppemarked-23.jpg
-bilde: /images/loppemarked-23.jpg
+forsidebilde: /images/loppemarked-korps.jpg
+bilde: /images/loppemarked-korps.jpg
 
 featured: true
 excludeFirstPage: true
