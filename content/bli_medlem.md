@@ -16,13 +16,11 @@ Sitemap:
 
 ---
 
-## Opptak av nye medlemmer fra mai 2027
-
-Nå har vi ikke mulighet til å ta opp nye medlemmer, men det kommer nytt opptak til våren.
+## Opptak av nye medlemmer
 
 Vi tar i mot barn fra tredje trinn, altså de som begynner i tredje klasse til høsten. Selv om de fleste nye medlemmer går i 3. eller 4., er det aldri for sent å begynne, og eldre barn er selvsagt også velkommen. Det kommer et påmeldingsskjema her på nettsidene i løpet av våren. Etter at påmeldingen er lukket vil vi fordele instrumenter. Vi gjør så godt vi kan for å gi alle barn et instrument de ønsker seg, men hvilke instrumenter som er tilgjengelig er avhengig av både hvilke instrumenter vi har på lager, kapasitet hos instruktører, og at korpset trenger en balanse mellom ulike instrumentgrupper. Vi deler ikke ut slagverk (trommer) til aspiranter, men man kan velge det etter et år, når man begynner i juniorkorpset.
 
-Hvis du har spørsmål kan du sende epost til {{<email medlem>}}.
+Det er fortsatt plass til noen flere aspiranter for sesongen 26-27. Hvis du har spørsmål kan du sende epost til {{<email medlem>}}.
 
 <iframe width="100%" height="400px" src="https://www.youtube.com/embed/AOhvMPz6lYc?si=GbWFwaBCXIFd7QZO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
