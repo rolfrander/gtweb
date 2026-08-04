@@ -1,7 +1,7 @@
 ---
 title: "Har du lyst til å spille i korps?"
 
-description: Hos oss får du god musikkundervisning, nye venner og mange hyggelige og spennende opplevelser. Vi har dessverre ikke mulighet til å ta opp flere medlemmer denne sesongen, nytt opptak kommer mai 2027.
+description: Hos oss får du god musikkundervisning, nye venner og mange hyggelige og spennende opplevelser. Det er fortsatt plass til noen flere aspiranter i årets opptak.
 
 forsidebilde: /images/konsert-JK.jpg
 bilde: /images/konsert-JK.jpg
