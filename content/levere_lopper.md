@@ -20,6 +20,8 @@ menu:
 
 Vi tar i mot lopper på vårt lager i [Stallerudveien 117](https://goo.gl/maps/ySm194Yt4MN2). Loppelageret er åpent hver onsdag kl 19-20 fra og med 12. august.
 
+Uken det er loppemarked har vi dessuten en ekstra åpningsdag: tirsdag 6. oktober kl 19-20. Det vil også være mulig å levere lopper direkte til trasop skole fredag 9. oktober mellom kl 18 og 21.
+
 Vi tar imot:
 
 * Tekstil: klær, sko, vesker, gardiner, duker, tepper

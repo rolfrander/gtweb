@@ -19,16 +19,16 @@ Praktiske opplysninger til gjennomføring av loppemarked
 
 <span style="font-size: large; font-weight:900; border: 1px solid red">Røde linjer er ankomst for brannvesenet, må være åpne!!</span>
 
-* Gymsal: Bøker, klær, vesker
-* Samlingssal: Cafe, finlopper, Loddsalg
+* Gymsal: bøker, tegneserier/film/musikk og dameklær
+* Samlingssal: Kafé, auksjon
 * 1-2: Kjøkken
-* 3: Elektro
+* 3: Finlopper
 * 4: Lager
-* 9: Tegneserier, film, musikk
+* 9: Barneklær
 * 10-11: lager
-* 12: Tekstil
-* 13: Barneklær
-* 14, 11: Leker
+* 12: Elektro
+* 13: Tekstil
+* 14, samt 11 (ute): Leker
 * 15: Herreklær
 
 ## Kart som publiseres eksternt

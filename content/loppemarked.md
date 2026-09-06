@@ -26,8 +26,9 @@ Snart er det loppemarked igjen
 
 * lørdag 10-16
 * søndag 11-16
+  * auksjon: søndag kl 13:00
 
-Vi har [innlevering av lopper](/levere_lopper/) hver onsdag frem mot loppemarkedet.
+Vi har [innlevering av lopper](/levere_lopper/) hver onsdag kl 19-20 frem mot loppemarkedet. Det er også en ekstra dag med innlevering tirsdag 6. oktober.
 
 ## Hvor er Loppemarkedet
 
@@ -37,16 +38,15 @@ Vi har [innlevering av lopper](/levere_lopper/) hver onsdag frem mot loppemarked
 <a href="../images/loppemarked_kart.png"><img style="width: 100%" src="../images/loppemarked_kart.png"></a>
 </div>
 
-* Gymsal: Bøker, klær, vesker, finlopper
-* Samlingssal: Cafe, Finlopper, Loddsalg
+* Gymsal: bøker, tegneserier/film/musikk og dameklær
+* Samlingssal: Kafé, auksjon
 * 1-2: Kjøkken
-* 3: Elektro
-* 9: Tegneserier, film, musikk
-* 12: Tekstil
-* 13: Barneklær
-* 14, 11: Leker
+* 3: Finlopper
+* 9: Barneklær
+* 12: Elektro
+* 13: Tekstil
+* 14, samt 11 (ute): Leker
 * 15: Herreklær
-
 
 ### Veibeskrivelse fra Tveita
 
