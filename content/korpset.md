@@ -31,7 +31,8 @@ Sesongen 2026 har vi fått støtte fra:
 * Obos
 * Olav Thons legat
 * Sparebankstiftelsen
-<div style="display: flex; justify-content: space-between;">
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly; gap: 1rem; ">
 <img src="/images/color_line_logo_horizontal.svg" style="width: 150px; height: 50px; object-fit: contain;" alt="Color Line">
 <img src="/images/obos_liggende.svg"              style="width: 150px; height: 50px; object-fit: contain;" alt="OBOS">
 <img src="/images/OlavThonsLegat_gull.svg"        style="width: 150px; height: 50px; object-fit: contain;" alt="Olav Thons Legat">
