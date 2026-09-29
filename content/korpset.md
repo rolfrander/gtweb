@@ -26,9 +26,17 @@ Godlia/Trasop skolers musikkorps er medlem av
 
 ## Støtte
 
-Sesongen 25 har vi fått støtte fra Obos
-
-<img src="/images/obos_liggende.svg"      style="width: 150px; height: 50px; object-fit: contain;" alt="OBOS">
+Sesongen 2026 har vi fått støtte fra:
+* Color Line
+* Obos
+* Olav Thons legat
+* Sparebankstiftelsen
+<div style="display: flex; justify-content: space-between;">
+<img src="/images/color_line_logo_horizontal.svg" style="width: 150px; height: 50px; object-fit: contain;" alt="Color Line">
+<img src="/images/obos_liggende.svg"              style="width: 150px; height: 50px; object-fit: contain;" alt="OBOS">
+<img src="/images/OlavThonsLegat_gull.svg"        style="width: 150px; height: 50px; object-fit: contain;" alt="Olav Thons Legat">
+<img src="/images/sbs-logo-dark.png"              style="width: 150px; height: 50px; object-fit: contain;" alt="Sparebankstiftelsen">
+</div>
 
 Tusen takk!
 
