@@ -28,23 +28,20 @@ Det er mulig å importere kalenderen inn i apple/iphone, google/android eller mi
 
 ## Høydepunkter fremover
 
-12.&nbsp;august
-: første åpning av [loppelageret](/levere_lopper) for høsten
-
-21.&nbsp;august
-: Første sammspilløvelse etter sommerferien
-
-13.&nbsp;september
-: tusenfrydstevnet
-
-10.&nbsp;-&nbsp;11.&nbsp;oktober
-: loppemarked
-
-30.&nbsp;oktober til 1.&nbsp;november
-: seminar og konsert
-
 17.&nbsp;desember
 : juleavslutning
+
+7.&nbsp;januar 2026
+: første samspill etter juleferien
+
+5.&nbsp;-7. februar
+: seminar med overnatting
+
+10.&nbsp;-11. april
+: distriktsmesterskap på Lørenskog
+
+2.&nbsp;mai
+: marsjøvelse
 
 Til slutt en viktig påminnelse: Når vi spiller utendørs SKAL regnfrakk og evt. regntrekk til instrumentet være med i veska, med mindre det er 0% fare for regn!
 
