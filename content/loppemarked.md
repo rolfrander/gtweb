@@ -6,7 +6,7 @@ description: Snart er det tid for nytt Loppemarked. Loppemarkedet er korpsets vi
 forsidebilde: /images/loppemarked-korps.jpg
 bilde: /images/loppemarked-korps.jpg
 
-featured: true
+featured: false
 excludeFirstPage: true
 
 
@@ -14,21 +14,13 @@ Sitemap:
   Priority: 1.0
   ChangeFreq: monthly
 
-menu:
-  main:
-    weight: 20
-
 ---
 
-## Loppemarked 10. og 11. oktober
+## Neste loppemarked er våren 2027
 
-Snart er det loppemarked igjen
+Loppemarkedet er over for i høst, neste loppemarked er våren 2027.
 
-* lørdag 10-16
-* søndag 11-16
-  * auksjon: søndag kl 13:00
-
-Vi har [innlevering av lopper](/levere_lopper/) hver onsdag kl 19-20 frem mot loppemarkedet. Det er også en ekstra dag med innlevering tirsdag 6. oktober.
+Men vi har fortsatt [innlevering av lopper](/levere_lopper/) hver onsdag kl 19-20 frem mot loppemarkedet.
 
 ## Hvor er Loppemarkedet
 

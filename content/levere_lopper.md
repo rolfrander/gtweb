@@ -1,7 +1,7 @@
 ---
 title: "Innlevering av lopper hver onsdag"
 
-description: Vi tar imot lopper hver onsdag kl 19-20 i vårt lager på Bogerud fra 12. august 2026, inngang fra parkeringsplassen bak Kiwi.
+description: Vi tar imot lopper hver onsdag kl 19-20 i vårt lager på Bogerud, inngang fra parkeringsplassen bak Kiwi.
 
 forsidebilde: /images/loppelager.jpg
 bilde: /images/loppelager.jpg
@@ -20,8 +20,6 @@ menu:
 
 Vi tar i mot lopper på vårt lager i [Stallerudveien 117](https://goo.gl/maps/ySm194Yt4MN2). Loppelageret er åpent hver onsdag kl 19-20 fra og med 12. august.
 
-Uken det er loppemarked har vi dessuten en ekstra åpningsdag: tirsdag 6. oktober kl 19-20. Det vil også være mulig å levere lopper direkte til trasop skole fredag 9. oktober mellom kl 18 og 21.
-
 Vi tar imot:
 
 * Tekstil: klær, sko, vesker, gardiner, duker, tepper
@@ -35,6 +33,7 @@ Vi setter stor pris på at tingene er sortert i disse kategorier og at klær er 
 
 ## Vi tar *ikke* i mot
 
+* Skrivere eller kopimaskiner
 * Store eller veldig tunge møbler (sofa, spisebord, seksjoner)
 * Billy-hyller fra IKEA, eller andre bokhyller av lignende kvalitet
 * Madrasser, dyner, puter
