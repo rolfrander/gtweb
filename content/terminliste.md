@@ -43,6 +43,10 @@ Det er mulig å importere kalenderen inn i apple/iphone, google/android eller mi
 2.&nbsp;mai
 : marsjøvelse
 
+17.&nbsp;mai
+: flaggheising, barnetog og borgertog
+
+
 Til slutt en viktig påminnelse: Når vi spiller utendørs SKAL regnfrakk og evt. regntrekk til instrumentet være med i veska, med mindre det er 0% fare for regn!
 
 ## Øvetider
@@ -54,9 +58,9 @@ De ulike korpsene øver på Godlia skole til faste tider hver **torsdag**. Musik
     <col span="1" style="width: 20%;">
     <col span="1" style="width: 80%;">
 </colgroup>
-<tr><th>Aspirantkorps</th><td>15:00-16:00</td>
-<tr><th>Juniorkorps</th>  <td>17:30-19:00</td>
-<tr><th>Hovedkorps</th>   <td>17:45-20:00</td>
+<tr><th>Aspirantkorps</th><td>15:00-16:15</td>
+<tr><th>Juniorkorps</th>  <td>16:15-18:00</td>
+<tr><th>Hovedkorps</th>   <td>18:15-20:45</td>
 </table>
 
 Alle musikanter har også enetimer med instrumentlærer, tidspunkter avtales direkte med hver enkelt.
