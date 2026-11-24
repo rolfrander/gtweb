@@ -1,7 +1,7 @@
 # Notekartotek – project summary
 
 ## What this is
-`Notekartotek.html` is a single standalone page (no external libraries, works offline) that shows a sheet-music
+`index.html` is a single standalone page (no external libraries, works offline) that shows a sheet-music
 catalogue ("notekartotek") as a searchable, filterable, sortable table. It was generated from
 `Notekartotek.csv` (UTF-8 with BOM, 11 columns, Norwegian headers). The data now lives **inside the HTML** and is
 maintained by hand there; the CSV is only the original source. Do not regenerate the HTML from the CSV without
@@ -9,7 +9,7 @@ asking, as that would overwrite hand edits.
 
 ## Files
 - `Notekartotek.csv`  – original export (845 data rows).
-- `Notekartotek.html` – the app: CSS, embedded JSON data, JavaScript.
+- `index.html` – the app: CSS, embedded JSON data, JavaScript.
 
 ## Data
 - Embedded in `<script id="data" type="application/json">`, one object per line, easy to edit by hand.
