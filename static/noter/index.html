@@ -30,7 +30,7 @@
   td.center { text-align:center; }
   tr.row { cursor:pointer; }
   tr.row.open { background:var(--hover); }
-  .chev { display:inline-block; width:1.1em; color:var(--muted); }
+  .star { color:var(--accent); font-weight:bold; }
   tr.detail td { background:var(--hover); padding:6px 8px 10px 30px; }
   tr.detail dl { display:flex; flex-wrap:wrap; gap:6px 32px; margin:0; }
   tr.detail dt { font-size:11px; color:var(--muted); text-transform:uppercase; letter-spacing:.03em; }
@@ -1090,9 +1090,9 @@ function render() {
   const terms = norm(state.query).split(/\s+/).filter(Boolean);
   tbody.innerHTML = rows.map((r, i) => {
     const open = expanded.has(r);
-    const main = `<tr class="row${open ? ' open' : ''}" data-i="${i}" tabindex="0" aria-expanded="${open}">` + VISIBLE.map((col, j) => {
+    const main = `<tr class="row${open ? ' open' : ''}" data-i="${i}" tabindex="0" aria-expanded="${open}">` + VISIBLE.map(col => {
       const cls = col.type === 'number' ? 'num' : col.type === 'bool' ? 'center' : '';
-      return `<td class="${cls}">${j === 0 ? '<span class="chev">' + (open ? '▾' : '▸') + '</span>' : ''}${highlight(cellText(col, r), terms)}</td>`;
+      return `<td class="${cls}">${highlight(cellText(col, r), terms)}${r.beskrivelse && (col.key === 'navn' || col.key === '_refNavn') ? ' <span class="star" title="Har intern beskrivelse">*</span>' : ''}</td>`;
     }).join('') + '</tr>';
     if (!open) return main;
     const detail = DETAILS.map(col => {
