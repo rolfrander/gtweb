@@ -30,6 +30,10 @@ asking, as that would overwrite hand edits.
 - Sort: click header (asc, desc, off); Shift+click adds secondary columns; Norwegian-aware, numeric-aware
   collation; empty values always last.
 - Rows expand/collapse on click or Enter/Space; open rows are tracked in a `WeakSet` and survive re-render.
+- Compact view: at width <= 640px (`matchMedia`, switches live) the table shows two merged virtual columns from
+  `COMPACT` ("Arkiv ref.: Navn", "Komponist / Arr"); Sjanger, Besetning and Grad move to the row detail view.
+  Merged columns filter on the joined text and sort on their parts in order (or `sortBy` if given: the ref/name column sorts by Navn, then Arkiv ref.). Filters/sorts on columns that are no
+  longer shown are dropped on switch. Export and global search always use the full `COLUMNS`.
 - Export: "Eksporter til Excel" builds a real `.xlsx` in the browser (hand-written minimal ZIP + SpreadsheetML,
   inline strings, bold frozen header, autofilter, column widths) from the currently filtered and sorted rows. It
   includes all columns, detail columns too.

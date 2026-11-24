@@ -36,6 +36,13 @@
   tr.detail dt { font-size:11px; color:var(--muted); text-transform:uppercase; letter-spacing:.03em; }
   tr.detail dd { margin:0; }
   tr.detail .empty { color:var(--muted); }
+  @media (max-width: 640px) {
+    body { padding:8px; }
+    th, td { padding:5px 6px; }
+    .wrap { max-height:calc(100vh - 150px); }
+    td { overflow-wrap:anywhere; }
+    #q { min-width:0; }
+  }
   .print-only { display:none; }
   @media print {
     body { padding:0; background:#fff; color:#000; font-size:10pt; }
@@ -935,8 +942,21 @@ const COLUMNS = [
   { key: 'sistEndret',  label: 'Sist endret',     type: 'date',   detail: true },
 ];
 // detail: true = not a table column; shown under the row when it is expanded (still searched and exported).
-const VISIBLE = COLUMNS.filter(c => !c.detail);
-const DETAILS = COLUMNS.filter(c => c.detail);
+// Compact (phone) view: two merged virtual columns; the other columns move to the detail view.
+const COMPACT = [
+  { key: '_refNavn',  label: 'Arkiv ref.: Navn', type: 'text', parts: ['arkivRef', 'navn'],     sep: ': ', sortBy: ['navn', 'arkivRef'] },
+  { key: '_kompArr',  label: 'Komponist / Arr',  type: 'text', parts: ['komponist', 'arr'],     sep: ' / ' },
+];
+const COMPACT_HIDDEN = ['sjanger', 'besetning', 'grad'];   // shown only in the detail view when compact
+const ALL = COLUMNS.concat(COMPACT);
+const colByKey = k => ALL.find(c => c.key === k);
+const phone = window.matchMedia('(max-width: 640px)');
+let VISIBLE, DETAILS;
+function setMode() {
+  VISIBLE = phone.matches ? COMPACT : COLUMNS.filter(c => !c.detail);
+  DETAILS = COLUMNS.filter(c => c.detail || (phone.matches && COMPACT_HIDDEN.includes(c.key)));
+}
+setMode();
 const expanded = new WeakSet();   // rows currently expanded
 
 const DATA = JSON.parse(document.getElementById('data').textContent);
@@ -952,6 +972,10 @@ const state = {
 // ---- Helpers ------------------------------------------------------------
 const norm = v => String(v ?? '').toLowerCase();
 const display = (col, v) => col.type === 'bool' ? (v === true ? 'Ja' : v === false ? 'Nei' : '') : String(v ?? '');
+// Text of a cell; virtual (merged) columns join their non-empty parts.
+const cellText = (col, row) => col.parts
+  ? col.parts.map(k => display(colByKey(k), row[k])).filter(Boolean).join(col.sep)
+  : display(col, row[col.key]);
 const escapeHtml = s => s.replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 
 function highlight(text, terms) {
@@ -971,10 +995,10 @@ function matches(row) {
     const hay = COLUMNS.map(c => norm(display(c, row[c.key]))).join('\n');
     if (!terms.every(t => hay.includes(t))) return false;
   }
-  for (const col of COLUMNS) {
+  for (const col of ALL) {
     const f = state.filters[col.key];
     if (!f) continue;
-    const v = display(col, row[col.key]);
+    const v = cellText(col, row);
     if (col.filter === 'select') {
       if (f === '\u0000empty') { if (v !== '') return false; }
       else if (v !== f) return false;
@@ -984,8 +1008,9 @@ function matches(row) {
 }
 
 function compare(a, b) {
-  for (const { key, dir } of state.sort) {
-    const col = COLUMNS.find(c => c.key === key);
+  for (const { key: skey, dir } of state.sort) {
+   for (const key of (colByKey(skey).sortBy || colByKey(skey).parts || [skey])) {
+    const col = colByKey(key);
     const x = a[key], y = b[key];
     const xe = x === '' || x == null, ye = y === '' || y == null;
     if (xe !== ye) return xe ? 1 : -1;          // empty values always last
@@ -994,6 +1019,7 @@ function compare(a, b) {
     else if (col.type === 'bool') r = Number(x) - Number(y);
     else r = collator.compare(String(x), String(y));   // dates are ISO strings
     if (r) return r * dir;
+   }
   }
   return 0;
 }
@@ -1020,7 +1046,7 @@ function buildHeader() {
     let el;
     if (col.filter === 'select') {
       el = document.createElement('select');
-      const values = [...new Set(DATA.map(r => display(col, r[col.key])))];
+      const values = [...new Set(DATA.map(r => cellText(col, r)))];
       const hasEmpty = values.includes('');
       const sorted = values.filter(v => v !== '').sort(collator.compare);
       el.append(new Option('(alle)', ''));
@@ -1042,7 +1068,7 @@ function buildHeader() {
 
 function updateSortArrows() {
   for (const th of labelsRow.children) {
-    const col = COLUMNS.find(c => c.key === th.dataset.key);
+    const col = colByKey(th.dataset.key);
     const i = state.sort.findIndex(s => s.key === col.key);
     const arrow = i < 0 ? '' : ` <span class="arrow">${state.sort[i].dir === 1 ? '▲' : '▼'}${state.sort.length > 1 ? i + 1 : ''}</span>`;
     th.innerHTML = escapeHtml(col.label) + arrow;
@@ -1066,7 +1092,7 @@ function render() {
     const open = expanded.has(r);
     const main = `<tr class="row${open ? ' open' : ''}" data-i="${i}" tabindex="0" aria-expanded="${open}">` + VISIBLE.map((col, j) => {
       const cls = col.type === 'number' ? 'num' : col.type === 'bool' ? 'center' : '';
-      return `<td class="${cls}">${j === 0 ? '<span class="chev">' + (open ? '▾' : '▸') + '</span>' : ''}${highlight(display(col, r[col.key]), terms)}</td>`;
+      return `<td class="${cls}">${j === 0 ? '<span class="chev">' + (open ? '▾' : '▸') + '</span>' : ''}${highlight(cellText(col, r), terms)}</td>`;
     }).join('') + '</tr>';
     if (!open) return main;
     const detail = DETAILS.map(col => {
@@ -1152,11 +1178,11 @@ function exportExcel() {
 function printTable() {
   const parts = [];
   if (state.query) parts.push(`søk: «${state.query}»`);
-  for (const col of COLUMNS) {
+  for (const col of ALL) {
     const f = state.filters[col.key];
     if (f) parts.push(`${col.label}: ${f === '\u0000empty' ? '(tom)' : f}`);
   }
-  if (state.sort.length) parts.push('sortert på ' + state.sort.map(s => COLUMNS.find(c => c.key === s.key).label + (s.dir === 1 ? ' ↑' : ' ↓')).join(', '));
+  if (state.sort.length) parts.push('sortert på ' + state.sort.map(s => colByKey(s.key).label + (s.dir === 1 ? ' ↑' : ' ↓')).join(', '));
   document.getElementById('printInfo').textContent =
     `${getRows().length} av ${DATA.length} noter · ${new Date().toLocaleDateString('nb')}` + (parts.length ? ' · ' + parts.join(' · ') : '');
   window.print();
@@ -1185,6 +1211,17 @@ document.getElementById('reset').addEventListener('click', () => {
   state.query = ''; state.filters = {}; state.sort = [];
   document.getElementById('q').value = '';
   document.querySelectorAll('tr.filters input, tr.filters select').forEach(el => el.value = '');
+  render();
+});
+
+// Switch between the full and the compact view when the screen size changes.
+phone.addEventListener('change', () => {
+  setMode();
+  const keep = new Set(VISIBLE.map(c => c.key));              // drop filters/sorts on columns that are no longer shown
+  for (const k of Object.keys(state.filters)) if (!keep.has(k)) delete state.filters[k];
+  state.sort = state.sort.filter(s => keep.has(s.key));
+  buildHeader();
+  document.documentElement.style.setProperty('--lh', labelsRow.offsetHeight + 'px');
   render();
 });
 
